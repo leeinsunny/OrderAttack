@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".auth.LoginActivity" android:tag="layout/activity_login_0">
+
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/orderattack_logo"
+            android:layout_width="380dp"
+            android:layout_height="380dp"/>
+
+        <EditText
+            android:id="@+id/emailareainlogin"
+            android:layout_gravity="center"
+            android:hint="아이디(이메일)"
+            android:gravity="left|center"
+            android:paddingLeft="20dp"
+            android:background="@drawable/boarder"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:layout_height="50dp"/>
+
+        <EditText
+            android:id="@+id/pwareainlogin"
+            android:layout_gravity="center"
+            android:hint="비밀번호"
+            android:gravity="left|center"
+            android:inputType="textPassword"
+            android:paddingLeft="20dp"
+            android:background="@drawable/boarder"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:layout_height="50dp"/>
+
+
+        <Button
+            android:id="@+id/loginBtninlogin"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/boarder"
+            android:gravity="center"
+            android:text="로그인"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
+         
