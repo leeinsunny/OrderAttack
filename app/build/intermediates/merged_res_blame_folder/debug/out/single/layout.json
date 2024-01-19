@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_intro.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_login.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_join.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_join.xml"
+    }
+]
