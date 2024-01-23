@@ -20,6 +20,7 @@ class JoinActivity : AppCompatActivity() {
 
     private lateinit var binding : ActivityJoinBinding
 
+
     // 밑에 "##_db"형식의 변수들은 realtime databse에 저장할 사용자의 정보들을 의미함
     private var name = ""
     private var phonenumber = ""
@@ -42,6 +43,7 @@ class JoinActivity : AppCompatActivity() {
             val email = binding.emailarea.text.toString()
             val password = binding.pwarea.text.toString()
             val passwordcheck = binding.pwcheckarea.text.toString()
+
             name = binding.namearea.text.toString()
             phonenumber = binding.phonenumarea.text.toString()
             birthdate = binding.birtharea.text.toString()
@@ -57,7 +59,9 @@ class JoinActivity : AppCompatActivity() {
                 isGoToJoin = false
             }
             if(passwordcheck.isEmpty()){
+
                 Toast.makeText(this,"비밀번호와 비밀번호 확인의 입력 값이 다릅니다",Toast.LENGTH_LONG).show()
+
                 isGoToJoin = false
             }
             if(name.isEmpty()){
@@ -87,6 +91,7 @@ class JoinActivity : AppCompatActivity() {
             }
 
             if(isGoToJoin){
+
                 auth.createUserWithEmailAndPassword(email,password).addOnCompleteListener(this) { task ->
                         if (task.isSuccessful) {
                             Toast.makeText(this,"회원가입 성공",Toast.LENGTH_LONG).show()
@@ -98,6 +103,7 @@ class JoinActivity : AppCompatActivity() {
 
                             FirebaseRef.userInfo.child(uid).setValue(userInfo)
                             val intent = Intent(this,MainActivity::class.java)
+
                             //회원가입 성공하고 main으로 넘어왔는데, 뒤로가기를 하면 회원가입페이지로 간다?
                             //이걸 막기위해서 flag를 사용했다! flag를 사용해서 main으로 넘어온뒤 뒤로가기하면 아예 어플이 종료되게끔
                             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
