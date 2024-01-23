@@ -6,6 +6,8 @@ import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import com.example.orderattack.R
 import com.example.orderattack.databinding.ActivityIntroBinding
+import com.google.firebase.auth.ktx.auth
+import com.google.firebase.ktx.Firebase
 
 class IntroActivity : AppCompatActivity() {
 

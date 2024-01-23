@@ -32,9 +32,13 @@ drawable profile_btn
 id birtharea
 id emailarea
 id emailareainlogin
+id gamestartinmain
+id gametutorialinmain
+id gohealinginmain
 id joinBtn
 id loginBtn_intro
 id loginBtninlogin
+id logoutinmain
 id namearea
 id pfphotoarea
 id phonenumarea

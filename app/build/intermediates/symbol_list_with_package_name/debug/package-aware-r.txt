@@ -2775,8 +2775,11 @@ id floating
 id forever
 id fragment_container_view_tag
 id frost
+id gamestartinmain
+id gametutorialinmain
 id ghost_view
 id ghost_view_holder
+id gohealinginmain
 id gone
 id graph
 id graph_wrap
@@ -2820,6 +2823,7 @@ id listMode
 id list_item
 id loginBtn_intro
 id loginBtninlogin
+id logoutinmain
 id masked
 id match_constraint
 id match_parent

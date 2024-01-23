@@ -9,6 +9,7 @@ import androidx.databinding.ViewDataBinding;
 import com.example.orderattack.databinding.ActivityIntroBindingImpl;
 import com.example.orderattack.databinding.ActivityJoinBindingImpl;
 import com.example.orderattack.databinding.ActivityLoginBindingImpl;
+import com.example.orderattack.databinding.ActivityMainBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -26,12 +27,15 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_ACTIVITYLOGIN = 3;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(3);
+  private static final int LAYOUT_ACTIVITYMAIN = 4;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(4);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_intro, LAYOUT_ACTIVITYINTRO);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_join, LAYOUT_ACTIVITYJOIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_login, LAYOUT_ACTIVITYLOGIN);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_main, LAYOUT_ACTIVITYMAIN);
   }
 
   @Override
@@ -60,6 +64,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new ActivityLoginBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for activity_login is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ACTIVITYMAIN: {
+          if ("layout/activity_main_0".equals(tag)) {
+            return new ActivityMainBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for activity_main is invalid. Received: " + tag);
         }
       }
     }
@@ -114,12 +124,13 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(3);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(4);
 
     static {
       sKeys.put("layout/activity_intro_0", com.example.orderattack.R.layout.activity_intro);
       sKeys.put("layout/activity_join_0", com.example.orderattack.R.layout.activity_join);
       sKeys.put("layout/activity_login_0", com.example.orderattack.R.layout.activity_login);
+      sKeys.put("layout/activity_main_0", com.example.orderattack.R.layout.activity_main);
     }
   }
 }
