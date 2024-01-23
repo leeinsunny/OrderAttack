@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout>
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -26,6 +27,7 @@
             android:id="@+id/emailareainlogin"
             android:layout_gravity="center"
             android:hint="아이디(이메일)"
+            android:textSize="20dp"
             android:gravity="left|center"
             android:paddingLeft="20dp"
             android:background="@drawable/boarder"
@@ -37,6 +39,7 @@
             android:id="@+id/pwareainlogin"
             android:layout_gravity="center"
             android:hint="비밀번호"
+            android:textSize="20dp"
             android:gravity="left|center"
             android:inputType="textPassword"
             android:paddingLeft="20dp"
@@ -49,12 +52,12 @@
         <Button
             android:id="@+id/loginBtninlogin"
             android:layout_width="match_parent"
-            android:layout_height="50dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:background="@drawable/boarder"
             android:gravity="center"
             android:text="로그인"
-            android:textSize="20dp"
+            android:textSize="25dp"
             android:layout_margin="10dp"
             android:textStyle="bold" />
 
