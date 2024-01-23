@@ -8,6 +8,8 @@ import androidx.databinding.DataBindingUtil
 import com.example.orderattack.MainActivity
 import com.example.orderattack.R
 import com.example.orderattack.databinding.ActivityJoinBinding
+import com.example.orderattack.utils.FirebaseAuthUtils
+import com.example.orderattack.utils.FirebaseRef
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
@@ -17,6 +19,13 @@ class JoinActivity : AppCompatActivity() {
     private lateinit var auth: FirebaseAuth
 
     private lateinit var binding : ActivityJoinBinding
+
+
+    // 밑에 "##_db"형식의 변수들은 realtime databse에 저장할 사용자의 정보들을 의미함
+    private var name = ""
+    private var phonenumber = ""
+    private var birthdate = ""
+    private var uid = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
@@ -34,9 +43,11 @@ class JoinActivity : AppCompatActivity() {
             val email = binding.emailarea.text.toString()
             val password = binding.pwarea.text.toString()
             val passwordcheck = binding.pwcheckarea.text.toString()
-            val name = binding.namearea.text.toString()
-            val phonenumber = binding.phonenumarea.text.toString()
-            val birthdate = binding.birtharea.text.toString()
+
+            name = binding.namearea.text.toString()
+            phonenumber = binding.phonenumarea.text.toString()
+            birthdate = binding.birtharea.text.toString()
+
 
             //Check the empty valye
             if(email.isEmpty()){
@@ -48,7 +59,9 @@ class JoinActivity : AppCompatActivity() {
                 isGoToJoin = false
             }
             if(passwordcheck.isEmpty()){
-                Toast.makeText(this,"비밀번호를 다시 한번 확인해주세요",Toast.LENGTH_LONG).show()
+
+                Toast.makeText(this,"비밀번호와 비밀번호 확인의 입력 값이 다릅니다",Toast.LENGTH_LONG).show()
+
                 isGoToJoin = false
             }
             if(name.isEmpty()){
@@ -78,11 +91,17 @@ class JoinActivity : AppCompatActivity() {
             }
 
             if(isGoToJoin){
-                auth.createUserWithEmailAndPassword(email,password)
-                    .addOnCompleteListener(this) { task ->
+
+                auth.createUserWithEmailAndPassword(email,password).addOnCompleteListener(this) { task ->
                         if (task.isSuccessful) {
                             Toast.makeText(this,"회원가입 성공",Toast.LENGTH_LONG).show()
 
+                            uid = FirebaseAuthUtils.getUid()
+                            val userInfo = UserInfo( uid , name, phonenumber, birthdate)
+                            //userInfo라는 Reference(root 기준 첫번째 자식 노드)의 자식 노드는 uid를 key값으로 갖고,
+                            // UserInfo라는 Data Class를 value로 갖는다.
+
+                            FirebaseRef.userInfo.child(uid).setValue(userInfo)
                             val intent = Intent(this,MainActivity::class.java)
 
                             //회원가입 성공하고 main으로 넘어왔는데, 뒤로가기를 하면 회원가입페이지로 간다?

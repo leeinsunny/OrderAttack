@@ -10,5 +10,9 @@
     {
         "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_join.xml",
         "source": "com.example.orderattack.app-main-43:/layout/activity_join.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_main.xml"
     }
 ]
