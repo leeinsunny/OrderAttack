@@ -1,18 +1,38 @@
 [
     {
-        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_intro.xml",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_intro.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-40:\\layout\\activity_join.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_join.xml"
     },
     {
-        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_login.xml",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_login.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-40:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_intro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_join.xml",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_join.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-40:\\layout\\activity_gameintro.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_gameintro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_main.xml",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_main.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_stage1intro.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_stage1intro.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_stage3intro.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_stage3intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-40:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activity_gameintro.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_gameintro.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-40:/layout/activitiy_stage2intro.xml",
+        "source": "com.example.orderattack.app-main-43:/layout/activitiy_stage2intro.xml"
     }
 ]

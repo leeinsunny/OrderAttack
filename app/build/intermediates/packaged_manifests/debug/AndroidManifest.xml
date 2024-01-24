@@ -56,6 +56,18 @@
         <activity
             android:name="com.example.orderattack.MainActivity"
             android:exported="true" />
+        <activity
+            android:name="com.example.orderattack.game.gameintro"
+            android:exported="false" />
+        <activity
+            android:name="com.example.orderattack.game.stage1_intro"
+            android:exported="false" />
+        <activity
+            android:name="com.example.orderattack.game.stage2_intro"
+            android:exported="false" />
+        <activity
+            android:name="com.example.orderattack.game.stage3_intro"
+            android:exported="false" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"
