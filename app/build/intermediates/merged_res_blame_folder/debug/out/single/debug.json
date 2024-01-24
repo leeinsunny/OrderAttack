@@ -1,134 +1,182 @@
 [
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_background_kio.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/background_kio.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_orderattack_logo.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\orderattack_logo.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_button_mov.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/button_mov.png"
+        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_stage3intro.xml.flat",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_stage3intro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.orderattack.app-merged_res-41:/drawable_mov_background.png.flat",
+        "source": "com.example.orderattack.app-main-43:/drawable/mov_background.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_join.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_join.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_boarder.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/boarder.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\layout_activity_gameintro.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_gameintro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_init_map.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/init_map.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_background_kio.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\background_kio.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_background_mov.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/background_mov.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_orderattack_logo.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/orderattack_logo.png"
+        "merged": "com.example.orderattack.app-merged_res-41:/drawable_step2.png.flat",
+        "source": "com.example.orderattack.app-main-43:/drawable/step2.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_intro.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_intro.xml"
+        "merged": "com.example.orderattack.app-merged_res-41:/layout_activitiy_stage2intro.xml.flat",
+        "source": "com.example.orderattack.app-main-43:/layout/activitiy_stage2intro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\layout_activity_join.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_join.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_intro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_intro_image.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/intro_image.png"
+        "merged": "com.example.orderattack.app-merged_res-41:/drawable_stepbonus.png.flat",
+        "source": "com.example.orderattack.app-main-43:/drawable/stepbonus.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_background_bus.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/background_bus.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_main.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_main.xml"
+        "merged": "com.example.orderattack.app-merged_res-41:/drawable_step3.png.flat",
+        "source": "com.example.orderattack.app-main-43:/drawable/step3.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_profile_btn.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/profile_btn.png"
+        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_stage1intro.xml.flat",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_stage1intro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/xml_backup_rules.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/xml/data_extraction_rules.xml"
+        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_gameintro.xml.flat",
+        "source": "com.example.orderattack.app-main-43:/layout/activity_gameintro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_button_kio.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/button_kio.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_login.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_login.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_button_bus.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/button_bus.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_intro_image.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\intro_image.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_intro_back.png.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/intro_back.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_init_map.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\init_map.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/layout_activity_splash.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/layout/activity_splash.xml"
+        "merged": "com.example.orderattack.app-merged_res-41:/drawable_step1.png.flat",
+        "source": "com.example.orderattack.app-main-43:/drawable/step1.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_button_mov.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\button_mov.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_intro_back.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\intro_back.png"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.orderattack.app-main-43:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.orderattack.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_profile_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\profile_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_background_bus.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\background_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_boarder.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\boarder.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_button_kio.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\button_kio.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_background_mov.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\background_mov.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-41:/drawable_kio_background.png.flat",
+        "source": "com.example.orderattack.app-main-43:/drawable/kio_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-41:/drawable_bus_background.png.flat",
+        "source": "com.example.orderattack.app-main-43:/drawable/bus_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-merged_res-41:\\drawable_button_bus.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-43:\\drawable\\button_bus.png"
     }
 ]

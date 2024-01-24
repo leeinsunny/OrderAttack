@@ -33,6 +33,19 @@
         <activity
             android:name=".MainActivity"
             android:exported="true" />
+        <activity
+            android:name=".game.gameintro"
+            android:exported="false" />
+        <activity
+            android:name=".game.stage1_intro"
+            android:exported="false" />
+        <activity
+            android:name=".game.stage2_intro"
+            android:exported="false" />
+        <activity
+            android:name=".game.stage3_intro"
+            android:exported="false" />
+
     </application>
 
 </manifest>
