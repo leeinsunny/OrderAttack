@@ -58,4 +58,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
     implementation("com.google.firebase:firebase-auth-ktx")
+
+    //implementation("com.yuyakaido.android:card-stack-view:2.3.4")
 }

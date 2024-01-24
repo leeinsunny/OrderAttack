@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+
                                                   
                                                               
                                                         
@@ -25,7 +26,7 @@
 
 
                 <Button
-                    android:id="@+id/gamestartinmain"
+                    android:id="@+id/gamestart_inmain"
                     android:layout_width="325dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -37,7 +38,7 @@
                     android:textStyle="bold" />
 
                 <Button
-                    android:id="@+id/gametutorialinmain"
+                    android:id="@+id/gametutorial_inmain"
                     android:layout_width="325dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -50,7 +51,7 @@
 
 
                 <Button
-                    android:id="@+id/gohealinginmain"
+                    android:id="@+id/gohealing_inmain"
                     android:layout_width="325dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
