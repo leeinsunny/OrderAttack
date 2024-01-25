@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.TextView
 import androidx.databinding.DataBindingUtil
+import com.example.orderattack.Healingtown.HealingMainActivity
 import com.example.orderattack.auth.IntroActivity
 import com.example.orderattack.databinding.ActivityMainBinding
 import com.example.orderattack.game.gameintro
@@ -45,6 +46,12 @@ class MainActivity : AppCompatActivity() {
 
         binding.gamestartInmain.setOnClickListener{
             val intent = Intent(this, gameintro::class.java)
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
+            startActivity(intent)
+        }
+
+        binding.gohealingInmain.setOnClickListener{
+            val intent = Intent(this, HealingMainActivity::class.java)
             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
             startActivity(intent)
         }

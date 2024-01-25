@@ -13,6 +13,9 @@
         android:theme="@style/Theme.OrderAttack"
         tools:targetApi="31">
         <activity
+            android:name=".Healingtown.HealingMainActivity"
+            android:exported="false" />
+        <activity
             android:name=".auth.JoinActivity"
             android:exported="false" />
         <activity
@@ -45,7 +48,6 @@
         <activity
             android:name=".game.stage3_intro"
             android:exported="false" />
-
     </application>
 
 </manifest>

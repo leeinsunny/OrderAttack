@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/rankFragment">
+
+    <fragment
+        android:id="@+id/chattingFragment"
+        android:name="com.example.orderattack.Healingtown.ChattingFragment"
+        android:label="fragment_chatting"
+        tools:layout="@layout/fragment_chatting" >
+        <action
+            android:id="@+id/action_chattingFragment_to_rankFragment"
+            app:destination="@id/rankFragment" />
+        <action
+            android:id="@+id/action_chattingFragment_to_ourtownFragment"
+            app:destination="@id/ourtownFragment" />
+        <action
+            android:id="@+id/action_chattingFragment_to_walletFragment"
+            app:destination="@id/walletFragment" />
+        <action
+            android:id="@+id/action_chattingFragment_to_mypageFragment"
+            app:destination="@id/mypageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ourtownFragment"
+        android:name="com.example.orderattack.Healingtown.OurtownFragment"
+        android:label="fragment_ourtown"
+        tools:layout="@layout/fragment_ourtown" >
+        <action
+            android:id="@+id/action_ourtownFragment_to_rankFragment"
+            app:destination="@id/rankFragment" />
+        <action
+            android:id="@+id/action_ourtownFragment_to_walletFragment"
+            app:destination="@id/walletFragment" />
+        <action
+            android:id="@+id/action_ourtownFragment_to_chattingFragment"
+            app:destination="@id/chattingFragment" />
+        <action
+            android:id="@+id/action_ourtownFragment_to_mypageFragment"
+            app:destination="@id/mypageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mypageFragment"
+        android:name="com.example.orderattack.Healingtown.MypageFragment"
+        android:label="fragment_mypage"
+        tools:layout="@layout/fragment_mypage" >
+        <action
+            android:id="@+id/action_mypageFragment_to_rankFragment"
+            app:destination="@id/rankFragment" />
+        <action
+            android:id="@+id/action_mypageFragment_to_ourtownFragment"
+            app:destination="@id/ourtownFragment" />
+        <action
+            android:id="@+id/action_mypageFragment_to_walletFragment"
+            app:destination="@id/walletFragment" />
+        <action
+            android:id="@+id/action_mypageFragment_to_chattingFragment"
+            app:destination="@id/chattingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/walletFragment"
+        android:name="com.example.orderattack.Healingtown.WalletFragment"
+        android:label="fragment_wallet"
+        tools:layout="@layout/fragment_wallet" >
+        <action
+            android:id="@+id/action_walletFragment_to_rankFragment"
+            app:destination="@id/rankFragment" />
+        <action
+            android:id="@+id/action_walletFragment_to_ourtownFragment"
+            app:destination="@id/ourtownFragment" />
+        <action
+            android:id="@+id/action_walletFragment_to_chattingFragment"
+            app:destination="@id/chattingFragment" />
+        <action
+            android:id="@+id/action_walletFragment_to_mypageFragment"
+            app:destination="@id/mypageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/rankFragment"
+        android:name="com.example.orderattack.Healingtown.RankFragment"
+        android:label="fragment_rank"
+        tools:layout="@layout/fragment_rank" >
+        <action
+            android:id="@+id/action_rankFragment_to_ourtownFragment"
+            app:destination="@id/ourtownFragment" />
+        <action
+            android:id="@+id/action_rankFragment_to_walletFragment"
+            app:destination="@id/walletFragment" />
+        <action
+            android:id="@+id/action_rankFragment_to_chattingFragment"
+            app:destination="@id/chattingFragment" />
+        <action
+            android:id="@+id/action_rankFragment_to_mypageFragment"
+            app:destination="@id/mypageFragment" />
+    </fragment>
+</navigation>
