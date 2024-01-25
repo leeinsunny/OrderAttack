@@ -8,12 +8,18 @@ import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
 import com.example.orderattack.databinding.ActivitiyStage2introBindingImpl;
 import com.example.orderattack.databinding.ActivityGameintroBindingImpl;
+import com.example.orderattack.databinding.ActivityHealingMainBindingImpl;
 import com.example.orderattack.databinding.ActivityIntroBindingImpl;
 import com.example.orderattack.databinding.ActivityJoinBindingImpl;
 import com.example.orderattack.databinding.ActivityLoginBindingImpl;
 import com.example.orderattack.databinding.ActivityMainBindingImpl;
 import com.example.orderattack.databinding.ActivityStage1introBindingImpl;
 import com.example.orderattack.databinding.ActivityStage3introBindingImpl;
+import com.example.orderattack.databinding.FragmentChattingBindingImpl;
+import com.example.orderattack.databinding.FragmentMypageBindingImpl;
+import com.example.orderattack.databinding.FragmentOurtownBindingImpl;
+import com.example.orderattack.databinding.FragmentRankBindingImpl;
+import com.example.orderattack.databinding.FragmentWalletBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -29,29 +35,47 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_ACTIVITYGAMEINTRO = 2;
 
-  private static final int LAYOUT_ACTIVITYINTRO = 3;
+  private static final int LAYOUT_ACTIVITYHEALINGMAIN = 3;
 
-  private static final int LAYOUT_ACTIVITYJOIN = 4;
+  private static final int LAYOUT_ACTIVITYINTRO = 4;
 
-  private static final int LAYOUT_ACTIVITYLOGIN = 5;
+  private static final int LAYOUT_ACTIVITYJOIN = 5;
 
-  private static final int LAYOUT_ACTIVITYMAIN = 6;
+  private static final int LAYOUT_ACTIVITYLOGIN = 6;
 
-  private static final int LAYOUT_ACTIVITYSTAGE1INTRO = 7;
+  private static final int LAYOUT_ACTIVITYMAIN = 7;
 
-  private static final int LAYOUT_ACTIVITYSTAGE3INTRO = 8;
+  private static final int LAYOUT_ACTIVITYSTAGE1INTRO = 8;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(8);
+  private static final int LAYOUT_ACTIVITYSTAGE3INTRO = 9;
+
+  private static final int LAYOUT_FRAGMENTCHATTING = 10;
+
+  private static final int LAYOUT_FRAGMENTMYPAGE = 11;
+
+  private static final int LAYOUT_FRAGMENTOURTOWN = 12;
+
+  private static final int LAYOUT_FRAGMENTRANK = 13;
+
+  private static final int LAYOUT_FRAGMENTWALLET = 14;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(14);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activitiy_stage2intro, LAYOUT_ACTIVITIYSTAGE2INTRO);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_gameintro, LAYOUT_ACTIVITYGAMEINTRO);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_healing_main, LAYOUT_ACTIVITYHEALINGMAIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_intro, LAYOUT_ACTIVITYINTRO);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_join, LAYOUT_ACTIVITYJOIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_login, LAYOUT_ACTIVITYLOGIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_main, LAYOUT_ACTIVITYMAIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_stage1intro, LAYOUT_ACTIVITYSTAGE1INTRO);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_stage3intro, LAYOUT_ACTIVITYSTAGE3INTRO);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_chatting, LAYOUT_FRAGMENTCHATTING);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_mypage, LAYOUT_FRAGMENTMYPAGE);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_ourtown, LAYOUT_FRAGMENTOURTOWN);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_rank, LAYOUT_FRAGMENTRANK);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_wallet, LAYOUT_FRAGMENTWALLET);
   }
 
   @Override
@@ -74,6 +98,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new ActivityGameintroBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for activity_gameintro is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ACTIVITYHEALINGMAIN: {
+          if ("layout/activity_healing_main_0".equals(tag)) {
+            return new ActivityHealingMainBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for activity_healing_main is invalid. Received: " + tag);
         }
         case  LAYOUT_ACTIVITYINTRO: {
           if ("layout/activity_intro_0".equals(tag)) {
@@ -110,6 +140,36 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new ActivityStage3introBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for activity_stage3intro is invalid. Received: " + tag);
+        }
+        case  LAYOUT_FRAGMENTCHATTING: {
+          if ("layout/fragment_chatting_0".equals(tag)) {
+            return new FragmentChattingBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_chatting is invalid. Received: " + tag);
+        }
+        case  LAYOUT_FRAGMENTMYPAGE: {
+          if ("layout/fragment_mypage_0".equals(tag)) {
+            return new FragmentMypageBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_mypage is invalid. Received: " + tag);
+        }
+        case  LAYOUT_FRAGMENTOURTOWN: {
+          if ("layout/fragment_ourtown_0".equals(tag)) {
+            return new FragmentOurtownBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_ourtown is invalid. Received: " + tag);
+        }
+        case  LAYOUT_FRAGMENTRANK: {
+          if ("layout/fragment_rank_0".equals(tag)) {
+            return new FragmentRankBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_rank is invalid. Received: " + tag);
+        }
+        case  LAYOUT_FRAGMENTWALLET: {
+          if ("layout/fragment_wallet_0".equals(tag)) {
+            return new FragmentWalletBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_wallet is invalid. Received: " + tag);
         }
       }
     }
@@ -164,17 +224,23 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(8);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(14);
 
     static {
       sKeys.put("layout/activitiy_stage2intro_0", com.example.orderattack.R.layout.activitiy_stage2intro);
       sKeys.put("layout/activity_gameintro_0", com.example.orderattack.R.layout.activity_gameintro);
+      sKeys.put("layout/activity_healing_main_0", com.example.orderattack.R.layout.activity_healing_main);
       sKeys.put("layout/activity_intro_0", com.example.orderattack.R.layout.activity_intro);
       sKeys.put("layout/activity_join_0", com.example.orderattack.R.layout.activity_join);
       sKeys.put("layout/activity_login_0", com.example.orderattack.R.layout.activity_login);
       sKeys.put("layout/activity_main_0", com.example.orderattack.R.layout.activity_main);
       sKeys.put("layout/activity_stage1intro_0", com.example.orderattack.R.layout.activity_stage1intro);
       sKeys.put("layout/activity_stage3intro_0", com.example.orderattack.R.layout.activity_stage3intro);
+      sKeys.put("layout/fragment_chatting_0", com.example.orderattack.R.layout.fragment_chatting);
+      sKeys.put("layout/fragment_mypage_0", com.example.orderattack.R.layout.fragment_mypage);
+      sKeys.put("layout/fragment_ourtown_0", com.example.orderattack.R.layout.fragment_ourtown);
+      sKeys.put("layout/fragment_rank_0", com.example.orderattack.R.layout.fragment_rank);
+      sKeys.put("layout/fragment_wallet_0", com.example.orderattack.R.layout.fragment_wallet);
     }
   }
 }

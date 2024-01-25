@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-39:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-56:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\3c313f3b68a6c45bcb81e78570d4eef4\\transformed\\browser-1.4.0\\res\\values-en-rXC\\values-en-rXC.xml",

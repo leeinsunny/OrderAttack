@@ -9,9 +9,12 @@
     <color name="light_gray">#E3E3E3</color>
     <color name="light_green">#c6edc3</color>
     <color name="light_pink">#F886A8</color>
+    <color name="light_yellow">#FFE2A9</color>
     <color name="lightbrown">#c59652</color>
+    <color name="min_yellow">#FFCE6E</color>
     <color name="mint">#9adbc5</color>
     <color name="orange">#FE8D6F</color>
+    <color name="real_light_pink">#FBD8E3</color>
     <color name="skyblue">#a0dde0</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FDC453</color>
@@ -21,13 +24,14 @@
     <string name="google_app_id" translatable="false">1:731130685827:android:c3e602c0288e4f16bc6eb6</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCz4-p0UzVpu7lCc7uzkqxcd-HnCb2T-10</string>
     <string name="google_storage_bucket" translatable="false">orderattack-9321f.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="project_id" translatable="false">orderattack-9321f</string>
-    <style name="Base.Theme.OrderAttack" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.OrderAttack" parent="Theme.Material3.DayNight">
         
         
         <item name="windowNoTitle">true</item>
         <item name="colorPrimary">@color/light_pink</item>
-        <item name="colorPrimaryVariant">@color/light_pink</item>
+        <item name="colorPrimaryVariant">@color/white</item>
     </style>
     <style name="Theme.OrderAttack" parent="Base.Theme.OrderAttack"/>
 </resources>
