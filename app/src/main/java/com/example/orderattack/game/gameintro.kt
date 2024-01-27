@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.example.orderattack.R
 import com.example.orderattack.databinding.ActivityGameintroBinding
+import com.example.orderattack.game.movie.stage2_intro
 
 
 class gameintro: AppCompatActivity() {

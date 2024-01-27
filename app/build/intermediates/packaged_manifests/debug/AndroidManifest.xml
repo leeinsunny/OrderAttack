@@ -36,6 +36,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.OrderAttack" >
         <activity
+            android:name="com.example.orderattack.game.movie.MovieBonusActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.orderattack.game.movie.MovieStep3Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.orderattack.game.movie.MovieStep1Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.orderattack.game.movie.MovieStep2Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.orderattack.game.movie.stage2_intro"
+            android:exported="false" />
+        <activity
             android:name="com.example.orderattack.Healingtown.HealingMainActivity"
             android:exported="false" />
         <activity
@@ -64,9 +79,6 @@
             android:exported="false" />
         <activity
             android:name="com.example.orderattack.game.stage1_intro"
-            android:exported="false" />
-        <activity
-            android:name="com.example.orderattack.game.stage2_intro"
             android:exported="false" />
         <activity
             android:name="com.example.orderattack.game.stage3_intro"
