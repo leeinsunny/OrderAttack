@@ -2619,10 +2619,8 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable orderattack_logo
 drawable ourtown
-<<<<<<< HEAD
 drawable pfback
 drawable pfmodify
-=======
 drawable popup_movie_background
 drawable popup_movie_bonus
 drawable popup_movie_bonus_help
@@ -2632,7 +2630,6 @@ drawable popup_movie_second
 drawable popup_movie_second_help
 drawable popup_movie_third
 drawable popup_movie_third_help
->>>>>>> game-movie
 drawable profile_btn
 drawable rank
 drawable start_bonus_btn
@@ -3328,14 +3325,11 @@ layout activity_intro
 layout activity_join
 layout activity_login
 layout activity_main
-<<<<<<< HEAD
-layout activity_mypage
-=======
 layout activity_movie_bonus
 layout activity_movie_step1
 layout activity_movie_step2
 layout activity_movie_step3
->>>>>>> game-movie
+layout activity_mypage
 layout activity_splash
 layout activity_stage1intro
 layout activity_stage3intro

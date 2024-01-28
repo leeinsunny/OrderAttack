@@ -1,11 +1,7 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
-=======
             "outputFile": "com.example.orderattack.app-mergeDebugResources-3:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
->>>>>>> game-movie
             "map": [
                 {
                     "source": "/Users/mkyu/.gradle/caches/transforms-3/d048ccc7096c6eb2b992007db3e73f77/transformed/material-1.5.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",

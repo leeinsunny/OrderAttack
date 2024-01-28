@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+    <!-- 사용자 휴대폰으로부터 사진 업로드를 위한 권한요청 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -12,6 +15,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OrderAttack"
         tools:targetApi="31">
+        <activity
+            android:name=".Healingtown.MypageActivity"
+            android:exported="false" />
         <activity
             android:name=".game.movie.MovieBonusActivity"
             android:exported="false" />
@@ -25,7 +31,7 @@
             android:name=".game.movie.MovieStep2Activity"
             android:exported="false" />
         <activity
-            android:name=".game.stage2_intro"
+            android:name=".game.movie.Movie_intro"
             android:exported="false" />
         <activity
             android:name=".Healingtown.HealingMainActivity"
