@@ -21,6 +21,10 @@ import com.example.orderattack.databinding.FragmentMypageBindingImpl;
 import com.example.orderattack.databinding.FragmentOurtownBindingImpl;
 import com.example.orderattack.databinding.FragmentRankBindingImpl;
 import com.example.orderattack.databinding.FragmentWalletBindingImpl;
+import com.example.orderattack.databinding.PopupMovieBonusBindingImpl;
+import com.example.orderattack.databinding.PopupMovieStep1BindingImpl;
+import com.example.orderattack.databinding.PopupMovieStep2BindingImpl;
+import com.example.orderattack.databinding.PopupMovieStep3BindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -60,9 +64,21 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_FRAGMENTRANK = 14;
 
+<<<<<<< HEAD
   private static final int LAYOUT_FRAGMENTWALLET = 15;
 
   private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(15);
+=======
+  private static final int LAYOUT_POPUPMOVIEBONUS = 15;
+
+  private static final int LAYOUT_POPUPMOVIESTEP1 = 16;
+
+  private static final int LAYOUT_POPUPMOVIESTEP2 = 17;
+
+  private static final int LAYOUT_POPUPMOVIESTEP3 = 18;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(18);
+>>>>>>> game-movie
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activitiy_stage2intro, LAYOUT_ACTIVITIYSTAGE2INTRO);
@@ -80,6 +96,10 @@ public class DataBinderMapperImpl extends DataBinderMapper {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_ourtown, LAYOUT_FRAGMENTOURTOWN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_rank, LAYOUT_FRAGMENTRANK);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_wallet, LAYOUT_FRAGMENTWALLET);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.popup_movie_bonus, LAYOUT_POPUPMOVIEBONUS);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.popup_movie_step1, LAYOUT_POPUPMOVIESTEP1);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.popup_movie_step2, LAYOUT_POPUPMOVIESTEP2);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.popup_movie_step3, LAYOUT_POPUPMOVIESTEP3);
   }
 
   @Override
@@ -181,6 +201,30 @@ public class DataBinderMapperImpl extends DataBinderMapper {
           }
           throw new IllegalArgumentException("The tag for fragment_wallet is invalid. Received: " + tag);
         }
+        case  LAYOUT_POPUPMOVIEBONUS: {
+          if ("layout/popup_movie_bonus_0".equals(tag)) {
+            return new PopupMovieBonusBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for popup_movie_bonus is invalid. Received: " + tag);
+        }
+        case  LAYOUT_POPUPMOVIESTEP1: {
+          if ("layout/popup_movie_step1_0".equals(tag)) {
+            return new PopupMovieStep1BindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for popup_movie_step1 is invalid. Received: " + tag);
+        }
+        case  LAYOUT_POPUPMOVIESTEP2: {
+          if ("layout/popup_movie_step2_0".equals(tag)) {
+            return new PopupMovieStep2BindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for popup_movie_step2 is invalid. Received: " + tag);
+        }
+        case  LAYOUT_POPUPMOVIESTEP3: {
+          if ("layout/popup_movie_step3_0".equals(tag)) {
+            return new PopupMovieStep3BindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for popup_movie_step3 is invalid. Received: " + tag);
+        }
       }
     }
     return null;
@@ -234,7 +278,11 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
+<<<<<<< HEAD
     static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(15);
+=======
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(18);
+>>>>>>> game-movie
 
     static {
       sKeys.put("layout/activitiy_stage2intro_0", com.example.orderattack.R.layout.activitiy_stage2intro);
@@ -252,6 +300,10 @@ public class DataBinderMapperImpl extends DataBinderMapper {
       sKeys.put("layout/fragment_ourtown_0", com.example.orderattack.R.layout.fragment_ourtown);
       sKeys.put("layout/fragment_rank_0", com.example.orderattack.R.layout.fragment_rank);
       sKeys.put("layout/fragment_wallet_0", com.example.orderattack.R.layout.fragment_wallet);
+      sKeys.put("layout/popup_movie_bonus_0", com.example.orderattack.R.layout.popup_movie_bonus);
+      sKeys.put("layout/popup_movie_step1_0", com.example.orderattack.R.layout.popup_movie_step1);
+      sKeys.put("layout/popup_movie_step2_0", com.example.orderattack.R.layout.popup_movie_step2);
+      sKeys.put("layout/popup_movie_step3_0", com.example.orderattack.R.layout.popup_movie_step3);
     }
   }
 }
