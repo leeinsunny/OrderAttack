@@ -17,6 +17,9 @@ import java.lang.Object;
 
 public abstract class ActivityJoinBinding extends ViewDataBinding {
   @NonNull
+  public final Button DoublecheckBtn;
+
+  @NonNull
   public final EditText birtharea;
 
   @NonNull
@@ -27,6 +30,9 @@ public abstract class ActivityJoinBinding extends ViewDataBinding {
 
   @NonNull
   public final EditText namearea;
+
+  @NonNull
+  public final EditText nicknamearea;
 
   @NonNull
   public final ImageView pfphotoarea;
@@ -41,13 +47,16 @@ public abstract class ActivityJoinBinding extends ViewDataBinding {
   public final EditText pwcheckarea;
 
   protected ActivityJoinBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      EditText birtharea, EditText emailarea, Button joinBtn, EditText namearea,
-      ImageView pfphotoarea, EditText phonenumarea, EditText pwarea, EditText pwcheckarea) {
+      Button DoublecheckBtn, EditText birtharea, EditText emailarea, Button joinBtn,
+      EditText namearea, EditText nicknamearea, ImageView pfphotoarea, EditText phonenumarea,
+      EditText pwarea, EditText pwcheckarea) {
     super(_bindingComponent, _root, _localFieldCount);
+    this.DoublecheckBtn = DoublecheckBtn;
     this.birtharea = birtharea;
     this.emailarea = emailarea;
     this.joinBtn = joinBtn;
     this.namearea = namearea;
+    this.nicknamearea = nicknamearea;
     this.pfphotoarea = pfphotoarea;
     this.phonenumarea = phonenumarea;
     this.pwarea = pwarea;
