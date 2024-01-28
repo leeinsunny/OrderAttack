@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-56:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\738005111d01f3914330e23f92848d1a\\transformed\\appcompat-1.6.1\\res\\values-en-rCA\\values-en-rCA.xml",

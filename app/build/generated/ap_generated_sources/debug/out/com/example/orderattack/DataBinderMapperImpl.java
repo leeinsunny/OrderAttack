@@ -13,6 +13,7 @@ import com.example.orderattack.databinding.ActivityIntroBindingImpl;
 import com.example.orderattack.databinding.ActivityJoinBindingImpl;
 import com.example.orderattack.databinding.ActivityLoginBindingImpl;
 import com.example.orderattack.databinding.ActivityMainBindingImpl;
+import com.example.orderattack.databinding.ActivityMypageBindingImpl;
 import com.example.orderattack.databinding.ActivityStage1introBindingImpl;
 import com.example.orderattack.databinding.ActivityStage3introBindingImpl;
 import com.example.orderattack.databinding.FragmentChattingBindingImpl;
@@ -45,21 +46,23 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_ACTIVITYMAIN = 7;
 
-  private static final int LAYOUT_ACTIVITYSTAGE1INTRO = 8;
+  private static final int LAYOUT_ACTIVITYMYPAGE = 8;
 
-  private static final int LAYOUT_ACTIVITYSTAGE3INTRO = 9;
+  private static final int LAYOUT_ACTIVITYSTAGE1INTRO = 9;
 
-  private static final int LAYOUT_FRAGMENTCHATTING = 10;
+  private static final int LAYOUT_ACTIVITYSTAGE3INTRO = 10;
 
-  private static final int LAYOUT_FRAGMENTMYPAGE = 11;
+  private static final int LAYOUT_FRAGMENTCHATTING = 11;
 
-  private static final int LAYOUT_FRAGMENTOURTOWN = 12;
+  private static final int LAYOUT_FRAGMENTMYPAGE = 12;
 
-  private static final int LAYOUT_FRAGMENTRANK = 13;
+  private static final int LAYOUT_FRAGMENTOURTOWN = 13;
 
-  private static final int LAYOUT_FRAGMENTWALLET = 14;
+  private static final int LAYOUT_FRAGMENTRANK = 14;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(14);
+  private static final int LAYOUT_FRAGMENTWALLET = 15;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(15);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activitiy_stage2intro, LAYOUT_ACTIVITIYSTAGE2INTRO);
@@ -69,6 +72,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_join, LAYOUT_ACTIVITYJOIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_login, LAYOUT_ACTIVITYLOGIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_main, LAYOUT_ACTIVITYMAIN);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_mypage, LAYOUT_ACTIVITYMYPAGE);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_stage1intro, LAYOUT_ACTIVITYSTAGE1INTRO);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activity_stage3intro, LAYOUT_ACTIVITYSTAGE3INTRO);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.fragment_chatting, LAYOUT_FRAGMENTCHATTING);
@@ -128,6 +132,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new ActivityMainBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for activity_main is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ACTIVITYMYPAGE: {
+          if ("layout/activity_mypage_0".equals(tag)) {
+            return new ActivityMypageBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for activity_mypage is invalid. Received: " + tag);
         }
         case  LAYOUT_ACTIVITYSTAGE1INTRO: {
           if ("layout/activity_stage1intro_0".equals(tag)) {
@@ -224,7 +234,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(14);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(15);
 
     static {
       sKeys.put("layout/activitiy_stage2intro_0", com.example.orderattack.R.layout.activitiy_stage2intro);
@@ -234,6 +244,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
       sKeys.put("layout/activity_join_0", com.example.orderattack.R.layout.activity_join);
       sKeys.put("layout/activity_login_0", com.example.orderattack.R.layout.activity_login);
       sKeys.put("layout/activity_main_0", com.example.orderattack.R.layout.activity_main);
+      sKeys.put("layout/activity_mypage_0", com.example.orderattack.R.layout.activity_mypage);
       sKeys.put("layout/activity_stage1intro_0", com.example.orderattack.R.layout.activity_stage1intro);
       sKeys.put("layout/activity_stage3intro_0", com.example.orderattack.R.layout.activity_stage3intro);
       sKeys.put("layout/fragment_chatting_0", com.example.orderattack.R.layout.fragment_chatting);

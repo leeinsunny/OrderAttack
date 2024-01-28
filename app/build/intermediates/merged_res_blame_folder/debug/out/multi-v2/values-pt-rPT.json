@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-56:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f661d0dd0a7aedb3817fd1ec8e69230b\\transformed\\navigation-ui-2.7.6\\res\\values-pt-rPT\\values-pt-rPT.xml",
