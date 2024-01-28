@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.example.orderattack.R
 import com.example.orderattack.databinding.ActivityGameintroBinding
+import com.example.orderattack.game.movie.Movie_intro
 
 
 class gameintro: AppCompatActivity() {
@@ -25,7 +26,7 @@ class gameintro: AppCompatActivity() {
         }
 
         binding.stage2btnInintro.setOnClickListener {
-            val intent = Intent(this, stage2_intro::class.java)
+            val intent = Intent(this, Movie_intro::class.java)
             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
             startActivity(intent)
         }

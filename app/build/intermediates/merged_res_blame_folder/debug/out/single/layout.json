@@ -1,155 +1,78 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_stage3intro.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_stage3intro.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_step1.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/popup_movie_step1.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\fragment_chatting.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\fragment_chatting.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_wallet.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/fragment_wallet.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_intro.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_intro.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_chatting.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/fragment_chatting.xml"
     },
     {
-        "merged": "com.example.orderattack.app-mergeDebugResources-58:/layout/fragment_mypage.xml",
-        "source": "com.example.orderattack.app-main-61:/layout/fragment_mypage.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_ourtown.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/fragment_ourtown.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_main.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_intro.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_intro.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\fragment_mypage.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\fragment_mypage.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_mypage.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_mypage.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\fragment_wallet.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\fragment_wallet.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_stage1intro.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_stage1intro.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\fragment_rank.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\fragment_rank.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_rank.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/fragment_rank.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\fragment_ourtown.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\fragment_ourtown.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_join.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_join.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_login.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_gameintro.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_gameintro.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_healing_main.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_healing_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activitiy_stage2intro.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activitiy_stage2intro.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_gameintro.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_gameintro.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_mypage.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_mypage.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_stage1intro.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_stage1intro.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-mergeDebugResources-58:\\layout\\activity_join.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.example.orderattack.app-main-61:\\layout\\activity_join.xml"
-=======
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_stage1intro.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_stage1intro.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_step2.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/popup_movie_step2.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_wallet.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/fragment_wallet.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_healing_main.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_healing_main.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_login.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_login.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_stage3intro.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_stage3intro.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_movie_steps.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_movie_steps.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_join.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_join.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_gameintro.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_gameintro.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activitiy_stage2intro.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activitiy_stage2intro.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_rank.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/fragment_rank.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_step3.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/popup_movie_step3.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_ourtown.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/fragment_ourtown.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_mypage.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/fragment_mypage.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_main.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_main.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_healing_main.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_healing_main.xml"
     },
     {
         "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_bonus.xml",
         "source": "com.example.orderattack.app-main-7:/layout/popup_movie_bonus.xml"
     },
     {
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_mypage.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/fragment_mypage.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_step3.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/popup_movie_step3.xml"
+    },
+    {
         "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_step2.xml",
         "source": "com.example.orderattack.app-main-7:/layout/popup_movie_step2.xml"
     },
     {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_step1.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/popup_movie_step1.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/fragment_chatting.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/fragment_chatting.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_movie_step.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_movie_step.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activity_stage3intro.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activity_stage3intro.xml"
     },
     {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/activity_intro.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_intro.xml"
-    },
-    {
-        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-mergeDebugResources-4:/layout/popup_movie_bonus.xml",
-        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/popup_movie_bonus.xml"
->>>>>>> game-movie
+        "merged": "com.example.orderattack.app-mergeDebugResources-4:/layout/activitiy_stage2intro.xml",
+        "source": "com.example.orderattack.app-main-7:/layout/activitiy_stage2intro.xml"
     }
 ]

@@ -1,11 +1,7 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-zh-rTW/values-zh-rTW.xml",
-=======
             "outputFile": "com.example.orderattack.app-mergeDebugResources-3:/values-zh-rTW/values-zh-rTW.xml",
->>>>>>> game-movie
             "map": [
                 {
                     "source": "/Users/mkyu/.gradle/caches/transforms-3/d2f8668f5318352451366bf142bf6d78/transformed/play-services-base-18.1.0/res/values-zh-rTW/values.xml",

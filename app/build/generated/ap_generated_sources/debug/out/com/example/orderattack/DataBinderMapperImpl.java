@@ -64,21 +64,17 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_FRAGMENTRANK = 14;
 
-<<<<<<< HEAD
   private static final int LAYOUT_FRAGMENTWALLET = 15;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(15);
-=======
-  private static final int LAYOUT_POPUPMOVIEBONUS = 15;
+  private static final int LAYOUT_POPUPMOVIEBONUS = 16;
 
-  private static final int LAYOUT_POPUPMOVIESTEP1 = 16;
+  private static final int LAYOUT_POPUPMOVIESTEP1 = 17;
 
-  private static final int LAYOUT_POPUPMOVIESTEP2 = 17;
+  private static final int LAYOUT_POPUPMOVIESTEP2 = 18;
 
-  private static final int LAYOUT_POPUPMOVIESTEP3 = 18;
+  private static final int LAYOUT_POPUPMOVIESTEP3 = 19;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(18);
->>>>>>> game-movie
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(19);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.orderattack.R.layout.activitiy_stage2intro, LAYOUT_ACTIVITIYSTAGE2INTRO);
@@ -278,11 +274,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-<<<<<<< HEAD
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(15);
-=======
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(18);
->>>>>>> game-movie
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(19);
 
     static {
       sKeys.put("layout/activitiy_stage2intro_0", com.example.orderattack.R.layout.activitiy_stage2intro);
