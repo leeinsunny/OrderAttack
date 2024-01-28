@@ -2517,6 +2517,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable blankprofile
 drawable boarder
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -2557,6 +2558,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable gradient
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2617,6 +2619,8 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable orderattack_logo
 drawable ourtown
+drawable pfback
+drawable pfmodify
 drawable profile_btn
 drawable rank
 drawable step1
@@ -2632,6 +2636,8 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id DoublecheckBtn
+id DoublecheckBtn_inmypage
 id FUNCTION
 id META
 id NO_DEBUG
@@ -2744,6 +2750,7 @@ id beginOnFirstDraw
 id beginning
 id bestChoice
 id birtharea
+id birtharea_inmypage
 id blocking
 id bottom
 id bounce
@@ -2829,6 +2836,7 @@ id dragRight
 id dragStart
 id dragUp
 id dropdown_menu
+id dummyView
 id easeIn
 id easeInOut
 id easeOut
@@ -2836,6 +2844,7 @@ id east
 id edit_query
 id elastic
 id emailarea
+id emailarea_inmypage
 id emailareainlogin
 id end
 id endToStart
@@ -2861,6 +2870,7 @@ id gamestart_inmain
 id gametutorial_inmain
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gohealing_inmain
 id gone
 id graph
@@ -2908,11 +2918,13 @@ id linearLayout2
 id linearLayout3
 id linearLayout4
 id linearLayout5
+id linearLayout6
 id listMode
 id list_item
 id locale
 id loginBtn_intro
 id loginBtninlogin
+id logout_inmypage
 id logoutinmain
 id ltr
 id main_nav
@@ -2941,6 +2953,8 @@ id material_value_index
 id message
 id middle
 id mini
+id modifyapplyBtn_inmypage
+id modifymyinfo_inmypage
 id month_grid
 id month_navigation_bar
 id month_navigation_fragment_toggle
@@ -2975,6 +2989,7 @@ id multiply
 id mypage
 id mypageFragment
 id namearea
+id namearea_inmypage
 id nav_controller_view_tag
 id nav_host_fragment_container
 id navigation_bar_item_active_indicator_view
@@ -2987,6 +3002,8 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id nicknamearea
+id nicknamearea_inmypage
 id noScroll
 id noState
 id none
@@ -3017,15 +3034,22 @@ id pathRelative
 id peekHeight
 id percent
 id pfphotoarea
+id pfphotoarea_inmypage
+id pfreupload_inmypage
 id phonenumarea
+id phonenumarea_inmypage
 id pin
 id position
 id postLayout
+id presentpf_inmypage
+id presentusername_inmypage
 id progress_circular
 id progress_horizontal
 id pwarea
+id pwarea_inmypage
 id pwareainlogin
 id pwcheckarea
+id pwcheckarea_inmypage
 id radio
 id rank
 id rankFragment
@@ -3281,6 +3305,7 @@ layout activity_intro
 layout activity_join
 layout activity_login
 layout activity_main
+layout activity_mypage
 layout activity_splash
 layout activity_stage1intro
 layout activity_stage3intro

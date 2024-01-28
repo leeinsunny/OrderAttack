@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-56:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f9de055bac0a11fd8b0511866a787f32\\transformed\\material-1.5.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",

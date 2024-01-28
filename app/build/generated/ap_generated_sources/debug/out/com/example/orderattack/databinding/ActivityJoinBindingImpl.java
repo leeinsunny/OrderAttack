@@ -20,8 +20,10 @@ public class ActivityJoinBindingImpl extends ActivityJoinBinding  {
         sViewsWithIds.put(R.id.namearea, 4);
         sViewsWithIds.put(R.id.phonenumarea, 5);
         sViewsWithIds.put(R.id.birtharea, 6);
-        sViewsWithIds.put(R.id.pfphotoarea, 7);
-        sViewsWithIds.put(R.id.joinBtn, 8);
+        sViewsWithIds.put(R.id.nicknamearea, 7);
+        sViewsWithIds.put(R.id.DoublecheckBtn, 8);
+        sViewsWithIds.put(R.id.pfphotoarea, 9);
+        sViewsWithIds.put(R.id.joinBtn, 10);
     }
     // views
     @NonNull
@@ -32,15 +34,17 @@ public class ActivityJoinBindingImpl extends ActivityJoinBinding  {
     // Inverse Binding Event Handlers
 
     public ActivityJoinBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 9, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 11, sIncludes, sViewsWithIds));
     }
     private ActivityJoinBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
+            , (android.widget.Button) bindings[8]
             , (android.widget.EditText) bindings[6]
             , (android.widget.EditText) bindings[1]
-            , (android.widget.Button) bindings[8]
+            , (android.widget.Button) bindings[10]
             , (android.widget.EditText) bindings[4]
-            , (android.widget.ImageView) bindings[7]
+            , (android.widget.EditText) bindings[7]
+            , (android.widget.ImageView) bindings[9]
             , (android.widget.EditText) bindings[5]
             , (android.widget.EditText) bindings[2]
             , (android.widget.EditText) bindings[3]
