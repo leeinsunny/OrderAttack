@@ -1,10 +1,24 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-v16/values-v16.xml",
+=======
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-3:/values-v16/values-v16.xml",
+>>>>>>> game-movie
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\738005111d01f3914330e23f92848d1a\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/mkyu/.gradle/caches/transforms-3/669de9f8e5733305b1d2efc7ef666110/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/mkyu/.gradle/caches/transforms-3/704bae0975d507120e5e7c61d441ac35/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +34,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\6ef6b1bb5ce4f0321ec2f877223bef90\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

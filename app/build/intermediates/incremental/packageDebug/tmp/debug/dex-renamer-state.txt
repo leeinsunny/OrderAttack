@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Sun Jan 28 20:53:34 KST 2024
 base.0=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
@@ -29,3 +30,36 @@ renamed.6=classes7.dex
 renamed.7=classes8.dex
 renamed.8=classes9.dex
 renamed.9=classes10.dex
+=======
+#Sun Jan 28 01:01:51 KST 2024
+base.0=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+base.4=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
+base.5=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.6=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.7=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+base.8=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+base.9=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=11/classes.dex
+path.4=15/classes.dex
+path.5=2/classes.dex
+path.6=7/classes.dex
+path.7=8/classes.dex
+path.8=9/classes.dex
+path.9=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex
+renamed.6=classes7.dex
+renamed.7=classes8.dex
+renamed.8=classes9.dex
+renamed.9=classes10.dex
+>>>>>>> game-movie

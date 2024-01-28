@@ -1,10 +1,14 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-3:/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> game-movie
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\738005111d01f3914330e23f92848d1a\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/mkyu/.gradle/caches/transforms-3/704bae0975d507120e5e7c61d441ac35/transformed/appcompat-1.6.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +18,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f9de055bac0a11fd8b0511866a787f32\\transformed\\material-1.5.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/mkyu/.gradle/caches/transforms-3/d048ccc7096c6eb2b992007db3e73f77/transformed/material-1.5.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

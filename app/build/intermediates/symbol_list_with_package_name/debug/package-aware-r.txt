@@ -2619,10 +2619,24 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable orderattack_logo
 drawable ourtown
+<<<<<<< HEAD
 drawable pfback
 drawable pfmodify
+=======
+drawable popup_movie_background
+drawable popup_movie_bonus
+drawable popup_movie_bonus_help
+drawable popup_movie_first
+drawable popup_movie_first_help
+drawable popup_movie_second
+drawable popup_movie_second_help
+drawable popup_movie_third
+drawable popup_movie_third_help
+>>>>>>> game-movie
 drawable profile_btn
 drawable rank
+drawable start_bonus_btn
+drawable start_btn
 drawable step1
 drawable step2
 drawable step3
@@ -3039,6 +3053,14 @@ id pfreupload_inmypage
 id phonenumarea
 id phonenumarea_inmypage
 id pin
+id popupMovieBonus
+id popupMovieBonusHelp
+id popupMovieFirst
+id popupMovieFirstHelp
+id popupMovieSecond
+id popupMovieSecondHelp
+id popupMovieThird
+id popupMovieThirdHelp
 id position
 id postLayout
 id presentpf_inmypage
@@ -3120,6 +3142,7 @@ id stage2btn_inintro
 id stage3btn_inintro
 id standard
 id start
+id startBtn
 id startHorizontal
 id startToEnd
 id startVertical
@@ -3305,7 +3328,14 @@ layout activity_intro
 layout activity_join
 layout activity_login
 layout activity_main
+<<<<<<< HEAD
 layout activity_mypage
+=======
+layout activity_movie_bonus
+layout activity_movie_step1
+layout activity_movie_step2
+layout activity_movie_step3
+>>>>>>> game-movie
 layout activity_splash
 layout activity_stage1intro
 layout activity_stage3intro
@@ -3384,6 +3414,10 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout popup_movie_bonus
+layout popup_movie_step1
+layout popup_movie_step2
+layout popup_movie_step3
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
