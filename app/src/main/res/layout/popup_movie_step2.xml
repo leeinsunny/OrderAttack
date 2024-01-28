@@ -9,7 +9,7 @@
         <ImageView
             android:id="@+id/popupMovieSecondHelp"
             android:layout_width="400dp"
-            android:layout_height="80dp"
+            android:layout_height="100dp"
             android:layout_marginRight="10dp"
             android:src="@drawable/popup_movie_second_help"
             app:layout_constraintStart_toStartOf="parent"

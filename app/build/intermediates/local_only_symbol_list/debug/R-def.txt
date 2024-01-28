@@ -45,6 +45,7 @@ drawable popup_movie_third
 drawable popup_movie_third_help
 drawable profile_btn
 drawable rank
+drawable start_bonus_btn
 drawable start_btn
 drawable step1
 drawable step2

@@ -2627,6 +2627,7 @@ int drawable popup_movie_third 0x7f0700cf
 int drawable popup_movie_third_help 0x7f0700d0
 int drawable profile_btn 0x7f0700bc
 int drawable rank 0x7f0700bd
+int drawable start_bonus_btn 0x7f0700d1
 int drawable start_btn 0x7f0700ca
 int drawable step1 0x7f0700be
 int drawable step2 0x7f0700bf

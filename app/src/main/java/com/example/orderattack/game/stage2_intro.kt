@@ -1,4 +1,4 @@
-package com.example.orderattack.game.movie
+package com.example.orderattack.game
 
 import android.app.Dialog
 import android.content.Intent
@@ -9,6 +9,10 @@ import android.os.Bundle
 import android.view.ViewGroup
 import android.widget.ImageButton
 import com.example.orderattack.R
+import com.example.orderattack.game.movie.MovieBonusActivity
+import com.example.orderattack.game.movie.MovieStep1Activity
+import com.example.orderattack.game.movie.MovieStep2Activity
+import com.example.orderattack.game.movie.MovieStep3Activity
 
 class stage2_intro : AppCompatActivity() {
 

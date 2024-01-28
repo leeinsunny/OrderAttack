@@ -20,10 +20,6 @@
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_stage3intro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-5:/layout_popup_movie_step3.xml.flat",
-        "source": "com.example.orderattack.app-main-7:/layout/popup_movie_step3.xml"
-    },
-    {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/layout_activity_movie_step.xml.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_movie_step.xml"
     },
@@ -52,8 +48,8 @@
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/navigation/main_nav.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-5:/drawable_popup_movie_second_help.png.flat",
-        "source": "com.example.orderattack.app-main-7:/drawable/popup_movie_second_help.png"
+        "merged": "com.example.orderattack.app-merged_res-5:/drawable_start_bonus_btn.png.flat",
+        "source": "com.example.orderattack.app-main-7:/drawable/start_bonus_btn.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -62,6 +58,14 @@
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_popup_movie_second.png.flat",
+        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/drawable/popup_movie_second.png"
+    },
+    {
+        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_popup_movie_third_help.png.flat",
+        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/drawable/popup_movie_third_help.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
@@ -82,10 +86,6 @@
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.orderattack.app-merged_res-5:/drawable_popup_movie_second.png.flat",
-        "source": "com.example.orderattack.app-main-7:/drawable/popup_movie_second.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_mypage.png.flat",
@@ -110,10 +110,6 @@
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.example.orderattack.app-merged_res-5:/drawable_popup_movie_bonus.png.flat",
-        "source": "com.example.orderattack.app-main-7:/drawable/popup_movie_bonus.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/layout_fragment_wallet.xml.flat",
@@ -196,16 +192,8 @@
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-5:/layout_popup_movie_step1.xml.flat",
-        "source": "com.example.orderattack.app-main-7:/layout/popup_movie_step1.xml"
-    },
-    {
-        "merged": "com.example.orderattack.app-merged_res-5:/drawable_popup_movie_third.png.flat",
-        "source": "com.example.orderattack.app-main-7:/drawable/popup_movie_third.png"
-    },
-    {
-        "merged": "com.example.orderattack.app-merged_res-5:/drawable_popup_movie_third_help.png.flat",
-        "source": "com.example.orderattack.app-main-7:/drawable/popup_movie_third_help.png"
+        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_popup_movie_third.png.flat",
+        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/drawable/popup_movie_third.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_button_bus.png.flat",
@@ -214,6 +202,10 @@
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_bus_background.png.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/drawable/bus_background.png"
+    },
+    {
+        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_popup_movie_bonus.png.flat",
+        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/drawable/popup_movie_bonus.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_init_map.png.flat",
@@ -232,16 +224,16 @@
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/activity_intro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-5:/drawable_popup_movie_bonus_help.png.flat",
-        "source": "com.example.orderattack.app-main-7:/drawable/popup_movie_bonus_help.png"
-    },
-    {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/layout_fragment_chatting.xml.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/fragment_chatting.xml"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_popup_movie_bonus_help.png.flat",
+        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/drawable/popup_movie_bonus_help.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_popup_movie_first_help.png.flat",
@@ -278,6 +270,10 @@
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/layout_popup_movie_bonus.xml.flat",
         "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/layout/popup_movie_bonus.xml"
+    },
+    {
+        "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_popup_movie_second_help.png.flat",
+        "source": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-main-7:/drawable/popup_movie_second_help.png"
     },
     {
         "merged": "/Users/mkyu/.gradle/daemon/8.2/com.example.orderattack.app-merged_res-5:/drawable_step1.png.flat",
