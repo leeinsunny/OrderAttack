@@ -6,6 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.example.orderattack.R
 import com.example.orderattack.databinding.ActivityGameintroBinding
+import com.example.orderattack.game.bus.Bus_intro
+import com.example.orderattack.game.kiosk.Kiosk_intro
 import com.example.orderattack.game.movie.Movie_intro
 
 
@@ -20,7 +22,7 @@ class gameintro: AppCompatActivity() {
         binding = DataBindingUtil.setContentView(this, R.layout.activity_gameintro)
 
         binding.stage1btnInintro.setOnClickListener {
-            val intent = Intent(this, stage1_intro::class.java)
+            val intent = Intent(this, Kiosk_intro::class.java)
             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
             startActivity(intent)
         }
@@ -32,7 +34,7 @@ class gameintro: AppCompatActivity() {
         }
 
         binding.stage3btnInintro.setOnClickListener {
-            val intent = Intent(this, stage3_intro::class.java)
+            val intent = Intent(this, Bus_intro::class.java)
             intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
             startActivity(intent)
         }

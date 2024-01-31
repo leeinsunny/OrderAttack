@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-3:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/mkyu/.gradle/caches/transforms-3/d048ccc7096c6eb2b992007db3e73f77/transformed/material-1.5.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\996a012894023b0d62f5ec3ea5e339b2\\transformed\\material-1.5.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
