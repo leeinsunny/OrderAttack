@@ -1,12 +1,12 @@
-package com.example.orderattack.game
+package com.example.orderattack.game.bus
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.orderattack.R
 
-class stage3_intro: AppCompatActivity() {
+class BusStep1Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_stage3intro)
+        setContentView(R.layout.activity_bus_step1)
     }
 }
