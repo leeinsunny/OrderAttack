@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/popupKioskBonusHelp"
+            android:layout_width="400dp"
+            android:layout_height="100dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/popup_kiosk_bonus_help"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/popupKioskBonus" />
+
+        <ImageView
+            android:id="@+id/popupKioskBonus"
+            android:layout_width="363dp"
+            android:layout_height="256dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginRight="25dp"
+            android:src="@drawable/popup_kiosk_bonus"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <ImageButton
+            android:id="@+id/startBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="25dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/start_bonus_btn"
+            app:layout_constraintTop_toTopOf="@id/popupKioskBonus"
+            app:layout_constraintStart_toStartOf="@id/popupKioskBonus"
+            app:layout_constraintEnd_toEndOf="@id/popupKioskBonus"
+            app:layout_constraintBottom_toBottomOf="@id/popupKioskBonus" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

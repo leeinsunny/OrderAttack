@@ -1,13 +1,12 @@
-package com.example.orderattack.game
+package com.example.orderattack.game.kiosk
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.orderattack.R
 
-class stage1_intro: AppCompatActivity() {
+class KioskStep1Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_stage1intro)
-
+        setContentView(R.layout.activity_kiosk_step1)
     }
 }
