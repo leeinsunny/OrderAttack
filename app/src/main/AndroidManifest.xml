@@ -4,6 +4,9 @@
     <!-- 사용자 휴대폰으로부터 사진 업로드를 위한 권한요청 -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 
     <application
         android:allowBackup="true"
@@ -90,5 +93,8 @@
         <activity
             android:name=".game.bus.BusStep2Activity"
             android:exported="false" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBefA6-BPK8B8sHrIUKfO9X_Mti8Sf4k0Q" />
     </application>
 </manifest>
