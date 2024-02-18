@@ -1,4 +1,8 @@
 package com.example.orderattack.game.movie
 
-class Movie {
-}
+data class MovieItem(
+    val title: String,
+    val imageResId: Int,
+    val posterResId: Int,
+    val detailId: Int
+)

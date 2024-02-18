@@ -1,4 +1,7 @@
 package com.example.orderattack.game.movie
 
-class CinemaItem {
-}
+data class CinemaItem(
+    val cinemaName: String,
+    val region: String,
+    var isClicked: Boolean = false
+)

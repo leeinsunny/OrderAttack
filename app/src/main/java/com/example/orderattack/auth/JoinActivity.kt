@@ -28,7 +28,7 @@ class JoinActivity : AppCompatActivity() {
     val storage = Firebase.storage
 
 
-    // 바로 밑에 있는 변수들은 realtime databse에 저장할 사용자의 정보들을 의미함
+    // 바로 밑에 있는 변수들은 realtime database에 저장할 사용자의 정보들을 의미함
     private var name = ""
     private var phonenumber = ""
     private var birthdate = ""

@@ -15,9 +15,11 @@ color min_yellow
 color mint
 color orange
 color real_light_pink
+color right_red
 color skyblue
 color white
 color yellow
+<<<<<<< Updated upstream
 drawable aa
 drawable ad
 drawable all
@@ -41,6 +43,13 @@ drawable burger_bul
 drawable burger_chicken
 drawable burger_seafood
 drawable burgertab
+=======
+drawable background_viewers
+drawable blankprofile
+drawable boarder
+drawable bottom_line_btn
+drawable btn_reset_viewers
+>>>>>>> Stashed changes
 drawable bus_background
 drawable button_bus
 drawable button_kio
@@ -49,6 +58,7 @@ drawable cala
 drawable card
 drawable cardpay
 drawable chat
+<<<<<<< Updated upstream
 drawable checkandpay
 drawable chicken
 drawable chiinchi
@@ -67,6 +77,38 @@ drawable frimaterialchange
 drawable getproduct
 drawable getwallet
 drawable gotomap
+=======
+drawable cinema_not_selected_btn
+drawable cinema_plus_btn
+drawable cinema_select_btn
+drawable cinema_selected_btn
+drawable date0_btn
+drawable date0_selected_btn
+drawable date10_cant_selected_btn
+drawable date10_selected_btn
+drawable date11_cant_selected_btn
+drawable date11_selected_btn
+drawable date12_cant_selected_btn
+drawable date12_selected_btn
+drawable date1_btn
+drawable date1_selected_btn
+drawable date2_btn
+drawable date2_selected_btn
+drawable date3_btn
+drawable date3_selected_btn
+drawable date4_btn
+drawable date4_selected_btn
+drawable date5_btn
+drawable date5_selected_btn
+drawable date6_cant_selected_btn
+drawable date6_selected_btn
+drawable date7_cant_selected_btn
+drawable date7_selected_btn
+drawable date8_cant_selected_btn
+drawable date8_selected_btn
+drawable date9_cant_selected_btn
+drawable date9_selected_btn
+>>>>>>> Stashed changes
 drawable gradient
 drawable hammaterialchange
 drawable home
@@ -80,6 +122,7 @@ drawable jadu
 drawable jeu
 drawable kakaopay
 drawable kio_background
+<<<<<<< Updated upstream
 drawable kio_chooseplace_back
 drawable kio_hampackage
 drawable kio_startorder_btn
@@ -102,6 +145,49 @@ drawable mpornot_fri_answer1
 drawable mpornot_ham
 drawable mpornot_ham_answer1
 drawable mpornot_ham_answer2
+=======
+drawable minus_btn
+drawable mov_background
+drawable movie10_detail
+drawable movie10_poster
+drawable movie11_detail
+drawable movie11_poster
+drawable movie1_detail
+drawable movie1_poster
+drawable movie1_success_window
+drawable movie1_success_window2
+drawable movie1_success_window3
+drawable movie1_wallet
+drawable movie2_detail
+drawable movie2_poster
+drawable movie3_detail
+drawable movie3_poster
+drawable movie4_detail
+drawable movie4_poster
+drawable movie5_detail
+drawable movie5_poster
+drawable movie6_detail
+drawable movie6_poster
+drawable movie7_detail
+drawable movie7_poster
+drawable movie8_detail
+drawable movie8_poster
+drawable movie9_detail
+drawable movie9_poster
+drawable movie_main_background
+drawable movie_poster1
+drawable movie_poster10
+drawable movie_poster11
+drawable movie_poster2
+drawable movie_poster3
+drawable movie_poster4
+drawable movie_poster5
+drawable movie_poster6
+drawable movie_poster7
+drawable movie_poster8
+drawable movie_poster9
+drawable movie_setting_banner
+>>>>>>> Stashed changes
 drawable mypage
 drawable normalset
 drawable notchoose
@@ -111,6 +197,7 @@ drawable ourtown
 drawable paywaychoose
 drawable pfback
 drawable pfmodify
+<<<<<<< Updated upstream
 drawable pie_to
 drawable plusbtn
 drawable popup_bus_bonus
@@ -129,6 +216,10 @@ drawable popup_kiosk_second
 drawable popup_kiosk_second_help
 drawable popup_kiosk_third
 drawable popup_kiosk_third_help
+=======
+drawable plus_btn
+drawable popup_movie1_success
+>>>>>>> Stashed changes
 drawable popup_movie_background
 drawable popup_movie_bonus
 drawable popup_movie_bonus_help
@@ -144,6 +235,7 @@ drawable putcardbtn
 drawable quantity
 drawable qzero
 drawable rank
+<<<<<<< Updated upstream
 drawable realfinal_check_inburger
 drawable realtogether
 drawable retry
@@ -160,17 +252,48 @@ drawable setwallet
 drawable single
 drawable sp
 drawable sslab_to
+=======
+drawable rectagle_btn
+drawable screen
+drawable seat_enabled
+drawable seat_not_selected
+drawable seat_selected
+drawable seat_unenabled
+>>>>>>> Stashed changes
 drawable start_bonus_btn
 drawable start_btn
 drawable step1
 drawable step2
 drawable step3
 drawable stepbonus
+<<<<<<< Updated upstream
 drawable successwindow
 drawable suorder
 drawable together
 drawable vanilco
 drawable vanilshake
+=======
+drawable time_btn1
+drawable time_btn10
+drawable time_btn11
+drawable time_btn12
+drawable time_btn13
+drawable time_btn14
+drawable time_btn15
+drawable time_btn16
+drawable time_btn17
+drawable time_btn18
+drawable time_btn19
+drawable time_btn2
+drawable time_btn20
+drawable time_btn3
+drawable time_btn4
+drawable time_btn5
+drawable time_btn6
+drawable time_btn7
+drawable time_btn8
+drawable time_btn9
+>>>>>>> Stashed changes
 drawable wallet
 drawable walletget
 id Burger_all
@@ -200,6 +323,7 @@ id action_walletFragment_to_chattingFragment
 id action_walletFragment_to_mypageFragment
 id action_walletFragment_to_ourtownFragment
 id action_walletFragment_to_rankFragment
+<<<<<<< Updated upstream
 id alltab
 id back
 id backstage
@@ -223,6 +347,44 @@ id colamaterialchange
 id colamedium
 id colazero
 id dripco_to
+=======
+id backBtn
+id background_viewers
+id background_viewers2
+id background_viewers3
+id background_viewers4
+id birtharea
+id birtharea_inmypage
+id btn_back
+id btn_back_to_map
+id btn_back_to_practice
+id btn_equip_wallet
+id btn_get_wallet
+id btn_minus
+id btn_minus2
+id btn_minus3
+id btn_minus4
+id btn_pay
+id btn_plus
+id btn_plus2
+id btn_plus3
+id btn_plus4
+id btn_reset_viewers
+id btn_seat
+id btn_select_seats_enabled
+id btn_select_seats_unenabled
+id ccDjBtn
+id chat
+id chattingFragment
+id cinemaBtn
+id cinemaListRecyclerView
+id cinemaName
+id dateImage
+id dialogBanner
+id dialogMoviePoster
+id dialogSelectTheaterBtn
+id dialog_dates_recyclerview
+>>>>>>> Stashed changes
 id dummyView
 id emailarea
 id emailarea_inmypage
@@ -234,6 +396,7 @@ id frichi
 id frimaterialchange
 id gamestart_inmain
 id gametutorial_inmain
+<<<<<<< Updated upstream
 id getproduct
 id getwallet
 id gohealing_inmain
@@ -258,6 +421,21 @@ id kiosk_chooseplace_table
 id kiosk_startorder_btn
 id largeset
 id level1wallet
+=======
+id gbDgBtn
+id ggIcnBtn
+id gnBsnUsnBtn
+id gohealing_inmain
+id gwBtn
+id imageView
+id imageView_movie_poster
+id image_above_recyclerview
+id initmap_inintro
+id jejuBtn
+id jlGjBtn
+id joinBtn
+id line
+>>>>>>> Stashed changes
 id linearLayout
 id linearLayout2
 id linearLayout3
@@ -275,6 +453,7 @@ id minusbtnofto
 id mobilegift
 id modifyapplyBtn_inmypage
 id modifymyinfo_inmypage
+<<<<<<< Updated upstream
 id mpornot_back
 id mpornotaftercoke_back
 id mpornotafterfri_back
@@ -284,6 +463,9 @@ id mpornotcokeanswer_back
 id mpornotfri_back
 id mpornotham_back
 id mpornothamanswer2_back
+=======
+id movieDetail
+>>>>>>> Stashed changes
 id mypage
 id mypageFragment
 id namearea
@@ -342,6 +524,7 @@ id quantity
 id qzero
 id rank
 id rankFragment
+<<<<<<< Updated upstream
 id real_final_check
 id retry
 id savechange
@@ -355,6 +538,18 @@ id setwallet
 id shrimp_to
 id single
 id spritemedium
+=======
+id reserveBtn
+id reserve_btn
+id rv_movies
+id rv_seats
+id rv_showtimes
+id selectCinemaText
+id selectedCinemaBtn
+id selectedCinemaLayout
+id selectedCinemaName
+id seoulBtn
+>>>>>>> Stashed changes
 id stage1btn_inintro
 id stage2btn_inintro
 id stage3btn_inintro
@@ -363,10 +558,31 @@ id step1_btn
 id step2_btn
 id step3_btn
 id stepbonus_btn
+<<<<<<< Updated upstream
 id successorder_back
 id successwindow_back
 id together_back
 id vanilashake
+=======
+id timeBtn
+id tv_adult_count
+id tv_adult_label
+id tv_handicap
+id tv_handicap_count
+id tv_movie_name
+id tv_no_selection
+id tv_not_played
+id tv_seat_num
+id tv_seats
+id tv_seats_plz
+id tv_selected_info
+id tv_senior
+id tv_senior_count
+id tv_teenager
+id tv_teenager_count
+id tv_viewers
+id tv_viewers_selection
+>>>>>>> Stashed changes
 id wallet
 id walletFragment
 id walletget_back
@@ -399,6 +615,7 @@ layout activity_kioskintro
 layout activity_login
 layout activity_main
 layout activity_movie_bonus
+layout activity_movie_detail
 layout activity_movie_step1
 layout activity_movie_step2
 layout activity_movie_step3
@@ -414,6 +631,7 @@ layout activity_mpornot_ham
 layout activity_mpornot_ham_answer1
 layout activity_mpornot_ham_answer2
 layout activity_mypage
+<<<<<<< Updated upstream
 layout activity_orderfinish
 layout activity_paywaychoose
 layout activity_realwalletget
@@ -425,11 +643,26 @@ layout activity_splash
 layout activity_success_order
 layout activity_successwindow
 layout activity_together
+=======
+layout activity_reserve
+layout activity_splash
+layout activity_stage1intro
+layout activity_stage3intro
+layout activity_step1_clear
+layout activity_step1_clear2
+layout cinema_item_layout
+layout date_item_layout
+layout dialog_cinema_list
+layout dialog_movie_setting
+layout dialog_region_selection
+layout dialog_viewer_selection
+>>>>>>> Stashed changes
 layout fragment_chatting
 layout fragment_mypage
 layout fragment_ourtown
 layout fragment_rank
 layout fragment_wallet
+<<<<<<< Updated upstream
 layout popup_bus_bonus
 layout popup_bus_step1
 layout popup_bus_step2
@@ -438,11 +671,21 @@ layout popup_kiosk_bonus
 layout popup_kiosk_step1
 layout popup_kiosk_step2
 layout popup_kiosk_step3
+=======
+layout movie_item_layout
+layout popup_movie1_success
+>>>>>>> Stashed changes
 layout popup_movie_bonus
 layout popup_movie_step1
 layout popup_movie_step2
 layout popup_movie_step3
+<<<<<<< Updated upstream
 layout popup_notice_success_lv1
+=======
+layout seat_item
+layout selected_cinema_btn
+layout showtime_item_layout
+>>>>>>> Stashed changes
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation main_nav
@@ -455,6 +698,8 @@ string google_storage_bucket
 string hello_blank_fragment
 string project_id
 style Base.Theme.OrderAttack
+style FullHeightBottomSheetDialog
+style NotFullHeightBottomSheetDialog
 style Theme.OrderAttack
 xml backup_rules
 xml data_extraction_rules

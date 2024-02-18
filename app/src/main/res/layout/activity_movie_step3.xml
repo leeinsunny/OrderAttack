@@ -7,4 +7,25 @@
     android:layout_height="match_parent"
     tools:context=".game.movie.MovieStep3Activity">
 
+    <ImageView
+        android:id="@+id/image_above_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="374dp"
+        android:src="@drawable/movie_main_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_movies"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/image_above_recyclerview"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/movie_item_layout" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
