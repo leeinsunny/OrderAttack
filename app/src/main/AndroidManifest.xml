@@ -19,9 +19,6 @@
             android:name=".game.kiosk.Step1.realwalletget"
             android:exported="false" />
         <activity
-            android:name=".game.kiosk.Step1.walletget"
-            android:exported="false" />
-        <activity
             android:name=".game.kiosk.Step1.successwindow"
             android:exported="false" />
         <activity
@@ -187,5 +184,6 @@
             android:name=".game.bus.BusStep2Activity"
             android:exported="false" />
     </application>
+
 
 </manifest>
