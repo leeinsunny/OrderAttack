@@ -32,7 +32,7 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
     private var selectedShowtimeResId: Int = 0 // 클릭된 시간 버튼 저장
     private var selectedMovieTitle: String = "" // 선택된 영화 제목 저장
     private var selectedCinemaName: String = "" // 선택된 영화관 이름 저장
-    private var selectedDateResId: Int = 2131165314 // 클릭한 날짜 저장
+    private var selectedDateResId: Int = 0 // 클릭한 날짜 저장
 
     private val moviesList = listOf(
         MovieItem(
@@ -106,19 +106,19 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
 
     private fun initializeOrUpdateDatesList() {
         datesList = listOf(
-            DateItem(R.drawable.date0_btn, R.drawable.date0_selected_btn, true),
-            DateItem(R.drawable.date1_btn, R.drawable.date1_selected_btn, false),
-            DateItem(R.drawable.date2_btn, R.drawable.date2_selected_btn, false),
-            DateItem(R.drawable.date3_btn, R.drawable.date3_selected_btn, false),
-            DateItem(R.drawable.date4_btn, R.drawable.date4_selected_btn, false),
-            DateItem(R.drawable.date5_btn, R.drawable.date5_selected_btn, false),
-            DateItem(R.drawable.date6_cant_selected_btn, R.drawable.date6_selected_btn, false, false),
-            DateItem(R.drawable.date7_cant_selected_btn, R.drawable.date7_selected_btn, false, false),
-            DateItem(R.drawable.date8_cant_selected_btn, R.drawable.date8_selected_btn, false, false),
-            DateItem(R.drawable.date9_cant_selected_btn, R.drawable.date9_selected_btn, false, false),
-            DateItem(R.drawable.date10_cant_selected_btn, R.drawable.date10_selected_btn, false, false),
-            DateItem(R.drawable.date11_cant_selected_btn, R.drawable.date11_selected_btn, false, false),
-            DateItem(R.drawable.date12_cant_selected_btn, R.drawable.date12_selected_btn, false, false)
+            DateItem("1", R.drawable.date0_btn, R.drawable.date0_selected_btn, true),
+            DateItem("2", R.drawable.date1_btn, R.drawable.date1_selected_btn, false),
+            DateItem("3", R.drawable.date2_btn, R.drawable.date2_selected_btn, false),
+            DateItem("4", R.drawable.date3_btn, R.drawable.date3_selected_btn, false),
+            DateItem("5", R.drawable.date4_btn, R.drawable.date4_selected_btn, false),
+            DateItem("6", R.drawable.date5_btn, R.drawable.date5_selected_btn, false),
+            DateItem("7", R.drawable.date6_cant_selected_btn, R.drawable.date6_selected_btn, false, false),
+            DateItem("8", R.drawable.date7_cant_selected_btn, R.drawable.date7_selected_btn, false, false),
+            DateItem("9", R.drawable.date8_cant_selected_btn, R.drawable.date8_selected_btn, false, false),
+            DateItem("10", R.drawable.date9_cant_selected_btn, R.drawable.date9_selected_btn, false, false),
+            DateItem("11", R.drawable.date10_cant_selected_btn, R.drawable.date10_selected_btn, false, false),
+            DateItem("12", R.drawable.date11_cant_selected_btn, R.drawable.date11_selected_btn, false, false),
+            DateItem("13", R.drawable.date12_cant_selected_btn, R.drawable.date12_selected_btn, false, false)
         )
     }
 
@@ -229,6 +229,7 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
 
                 }
             }
+
         recyclerView = findViewById(R.id.rv_movies)
         recyclerView.layoutManager =
             LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
@@ -443,10 +444,20 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
         return (cinemasList).filter { it.region == region }
     }
 
+
+
     private fun checkShowtimes(cinemaItem: CinemaItem, dialogView: View) {
 
         // 선택된 영화관이 있는지 확인
         val isSelectedCinemaExists = cinemaItem.isClicked
+
+        if (selectedDateResId == 0) {
+            val defaultDateItem = datesList.find { it.id == "1" }
+            defaultDateItem?.let {
+                selectedDateResId = it.clickedImageResId
+            }
+        }
+
         val dateItem = datesList.find { it.clickedImageResId == selectedDateResId }
         val isPlayedAtTheDate = dateItem!!.isPlayed
 
