@@ -9,6 +9,7 @@ import android.view.ViewGroup
 import android.widget.ImageButton
 import androidx.appcompat.app.AppCompatActivity
 import com.example.orderattack.R
+import com.example.orderattack.game.kiosk.Step1.KioskStep1Activity
 
 class Kiosk_intro: AppCompatActivity() {
 

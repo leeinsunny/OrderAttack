@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
 MERGED from [androidx.databinding:databinding-adapters:8.0.2] C:\Users\user\.gradle\caches\transforms-3\a3fccee7ea1f8377c40b6ae2c4332ee5\transformed\databinding-adapters-8.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.0.2] C:\Users\user\.gradle\caches\transforms-3\59141f00d75c81150dc0c9c2d44bddbd\transformed\databinding-ktx-8.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.0.2] C:\Users\user\.gradle\caches\transforms-3\573b15db83c45568af73011c20a3c2b3\transformed\databinding-runtime-8.0.2\AndroidManifest.xml:2:1-7:12
@@ -102,22 +102,22 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\user\.gradle\caches\transforms
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\.gradle\caches\transforms-3\bbd29f5b24412def02b6f26c95f8cb19\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\user\.gradle\caches\transforms-3\194e1a0a1081f4d4a026dd530356f627\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\user\.gradle\caches\transforms-3\010470bce7b9a96e23397f7490e62ae8\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
 	package
 		INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
 		INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
 		INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-94:12
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:1-191:12
 		INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:2:11-69
@@ -148,7 +148,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:
 	android:name
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:8:5-93:19
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:8:5-189:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.3.0] C:\Users\user\.gradle\caches\transforms-3\2da6d0b3018a4049e8f869689369bac3\transformed\firebase-database-ktx-20.3.0\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.3.0] C:\Users\user\.gradle\caches\transforms-3\2da6d0b3018a4049e8f869689369bac3\transformed\firebase-database-ktx-20.3.0\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\user\.gradle\caches\transforms-3\df654e63c76eff7fbe1dc8114452dc00\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:7:5-15:19
@@ -241,154 +241,346 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\.gradle\cache
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:16:9-49
 	android:dataExtractionRules
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:10:9-65
-activity#com.example.orderattack.Healingtown.MypageActivity
+activity#com.example.orderattack.game.kiosk.Step1.realwalletget
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:19:13-55
-activity#com.example.orderattack.game.movie.MovieBonusActivity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:19:13-59
+activity#com.example.orderattack.game.kiosk.Step1.walletget
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:22:13-58
-activity#com.example.orderattack.game.movie.MovieStep3Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:22:13-55
+activity#com.example.orderattack.game.kiosk.Step1.successwindow
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:25:13-58
-activity#com.example.orderattack.game.movie.MovieStep1Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:25:13-59
+activity#com.example.orderattack.game.kiosk.Step1.orderfinish
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:27:9-29:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:28:13-58
-activity#com.example.orderattack.game.movie.MovieStep2Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:28:13-57
+activity#com.example.orderattack.game.kiosk.Step1.cardpay
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:31:13-58
-activity#com.example.orderattack.game.movie.Movie_intro
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:31:13-53
+activity#com.example.orderattack.game.kiosk.Step1.paywaychoose
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:33:9-35:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:34:13-51
-activity#com.example.orderattack.Healingtown.HealingMainActivity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:34:13-58
+activity#com.example.orderattack.game.kiosk.Step1.beforepay_ordercheck
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:36:9-38:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:37:13-60
-activity#com.example.orderattack.auth.JoinActivity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:37:13-66
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_after_coke
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:39:9-41:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:40:13-46
-activity#com.example.orderattack.auth.LoginActivity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:40:13-64
+activity#com.example.orderattack.game.kiosk.Step1.together
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:42:9-44:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:43:13-47
-activity#com.example.orderattack.auth.IntroActivity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:43:13-54
+activity#com.example.orderattack.game.kiosk.Step1.final_check_inburger
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:45:9-47:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:46:13-47
-activity#com.example.orderattack.SplashActivity
-ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:48:9-56:20
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:46:13-66
+activity#com.example.orderattack.game.kiosk.Step1.success_order
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:48:9-50:40
 	android:exported
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:50:13-36
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:50:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:49:13-43
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:51:13-55:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:52:17-69
-	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:52:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:54:17-77
-	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:54:27-74
-activity#com.example.orderattack.MainActivity
-ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:57:9-59:39
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:49:13-59
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_coke_answer
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:51:9-53:40
 	android:exported
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:59:13-36
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:53:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:58:13-41
-activity#com.example.orderattack.game.gameintro
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:52:13-65
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_coke
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:55:13-58
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_after_fri
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:57:9-59:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:58:13-63
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_fri_answer1
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:60:9-62:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:62:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:61:13-43
-activity#com.example.orderattack.game.kiosk.Kiosk_intro
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:61:13-65
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_fri
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:63:9-65:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:65:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:64:13-51
-activity#com.example.orderattack.game.kiosk.KioskBonusActivity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:64:13-57
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_after_ham
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:66:9-68:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:68:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:67:13-58
-activity#com.example.orderattack.game.kiosk.KioskStep3Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:67:13-63
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_ham_answer2
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:69:9-71:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:71:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:70:13-58
-activity#com.example.orderattack.game.kiosk.KioskStep1Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:70:13-65
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_ham_answer1
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:72:9-74:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:74:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:73:13-58
-activity#com.example.orderattack.game.kiosk.KioskStep2Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:73:13-65
+activity#com.example.orderattack.game.kiosk.Step1.mpornot_ham
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:75:9-77:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:77:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:76:13-58
-activity#com.example.orderattack.game.bus.Bus_intro
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:76:13-57
+activity#com.example.orderattack.game.kiosk.Step1.mpornot
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:78:9-80:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:80:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:79:13-47
-activity#com.example.orderattack.game.bus.BusBonusActivity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:79:13-53
+activity#com.example.orderattack.game.kiosk.Step1.setside_drink
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:81:9-83:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:83:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:82:13-54
-activity#com.example.orderattack.game.bus.BusStep3Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:82:13-59
+activity#com.example.orderattack.game.kiosk.Step1.setside
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:84:9-86:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:86:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:85:13-54
-activity#com.example.orderattack.game.bus.BusStep1Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:85:13-53
+activity#com.example.orderattack.game.kiosk.Step1.setsize
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:87:9-89:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:89:13-37
 	android:name
-		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:88:13-54
-activity#com.example.orderattack.game.bus.BusStep2Activity
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:88:13-53
+activity#com.example.orderattack.game.kiosk.Step1.setornot
 ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:90:9-92:40
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:92:13-37
 	android:name
 		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:91:13-54
+activity#com.example.orderattack.game.kiosk.Step1.burger_seafood
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:93:9-95:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:94:13-60
+activity#com.example.orderattack.game.kiosk.Step1.Burger_bul
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:96:9-98:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:97:13-56
+activity#com.example.orderattack.game.kiosk.Step1.Burger_chicken
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:99:9-101:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:100:13-60
+activity#com.example.orderattack.game.kiosk.Step1.Burger_beef
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:102:9-104:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:104:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:103:13-57
+activity#com.example.orderattack.game.kiosk.Step1.Burger_all
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:105:9-107:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:106:13-56
+activity#com.example.orderattack.game.kiosk.Step1.home_beforeorder
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:108:9-110:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:110:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:109:13-62
+activity#com.example.orderattack.game.kiosk.Step1.ChooseplaceActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:111:9-113:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:113:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:112:13-65
+activity#com.example.orderattack.Healingtown.MypageActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:114:9-116:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:115:13-55
+activity#com.example.orderattack.game.movie.MovieBonusActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:117:9-119:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:119:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:118:13-58
+activity#com.example.orderattack.game.movie.MovieStep3Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:120:9-122:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:121:13-58
+activity#com.example.orderattack.game.movie.MovieStep1Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:123:9-125:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:125:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:124:13-58
+activity#com.example.orderattack.game.movie.MovieStep2Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:127:13-58
+activity#com.example.orderattack.game.movie.Movie_intro
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:129:9-131:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:131:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:130:13-51
+activity#com.example.orderattack.Healingtown.HealingMainActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:132:9-134:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:134:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:133:13-60
+activity#com.example.orderattack.auth.JoinActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:135:9-137:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:137:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:136:13-46
+activity#com.example.orderattack.auth.LoginActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:138:9-140:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:139:13-47
+activity#com.example.orderattack.auth.IntroActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:141:9-143:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:143:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:142:13-47
+activity#com.example.orderattack.SplashActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:144:9-152:20
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:146:13-36
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:145:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:147:13-151:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:148:17-69
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:148:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:150:17-77
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:150:27-74
+activity#com.example.orderattack.MainActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:153:9-155:39
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:155:13-36
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:154:13-41
+activity#com.example.orderattack.game.gameintro
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:156:9-158:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:158:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:157:13-43
+activity#com.example.orderattack.game.kiosk.Kiosk_intro
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:159:9-161:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:161:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:160:13-51
+activity#com.example.orderattack.game.kiosk.KioskBonusActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:162:9-164:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:164:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:163:13-58
+activity#com.example.orderattack.game.kiosk.KioskStep3Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:165:9-167:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:167:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:166:13-58
+activity#com.example.orderattack.game.kiosk.Step1.KioskStep1Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:168:9-170:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:170:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:169:13-64
+activity#com.example.orderattack.game.kiosk.KioskStep2Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:171:9-173:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:173:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:172:13-58
+activity#com.example.orderattack.game.bus.Bus_intro
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:174:9-176:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:176:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:175:13-47
+activity#com.example.orderattack.game.bus.BusBonusActivity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:177:9-179:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:179:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:178:13-54
+activity#com.example.orderattack.game.bus.BusStep3Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:180:9-182:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:182:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:181:13-54
+activity#com.example.orderattack.game.bus.BusStep1Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:183:9-185:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:185:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:184:13-54
+activity#com.example.orderattack.game.bus.BusStep2Activity
+ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:186:9-188:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:188:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml:187:13-54
 uses-sdk
 INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\user\AndroidStudioProjects\OrderAttack\app\src\main\AndroidManifest.xml
