@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".game.kiosk.Step1.mpornot_fri">
+
+    <ImageView
+        android:id="@+id/mpornotfri_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mpornot_fri"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ImageView
+        android:id="@+id/quantity"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside"
+        android:src="@drawable/quantity"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.717"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.375" />
+
+    <ImageButton
+        android:id="@+id/minusbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="18.5dp"
+        android:layout_marginEnd="1dp"
+        android:background="@android:color/transparent"
+        android:scaleType="centerInside"
+        android:src="@drawable/minusbtn"
+        app:layout_constraintBottom_toBottomOf="@+id/quantity"
+        app:layout_constraintEnd_toEndOf="@+id/quantity"
+        app:layout_constraintHorizontal_bias="0.741"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/quantity" />
+
+    <ImageButton
+        android:id="@+id/plusbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="18dp"
+        android:background="@android:color/transparent"
+        android:scaleType="centerInside"
+        android:src="@drawable/plusbtn"
+        app:layout_constraintBottom_toBottomOf="@+id/quantity"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.779"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/quantity" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
