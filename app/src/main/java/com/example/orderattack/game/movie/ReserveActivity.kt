@@ -43,8 +43,6 @@ class ReserveActivity : AppCompatActivity() {
         seatsRecyclerView = findViewById(R.id.rv_seats)
         seatsList = initializeSeats()
 
-        seatsAdapter.notifyDataSetChanged()
-
         val layoutManager = GridLayoutManager(this, 8)
         seatsRecyclerView.layoutManager = layoutManager
         seatsAdapter = SeatsAdapter(this, seatsList) { seat ->
@@ -102,6 +100,7 @@ class ReserveActivity : AppCompatActivity() {
             }
         }
 
+        seatsAdapter.notifyDataSetChanged()
         updateSelectedSeatsDisplay()
         updatePaymentButtonVisibility()
     }

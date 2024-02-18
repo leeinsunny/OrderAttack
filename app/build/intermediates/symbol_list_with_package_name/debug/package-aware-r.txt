@@ -122,6 +122,7 @@ attr alpha
 attr alphabeticModifiers
 attr altSrc
 attr alwaysExpand
+attr ambientEnabled
 attr animateCircleAngleTo
 attr animateRelativeTo
 attr animationMode
@@ -208,6 +209,13 @@ attr buttonStyle
 attr buttonStyleSmall
 attr buttonTint
 attr buttonTintMode
+attr cameraBearing
+attr cameraMaxZoomPreference
+attr cameraMinZoomPreference
+attr cameraTargetLat
+attr cameraTargetLng
+attr cameraTilt
+attr cameraZoom
 attr cardBackgroundColor
 attr cardCornerRadius
 attr cardElevation
@@ -635,6 +643,10 @@ attr labelBehavior
 attr labelStyle
 attr labelVisibilityMode
 attr lastBaselineToBottomHeight
+attr latLngBoundsNorthEastLatitude
+attr latLngBoundsNorthEastLongitude
+attr latLngBoundsSouthWestLatitude
+attr latLngBoundsSouthWestLongitude
 attr launchSingleTop
 attr layout
 attr layoutDescription
@@ -730,8 +742,10 @@ attr listPreferredItemPaddingEnd
 attr listPreferredItemPaddingLeft
 attr listPreferredItemPaddingRight
 attr listPreferredItemPaddingStart
+attr liteMode
 attr logo
 attr logoDescription
+attr mapType
 attr marginHorizontal
 attr materialAlertDialogBodyTextStyle
 attr materialAlertDialogButtonSpacerVisibility
@@ -1177,10 +1191,19 @@ attr triggerId
 attr triggerReceiver
 attr triggerSlack
 attr ttcIndex
+attr uiCompass
+attr uiMapToolbar
+attr uiRotateGestures
+attr uiScrollGestures
+attr uiScrollGesturesDuringRotateOrZoom
+attr uiTiltGestures
+attr uiZoomControls
+attr uiZoomGestures
 attr upDuration
 attr uri
 attr useCompatPadding
 attr useMaterialThemeColors
+attr useViewLifecycle
 attr values
 attr verticalOffset
 attr verticalOffsetWithText
@@ -1211,6 +1234,7 @@ attr windowNoTitle
 attr yearSelectedStyle
 attr yearStyle
 attr yearTodayStyle
+attr zOrderOnTop
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
 bool m3_sys_typescale_body_large_text_all_caps
@@ -2522,8 +2546,8 @@ drawable all
 drawable allinbeef
 drawable avd_hide_password
 drawable avd_show_password
-<<<<<<< Updated upstream
 drawable back
+drawable background_viewers
 drawable backstage
 drawable basket
 drawable beef
@@ -2532,9 +2556,6 @@ drawable beefinchi
 drawable beforepay_ordercheck
 drawable betodi
 drawable bfp_ordersuccess
-=======
-drawable background_viewers
->>>>>>> Stashed changes
 drawable blankprofile
 drawable boarder
 drawable bottom_line_btn
@@ -2546,7 +2567,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
-<<<<<<< Updated upstream
+drawable btn_reset_viewers
 drawable bul
 drawable bulinbul
 drawable burger_all
@@ -2555,9 +2576,6 @@ drawable burger_bul
 drawable burger_chicken
 drawable burger_seafood
 drawable burgertab
-=======
-drawable btn_reset_viewers
->>>>>>> Stashed changes
 drawable bus_background
 drawable button_bus
 drawable button_kio
@@ -2566,20 +2584,17 @@ drawable cala
 drawable card
 drawable cardpay
 drawable chat
-<<<<<<< Updated upstream
 drawable checkandpay
 drawable chicken
 drawable chiinchi
 drawable chooseplace_back
-drawable co
-drawable colamatericalchange
-drawable colamedium
-=======
 drawable cinema_not_selected_btn
 drawable cinema_plus_btn
 drawable cinema_select_btn
 drawable cinema_selected_btn
->>>>>>> Stashed changes
+drawable co
+drawable colamatericalchange
+drawable colamedium
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2599,9 +2614,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
-<<<<<<< Updated upstream
 drawable cozero
-=======
 drawable date0_btn
 drawable date0_selected_btn
 drawable date10_cant_selected_btn
@@ -2628,7 +2641,6 @@ drawable date8_cant_selected_btn
 drawable date8_selected_btn
 drawable date9_cant_selected_btn
 drawable date9_selected_btn
->>>>>>> Stashed changes
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -2693,24 +2705,10 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
-<<<<<<< Updated upstream
 drawable mc_to
+drawable minus_btn
 drawable minusbtn
 drawable mobilegift
-drawable mov_background
-drawable mpornot
-drawable mpornot_after_coke
-drawable mpornot_after_fri
-drawable mpornot_after_ham
-drawable mpornot_coke
-drawable mpornot_coke_answer
-drawable mpornot_fri
-drawable mpornot_fri_answer1
-drawable mpornot_ham
-drawable mpornot_ham_answer1
-drawable mpornot_ham_answer2
-=======
-drawable minus_btn
 drawable mov_background
 drawable movie10_detail
 drawable movie10_poster
@@ -2751,7 +2749,17 @@ drawable movie_poster7
 drawable movie_poster8
 drawable movie_poster9
 drawable movie_setting_banner
->>>>>>> Stashed changes
+drawable mpornot
+drawable mpornot_after_coke
+drawable mpornot_after_fri
+drawable mpornot_after_ham
+drawable mpornot_coke
+drawable mpornot_coke_answer
+drawable mpornot_fri
+drawable mpornot_fri_answer1
+drawable mpornot_ham
+drawable mpornot_ham_answer1
+drawable mpornot_ham_answer2
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -2784,8 +2792,8 @@ drawable ourtown
 drawable paywaychoose
 drawable pfback
 drawable pfmodify
-<<<<<<< Updated upstream
 drawable pie_to
+drawable plus_btn
 drawable plusbtn
 drawable popup_bus_bonus
 drawable popup_bus_bonus_help
@@ -2803,10 +2811,7 @@ drawable popup_kiosk_second
 drawable popup_kiosk_second_help
 drawable popup_kiosk_third
 drawable popup_kiosk_third_help
-=======
-drawable plus_btn
 drawable popup_movie1_success
->>>>>>> Stashed changes
 drawable popup_movie_background
 drawable popup_movie_bonus
 drawable popup_movie_bonus_help
@@ -2822,14 +2827,19 @@ drawable putcardbtn
 drawable quantity
 drawable qzero
 drawable rank
-<<<<<<< Updated upstream
 drawable realfinal_check_inburger
 drawable realtogether
+drawable rectagle_btn
 drawable retry
 drawable savechange
 drawable savefrichange
+drawable screen
 drawable seafood
 drawable seafoodinseafood
+drawable seat_enabled
+drawable seat_not_selected
+drawable seat_selected
+drawable seat_unenabled
 drawable set
 drawable setornot
 drawable setside
@@ -2839,14 +2849,6 @@ drawable setwallet
 drawable single
 drawable sp
 drawable sslab_to
-=======
-drawable rectagle_btn
-drawable screen
-drawable seat_enabled
-drawable seat_not_selected
-drawable seat_selected
-drawable seat_unenabled
->>>>>>> Stashed changes
 drawable start_bonus_btn
 drawable start_btn
 drawable step1
@@ -2857,9 +2859,6 @@ drawable successwindow
 drawable suorder
 drawable test_custom_background
 drawable test_level_drawable
-<<<<<<< Updated upstream
-drawable together
-=======
 drawable time_btn1
 drawable time_btn10
 drawable time_btn11
@@ -2880,7 +2879,7 @@ drawable time_btn6
 drawable time_btn7
 drawable time_btn8
 drawable time_btn9
->>>>>>> Stashed changes
+drawable together
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable vanilco
@@ -3005,16 +3004,13 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
-<<<<<<< Updated upstream
 id back
-id backstage
-=======
 id backBtn
 id background_viewers
 id background_viewers2
 id background_viewers3
 id background_viewers4
->>>>>>> Stashed changes
+id backstage
 id barrier
 id baseline
 id basket
@@ -3038,9 +3034,6 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
-<<<<<<< Updated upstream
-id bul_inall
-=======
 id btn_back
 id btn_back_to_map
 id btn_back_to_practice
@@ -3059,7 +3052,7 @@ id btn_reset_viewers
 id btn_seat
 id btn_select_seats_enabled
 id btn_select_seats_unenabled
->>>>>>> Stashed changes
+id bul_inall
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3189,13 +3182,10 @@ id frimaterialchange
 id frost
 id gamestart_inmain
 id gametutorial_inmain
-<<<<<<< Updated upstream
+id gbDgBtn
 id getproduct
 id getwallet
-=======
-id gbDgBtn
 id ggIcnBtn
->>>>>>> Stashed changes
 id ghost_view
 id ghost_view_holder
 id glide_custom_view_target_tag
@@ -3210,11 +3200,8 @@ id group_divider
 id grouping
 id groups
 id guideline
-<<<<<<< Updated upstream
-id hammaterialchange
-=======
 id gwBtn
->>>>>>> Stashed changes
+id hammaterialchange
 id header_title
 id hideable
 id home
@@ -3223,6 +3210,7 @@ id home_beforeorder
 id honorRequest
 id horizontal_only
 id hotdripcoffee
+id hybrid
 id iceamericano
 id icecafelatte
 id icedripcoffee
@@ -3235,12 +3223,9 @@ id ignore
 id ignoreRequest
 id image
 id imageView
-<<<<<<< Updated upstream
 id imageView2
-=======
 id imageView_movie_poster
 id image_above_recyclerview
->>>>>>> Stashed changes
 id immediateStop
 id included
 id info
@@ -3249,12 +3234,9 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
-<<<<<<< Updated upstream
 id jeju
-=======
 id jejuBtn
 id jlGjBtn
->>>>>>> Stashed changes
 id joinBtn
 id jumpToEnd
 id jumpToStart
@@ -3266,6 +3248,7 @@ id kiosk_startorder_btn
 id labeled
 id largeset
 id layout
+id layout_main
 id left
 id leftToRight
 id legacy
@@ -3290,6 +3273,7 @@ id logout_inmypage
 id logoutinmain
 id ltr
 id main_nav
+id map
 id masked
 id match_constraint
 id match_parent
@@ -3328,7 +3312,7 @@ id month_navigation_next
 id month_navigation_previous
 id month_title
 id motion_base
-<<<<<<< Updated upstream
+id movieDetail
 id mpornot_back
 id mpornotaftercoke_back
 id mpornotafterfri_back
@@ -3338,9 +3322,6 @@ id mpornotcokeanswer_back
 id mpornotfri_back
 id mpornotham_back
 id mpornothamanswer2_back
-=======
-id movieDetail
->>>>>>> Stashed changes
 id mtrl_anchor_parent
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
@@ -3472,12 +3453,9 @@ id ratio
 id real_final_check
 id rectangles
 id report_drawn
-<<<<<<< Updated upstream
-id retry
-=======
 id reserveBtn
 id reserve_btn
->>>>>>> Stashed changes
+id retry
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3489,6 +3467,7 @@ id rtl
 id rv_movies
 id rv_seats
 id rv_showtimes
+id satellite
 id save_non_transition_alpha
 id save_overlay_view
 id savechange
@@ -3518,16 +3497,13 @@ id selectedCinemaBtn
 id selectedCinemaLayout
 id selectedCinemaName
 id selection_type
-<<<<<<< Updated upstream
+id seoulBtn
 id set
 id setornot_back
 id setside_back
 id setsidedrink_back
 id setsize_back
 id setwallet
-=======
-id seoulBtn
->>>>>>> Stashed changes
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3595,6 +3571,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id terrain
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -3811,26 +3788,20 @@ layout activity_mpornot_ham
 layout activity_mpornot_ham_answer1
 layout activity_mpornot_ham_answer2
 layout activity_mypage
-<<<<<<< Updated upstream
 layout activity_orderfinish
 layout activity_paywaychoose
 layout activity_realwalletget
+layout activity_reserve
 layout activity_setornot
 layout activity_setside
 layout activity_setside_drink
 layout activity_setsize
 layout activity_splash
+layout activity_step1_clear
+layout activity_step1_clear2
 layout activity_success_order
 layout activity_successwindow
 layout activity_together
-=======
-layout activity_reserve
-layout activity_splash
-layout activity_stage1intro
-layout activity_stage3intro
-layout activity_step1_clear
-layout activity_step1_clear2
->>>>>>> Stashed changes
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout cinema_item_layout
@@ -3913,7 +3884,6 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
-<<<<<<< Updated upstream
 layout popup_bus_bonus
 layout popup_bus_step1
 layout popup_bus_step2
@@ -3922,18 +3892,13 @@ layout popup_kiosk_bonus
 layout popup_kiosk_step1
 layout popup_kiosk_step2
 layout popup_kiosk_step3
-=======
 layout popup_movie1_success
->>>>>>> Stashed changes
 layout popup_movie_bonus
 layout popup_movie_step1
 layout popup_movie_step2
 layout popup_movie_step3
-<<<<<<< Updated upstream
 layout popup_notice_success_lv1
-=======
 layout seat_item
->>>>>>> Stashed changes
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -5228,6 +5193,7 @@ styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width 
 styleable LinearProgressIndicator indeterminateAnimationType indicatorDirectionLinear
 styleable ListPopupWindow android_dropDownHorizontalOffset android_dropDownVerticalOffset
 styleable LoadingImageView circleCrop imageAspectRatio imageAspectRatioAdjust
+styleable MapAttrs ambientEnabled cameraBearing cameraMaxZoomPreference cameraMinZoomPreference cameraTargetLat cameraTargetLng cameraTilt cameraZoom latLngBoundsNorthEastLatitude latLngBoundsNorthEastLongitude latLngBoundsSouthWestLatitude latLngBoundsSouthWestLongitude liteMode mapType uiCompass uiMapToolbar uiRotateGestures uiScrollGestures uiScrollGesturesDuringRotateOrZoom uiTiltGestures uiZoomControls uiZoomGestures useViewLifecycle zOrderOnTop
 styleable MaterialAlertDialog backgroundInsetBottom backgroundInsetEnd backgroundInsetStart backgroundInsetTop
 styleable MaterialAlertDialogTheme materialAlertDialogBodyTextStyle materialAlertDialogButtonSpacerVisibility materialAlertDialogTheme materialAlertDialogTitleIconStyle materialAlertDialogTitlePanelStyle materialAlertDialogTitleTextStyle
 styleable MaterialAutoCompleteTextView android_inputType
