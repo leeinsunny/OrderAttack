@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- 상단 선 -->
+    <!-- Entire button background transparent -->
     <item>
-        <shape android:shape="line">
-            <stroke
-                android:width="2dp"
-                android:color="#000000" />
-            <size android:height="1dp" />
-        </shape>
-    </item>
-
-    <!-- 버튼 배경 -->
-    <item android:top="1dp" android:bottom="1dp">
         <shape android:shape="rectangle">
             <solid android:color="@android:color/transparent" />
         </shape>
     </item>
 
+    <!-- Bottom line only -->
+    <item android:gravity="bottom" android:height="2dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#000000" />
+        </shape>
+    </item>
 </layer-list>

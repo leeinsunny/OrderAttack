@@ -1,4 +1,5 @@
 package com.example.orderattack.game.movie
 
-class TimeItem {
-}
+data class TimeItem (
+    val imageResId: Int
+)

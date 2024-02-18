@@ -36,7 +36,6 @@ class Movie_intro : AppCompatActivity() {
             showPopupBonus()
         }
 
-
     }
 
     private fun showPopupStep1() {
