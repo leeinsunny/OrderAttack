@@ -5,6 +5,8 @@ import ShowtimesAdapter
 import android.app.Activity
 import android.app.Dialog
 import android.content.Intent
+import android.graphics.Color
+import android.graphics.drawable.ColorDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -29,7 +31,7 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
     private lateinit var recyclerView: RecyclerView
     private lateinit var moviesAdapter: MovieRVAdapter
     private var currentDialogView: View? = null
-    private var selectedShowtimeResId: Int = 0 // 클릭된 시간 버튼 저장
+    private var selectedShowtimeId: Int = 0 // 클릭된 시간 버튼 저장
     private var selectedMovieTitle: String = "" // 선택된 영화 제목 저장
     private var selectedCinemaName: String = "" // 선택된 영화관 이름 저장
     private var selectedDateResId: Int = 0 // 클릭한 날짜 저장
@@ -123,26 +125,26 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
     }
 
     private val showtimesList = listOf(
-        TimeItem(R.drawable.time_btn1),
-        TimeItem(R.drawable.time_btn2),
-        TimeItem(R.drawable.time_btn3),
-        TimeItem(R.drawable.time_btn4),
-        TimeItem(R.drawable.time_btn5),
-        TimeItem(R.drawable.time_btn6),
-        TimeItem(R.drawable.time_btn7),
-        TimeItem(R.drawable.time_btn8),
-        TimeItem(R.drawable.time_btn9),
-        TimeItem(R.drawable.time_btn10),
-        TimeItem(R.drawable.time_btn11),
-        TimeItem(R.drawable.time_btn12),
-        TimeItem(R.drawable.time_btn13),
-        TimeItem(R.drawable.time_btn14),
-        TimeItem(R.drawable.time_btn15),
-        TimeItem(R.drawable.time_btn16),
-        TimeItem(R.drawable.time_btn17),
-        TimeItem(R.drawable.time_btn18),
-        TimeItem(R.drawable.time_btn19),
-        TimeItem(R.drawable.time_btn20)
+        TimeItem(1, R.drawable.time_btn1),
+        TimeItem(2, R.drawable.time_btn2),
+        TimeItem(3, R.drawable.time_btn3),
+        TimeItem(4, R.drawable.time_btn4),
+        TimeItem(5, R.drawable.time_btn5),
+        TimeItem(6, R.drawable.time_btn6),
+        TimeItem(7, R.drawable.time_btn7),
+        TimeItem(8, R.drawable.time_btn8),
+        TimeItem(9, R.drawable.time_btn9),
+        TimeItem(10, R.drawable.time_btn10),
+        TimeItem(11, R.drawable.time_btn11),
+        TimeItem(12, R.drawable.time_btn12),
+        TimeItem(13, R.drawable.time_btn13),
+        TimeItem(14, R.drawable.time_btn14),
+        TimeItem(15, R.drawable.time_btn15),
+        TimeItem(16, R.drawable.time_btn16),
+        TimeItem(17, R.drawable.time_btn17),
+        TimeItem(18, R.drawable.time_btn18),
+        TimeItem(19, R.drawable.time_btn19),
+        TimeItem(20, R.drawable.time_btn20)
     )
 
     private val cinemasList = listOf(
@@ -242,13 +244,39 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
     override fun onMovieClick(movie: MovieItem) {
         val intent = Intent(this, MovieDetailActivity::class.java)
         intent.putExtra("MOVIE_DETAIL_ID", movie.detailId)
+        intent.putExtra("MOVIE_TITLE", movie.title)
         resultLauncher.launch(intent)
     }
 
 
     override fun onReserveClick(movie: MovieItem) {
         // 예매 버튼 클릭 시 다이얼로그 표시 로직
-        showCinemaSetDialog(movie)
+        if (movie.title == "웡카") {
+            showCinemaSetDialog(movie)
+        } else {
+            showRetryPopup()
+        }
+    }
+
+    private fun showRetryPopup() {
+        val dialog = Dialog(this)
+        dialog.setContentView(R.layout.popup_comment_retry)
+
+        dialog.window?.setLayout(
+            ViewGroup.LayoutParams.MATCH_PARENT,
+            ViewGroup.LayoutParams.MATCH_PARENT
+        )
+
+        dialog.setCancelable(true)
+
+        dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
+
+        dialog.setOnCancelListener {
+            // 뒤로 가기 버튼이 눌렸을 때 호출
+            dialog.dismiss()
+        }
+
+        dialog.show()
     }
 
     override fun onDateClicked(dateResId: Int) {
@@ -279,13 +307,17 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
     }
 
 
-    override fun onShowtimeClicked(imageResId: Int) {
-        // 클릭된 showtime의 imageResId 저장
-        selectedShowtimeResId = imageResId
-        val intent = Intent(this, ReserveActivity::class.java).apply {
-            putExtra("MOVIE_TITLE", selectedMovieTitle)
+    override fun onShowtimeClicked(timeId: Int) {
+        selectedShowtimeId = timeId
+        val selectedDateItem = datesList.find { it.clickedImageResId == selectedDateResId }
+        if(selectedShowtimeId == 2 && selectedDateItem?.id == "2") { // 금요일인경우
+            val intent = Intent(this, ReserveActivity::class.java).apply {
+                putExtra("MOVIE_TITLE", selectedMovieTitle)
+            }
+            this.startActivity(intent)
+        } else {
+            showRetryPopup()
         }
-        this.startActivity(intent)
     }
 
 
@@ -340,7 +372,6 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
         // 날짜 recyclerView 설정
         val datesRecyclerView: RecyclerView =
             dialogView.findViewById(R.id.dialog_dates_recyclerview)
-
 
         val datesAdapter = DatesAdapter(datesList, this)
         datesRecyclerView.adapter = datesAdapter
@@ -414,10 +445,14 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
             cinemasInRegion.forEach { it.isClicked = false }
             cinema.isClicked = true
             selectedCinemaName = cinema.cinemaName
-            updateSelectedTheater(cinema.cinemaName, view)
-            checkShowtimes(cinema, view)
-            dialog.dismiss()
-            bsdialog.dismiss()
+            if (selectedCinemaName == "노원") {
+                updateSelectedTheater(cinema.cinemaName, view)
+                checkShowtimes(cinema, view)
+                dialog.dismiss()
+                bsdialog.dismiss()
+            } else {
+                showRetryPopup()
+            }
         }
 
         dialog.show()
@@ -430,6 +465,9 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
             dialogView.findViewById(R.id.dialogSelectTheaterBtn)
         val includedCinemaLayout: View = dialogView.findViewById(R.id.selectedCinemaLayout)
 
+        val imgTouch: ImageView = dialogView.findViewById(R.id.img_touch)
+
+        imgTouch.visibility = View.GONE
         dialogSelectTheaterBtn.visibility = View.GONE
         includedCinemaLayout.visibility = View.VISIBLE
 

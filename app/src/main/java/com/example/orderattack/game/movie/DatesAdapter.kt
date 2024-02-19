@@ -18,6 +18,7 @@ class DatesAdapter(private val dateList: List<DateItem>,
 
     class DateViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val dateImage: ImageView = itemView.findViewById(R.id.dateImage)
+        val imgTouch: ImageView = itemView.findViewById(R.id.img_touch)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DateViewHolder {
@@ -30,6 +31,12 @@ class DatesAdapter(private val dateList: List<DateItem>,
 
         // 초기 이미지 설정
         holder.dateImage.setImageResource(if (dateItem.isClicked) dateItem.clickedImageResId else dateItem.imageResId)
+
+        if (dateItem.id == "2") {
+            holder.imgTouch.visibility = View.VISIBLE
+        } else {
+            holder.imgTouch.visibility = View.GONE
+        }
 
         // 클릭 리스너 설정
         holder.dateImage.setOnClickListener {

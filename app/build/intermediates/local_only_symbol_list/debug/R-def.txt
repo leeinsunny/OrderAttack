@@ -36,6 +36,7 @@ drawable bfp_ordersuccess
 drawable blankprofile
 drawable boarder
 drawable bottom_line_btn
+drawable btn_comment
 drawable btn_reset_viewers
 drawable bul
 drawable bulinbul
@@ -64,6 +65,9 @@ drawable cinema_selected_btn
 drawable co
 drawable colamatericalchange
 drawable colamedium
+drawable comment_movie1_1
+drawable comment_movie1_2
+drawable comment_movie1_3
 drawable cozero
 drawable date0_btn
 drawable date0_selected_btn
@@ -107,6 +111,7 @@ drawable home
 drawable home_beforeorder
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable img_touch
 drawable init_map
 drawable intro_back
 drawable intro_image
@@ -188,6 +193,7 @@ drawable pfmodify
 drawable pie_to
 drawable plus_btn
 drawable plusbtn
+drawable popup_background
 drawable popup_bus_bonus
 drawable popup_bus_bonus_help
 drawable popup_bus_first
@@ -214,6 +220,7 @@ drawable popup_movie_second
 drawable popup_movie_second_help
 drawable popup_movie_third
 drawable popup_movie_third_help
+drawable popup_retry
 drawable popupforsuccess
 drawable profile_btn
 drawable putcardbtn
@@ -388,6 +395,7 @@ id imageView
 id imageView2
 id imageView_movie_poster
 id image_above_recyclerview
+id img_touch
 id initmap_inintro
 id jeju
 id jejuBtn
@@ -458,6 +466,7 @@ id popupBusSecond
 id popupBusSecondHelp
 id popupBusThird
 id popupBusThirdHelp
+id popupCommentRetry
 id popupKioskBonus
 id popupKioskBonusHelp
 id popupKioskFirst
@@ -619,6 +628,7 @@ layout popup_bus_bonus
 layout popup_bus_step1
 layout popup_bus_step2
 layout popup_bus_step3
+layout popup_comment_retry
 layout popup_kiosk_bonus
 layout popup_kiosk_step1
 layout popup_kiosk_step2

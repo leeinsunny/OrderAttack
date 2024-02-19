@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android=
-    "http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="75dp"
     android:layout_height="89dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="horizontal">
 
     <ImageView
@@ -12,4 +13,17 @@
         android:src="@drawable/date0_btn"
         android:scaleType="fitXY"/>
 
-</LinearLayout>
+    <ImageView
+        android:id="@+id/img_touch"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_touch"
+        app:layout_constraintStart_toStartOf="@id/dateImage"
+        app:layout_constraintTop_toTopOf="@+id/dateImage"
+        app:layout_constraintEnd_toEndOf="@id/dateImage"
+        app:layout_constraintBottom_toBottomOf="@+id/dateImage"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:visibility="visible"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

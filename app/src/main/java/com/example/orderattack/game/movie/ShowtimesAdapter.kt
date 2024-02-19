@@ -8,7 +8,7 @@ import com.example.orderattack.game.movie.TimeItem
 
 
 interface OnShowtimeClickListener {
-    fun onShowtimeClicked(imageResId: Int)
+    fun onShowtimeClicked(timeId: Int)
 }
 
 class ShowtimesAdapter(private val showtimesList: List<TimeItem>,
@@ -17,6 +17,7 @@ class ShowtimesAdapter(private val showtimesList: List<TimeItem>,
 
     class ShowtimeViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val timeButton: ImageView = itemView.findViewById(R.id.timeBtn)
+        val imgTouch: ImageView = itemView.findViewById(R.id.img_touch)
     }
 
 
@@ -31,7 +32,13 @@ class ShowtimesAdapter(private val showtimesList: List<TimeItem>,
 
         holder.itemView.setOnClickListener {
             // 콜백을 통해 클릭된 imageResId 전달
-            listener.onShowtimeClicked(timeItem.imageResId)
+            listener.onShowtimeClicked(timeItem.timeId)
+        }
+
+        if (timeItem.timeId == 2) {
+            holder.imgTouch.visibility = View.VISIBLE
+        } else {
+            holder.imgTouch.visibility = View.GONE
         }
     }
 
