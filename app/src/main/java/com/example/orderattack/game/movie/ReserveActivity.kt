@@ -1,11 +1,16 @@
 package com.example.orderattack.game.movie
 
+import android.app.Dialog
 import android.content.Intent
+import android.graphics.Color
+import android.graphics.drawable.ColorDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageButton
+import android.widget.ImageView
 import android.widget.TextView
 import androidx.activity.viewModels
 import androidx.core.content.ContextCompat
@@ -67,21 +72,6 @@ class ReserveActivity : AppCompatActivity() {
             }
         }
 
-        // isInitiallyAvailable를 false로 설정할 좌석 목록
-        val unavailableSeats = listOf(
-            "A01", "A02", "B03", "B04", "C05", "C06", "D07", "D08",
-            "E01", "E02", "F03", "F04", "G05", "G06", "H07", "H08",
-            "I01", "I02", "J03", "J04", "K05", "K06", "A07", "B08",
-            "C01", "D02", "E03", "F04", "G05", "H06"
-        )
-
-        // 특정 좌석을 isInitiallyAvailable = false로 설정
-        seats.forEach { seat ->
-            if ("${seat.row}${seat.seatNumber}" in unavailableSeats) {
-                seat.isInitiallyAvailable = false
-            }
-        }
-
         return seats
     }
 
@@ -101,6 +91,7 @@ class ReserveActivity : AppCompatActivity() {
         }
 
         seatsAdapter.notifyDataSetChanged()
+
         updateSelectedSeatsDisplay()
         updatePaymentButtonVisibility()
     }
@@ -115,7 +106,10 @@ class ReserveActivity : AppCompatActivity() {
 
     private fun updatePaymentButtonVisibility() {
         val btnProceedToPayment: Button = findViewById(R.id.btn_pay)
+        val imgTouch: ImageView = findViewById(R.id.img_touch)
         btnProceedToPayment.visibility =
+            if (seatsList.count { it.isSelected } == viewerViewModel.totalViewers) View.VISIBLE else View.GONE
+        imgTouch.visibility =
             if (seatsList.count { it.isSelected } == viewerViewModel.totalViewers) View.VISIBLE else View.GONE
     }
 
@@ -151,7 +145,33 @@ class ReserveActivity : AppCompatActivity() {
 
         val btnSelectSeatsEnabled: Button = view.findViewById(R.id.btn_select_seats_enabled)
         btnSelectSeatsEnabled.setOnClickListener {
-            updateSelectedInfo()
+            if(viewerViewModel.seniorCount == 2 && viewerViewModel.totalViewers == 2) {
+                updateSelectedInfo()
+                dialog.dismiss()
+            } else {
+                showRetryPopup()
+            }
+        }
+
+        dialog.show()
+    }
+
+
+    private fun showRetryPopup() {
+        val dialog = Dialog(this)
+        dialog.setContentView(R.layout.popup_comment_retry)
+
+        dialog.window?.setLayout(
+            ViewGroup.LayoutParams.MATCH_PARENT,
+            ViewGroup.LayoutParams.MATCH_PARENT
+        )
+
+        dialog.setCancelable(true)
+
+        dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
+
+        dialog.setOnCancelListener {
+            // 뒤로 가기 버튼이 눌렸을 때 호출
             dialog.dismiss()
         }
 
@@ -242,6 +262,7 @@ class ReserveActivity : AppCompatActivity() {
     private fun updateButtonsVisibility(view: View) {
         val btnSelectSeatsEnabled: Button = view.findViewById(R.id.btn_select_seats_enabled)
         val btnSelectSeatsDisabled: Button = view.findViewById(R.id.btn_select_seats_unenabled)
+        val imgTouch: ImageView = view.findViewById(R.id.img_touch)
 
         if (viewerViewModel.totalViewers > 0) {
             btnSelectSeatsEnabled.visibility = View.VISIBLE
@@ -249,6 +270,12 @@ class ReserveActivity : AppCompatActivity() {
         } else {
             btnSelectSeatsEnabled.visibility = View.GONE
             btnSelectSeatsDisabled.visibility = View.VISIBLE
+        }
+
+        if (viewerViewModel.seniorCount == 2 && viewerViewModel.totalViewers == 2) {
+            imgTouch.visibility = View.VISIBLE
+        } else {
+            imgTouch.visibility = View.GONE
         }
     }
 

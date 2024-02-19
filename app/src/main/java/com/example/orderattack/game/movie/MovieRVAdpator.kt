@@ -28,6 +28,7 @@ class MovieRVAdapter(
 
         val moviePoster: ImageView = view.findViewById(R.id.imageView_movie_poster)
         val reserveBtn: Button = view.findViewById(R.id.reserve_btn)
+        val imgTouch: ImageView = view.findViewById(R.id.img_touch)
 
         // 구현 부분 변경
         init {
@@ -57,6 +58,13 @@ class MovieRVAdapter(
     override fun onBindViewHolder(holder: MovieViewHolder, position: Int) {
         val movie = moviesList[position]
         holder.moviePoster.setImageResource(movie.imageResId)
+
+        if (movie.title == "웡카") {
+            holder.imgTouch.visibility = View.VISIBLE
+        } else {
+            holder.imgTouch.visibility = View.GONE
+        }
+
     }
 
     override fun getItemCount() = moviesList.size

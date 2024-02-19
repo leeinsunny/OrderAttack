@@ -2562,6 +2562,7 @@ int drawable btn_checkbox_checked_mtrl 0x7f070069
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f07006a
 int drawable btn_checkbox_unchecked_mtrl 0x7f07006b
 int drawable btn_checkbox_unchecked_to_checked_mtrl_animation 0x7f07006c
+int drawable btn_comment 0x7f0701b0
 int drawable btn_radio_off_mtrl 0x7f07006d
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f07006e
 int drawable btn_radio_on_mtrl 0x7f07006f
@@ -2594,6 +2595,9 @@ int drawable cinema_selected_btn 0x7f070089
 int drawable co 0x7f07008a
 int drawable colamatericalchange 0x7f07008b
 int drawable colamedium 0x7f07008c
+int drawable comment_movie1_1 0x7f0701b1
+int drawable comment_movie1_2 0x7f0701b2
+int drawable comment_movie1_3 0x7f0701b3
 int drawable common_full_open_on_phone 0x7f07008d
 int drawable common_google_signin_btn_icon_dark 0x7f07008e
 int drawable common_google_signin_btn_icon_dark_focused 0x7f07008f
@@ -2672,6 +2676,7 @@ int drawable ic_mtrl_checked_circle 0x7f0700d7
 int drawable ic_mtrl_chip_checked_black 0x7f0700d8
 int drawable ic_mtrl_chip_checked_circle 0x7f0700d9
 int drawable ic_mtrl_chip_close_circle 0x7f0700da
+int drawable img_touch 0x7f0701b4
 int drawable init_map 0x7f0700db
 int drawable intro_back 0x7f0700dc
 int drawable intro_image 0x7f0700dd
@@ -2794,6 +2799,7 @@ int drawable pfmodify 0x7f070151
 int drawable pie_to 0x7f070152
 int drawable plus_btn 0x7f070153
 int drawable plusbtn 0x7f070154
+int drawable popup_background 0x7f0701b5
 int drawable popup_bus_bonus 0x7f070155
 int drawable popup_bus_bonus_help 0x7f070156
 int drawable popup_bus_first 0x7f070157
@@ -2820,6 +2826,7 @@ int drawable popup_movie_second 0x7f07016b
 int drawable popup_movie_second_help 0x7f07016c
 int drawable popup_movie_third 0x7f07016d
 int drawable popup_movie_third_help 0x7f07016e
+int drawable popup_retry 0x7f0701b6
 int drawable popupforsuccess 0x7f07016f
 int drawable profile_btn 0x7f070170
 int drawable putcardbtn 0x7f070171
@@ -3225,6 +3232,7 @@ int id imageView 0x7f080150
 int id imageView2 0x7f080151
 int id imageView_movie_poster 0x7f080152
 int id image_above_recyclerview 0x7f080153
+int id img_touch 0x7f080303
 int id immediateStop 0x7f080154
 int id included 0x7f080155
 int id info 0x7f080156
@@ -3413,6 +3421,7 @@ int id popupBusSecond 0x7f08020c
 int id popupBusSecondHelp 0x7f08020d
 int id popupBusThird 0x7f08020e
 int id popupBusThirdHelp 0x7f08020f
+int id popupCommentRetry 0x7f080304
 int id popupKioskBonus 0x7f080210
 int id popupKioskBonusHelp 0x7f080211
 int id popupKioskFirst 0x7f080212
@@ -3887,6 +3896,7 @@ int layout popup_bus_bonus 0x7f0b00a8
 int layout popup_bus_step1 0x7f0b00a9
 int layout popup_bus_step2 0x7f0b00aa
 int layout popup_bus_step3 0x7f0b00ab
+int layout popup_comment_retry 0x7f0b00cc
 int layout popup_kiosk_bonus 0x7f0b00ac
 int layout popup_kiosk_step1 0x7f0b00ad
 int layout popup_kiosk_step2 0x7f0b00ae
