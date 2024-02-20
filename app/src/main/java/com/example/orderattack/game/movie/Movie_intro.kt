@@ -36,7 +36,6 @@ class Movie_intro : AppCompatActivity() {
             showPopupBonus()
         }
 
-
     }
 
     private fun showPopupStep1() {
@@ -82,8 +81,8 @@ class Movie_intro : AppCompatActivity() {
 
         dialog.findViewById<ImageButton>(R.id.startBtn).setOnClickListener {
             // 시작 버튼 클릭 시 MovieStep1Activity로 이동
-            val intent = Intent(this, MovieStep2Activity::class.java)
-            startActivity(intent)
+            // val intent = Intent(this, MovieStep2Activity::class.java)
+            // startActivity(intent)
         }
 
         dialog.show()
@@ -107,8 +106,8 @@ class Movie_intro : AppCompatActivity() {
 
         dialog.findViewById<ImageButton>(R.id.startBtn).setOnClickListener {
             // 시작 버튼 클릭 시 MovieStep1Activity로 이동
-            val intent = Intent(this, MovieStep3Activity::class.java)
-            startActivity(intent)
+            // val intent = Intent(this, MovieStep3Activity::class.java)
+            // startActivity(intent)
         }
 
         dialog.show()
