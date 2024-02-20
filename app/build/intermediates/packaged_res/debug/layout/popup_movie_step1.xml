@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/popup_movie_step1_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <ImageView
+            android:id="@+id/popupMovieFirstHelp"
+            android:layout_width="400dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/popup_movie_first_help"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/popupMovieFirst" />
+
+        <ImageView
+            android:id="@+id/popupMovieFirst"
+            android:layout_width="363dp"
+            android:layout_height="256dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginRight="25dp"
+            android:src="@drawable/popup_movie_first"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <ImageButton
+            android:id="@+id/startBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="25dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/start_btn"
+            app:layout_constraintTop_toTopOf="@id/popupMovieFirst"
+            app:layout_constraintStart_toStartOf="@id/popupMovieFirst"
+            app:layout_constraintEnd_toEndOf="@id/popupMovieFirst"
+            app:layout_constraintBottom_toBottomOf="@id/popupMovieFirst" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+         
