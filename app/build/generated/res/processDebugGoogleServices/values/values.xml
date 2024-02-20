@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">731130685827</string>
-    <string name="google_api_key" translatable="false">AIzaSyCz4-p0UzVpu7lCc7uzkqxcd-HnCb2T-10</string>
-    <string name="google_app_id" translatable="false">1:731130685827:android:c3e602c0288e4f16bc6eb6</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCz4-p0UzVpu7lCc7uzkqxcd-HnCb2T-10</string>
-    <string name="google_storage_bucket" translatable="false">orderattack-9321f.appspot.com</string>
-    <string name="project_id" translatable="false">orderattack-9321f</string>
-</resources>
