@@ -18,6 +18,30 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
+    <ImageView
+        android:id="@+id/kpop_4"
+        android:layout_width="217dp"
+        android:layout_height="82dp"
+        android:src="@drawable/kpop_4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.773"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/Burger_all"
+        app:layout_constraintVertical_bias="0.294" />
+
+    <ImageView
+        android:id="@+id/kipoint"
+        android:layout_width="44dp"
+        android:layout_height="34dp"
+        android:src="@drawable/realpinkkiopoint"
+        app:layout_constraintBottom_toBottomOf="@+id/Burger_all"
+        app:layout_constraintEnd_toEndOf="@+id/beef_inall"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/alltab"
+        app:layout_constraintTop_toTopOf="@+id/Burger_all"
+        app:layout_constraintVertical_bias="0.14" />
+
     <ImageButton
         android:id="@+id/alltab"
         android:layout_width="wrap_content"

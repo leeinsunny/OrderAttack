@@ -17,7 +17,19 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/kpop_4"
+        android:layout_width="217dp"
+        android:layout_height="82dp"
+        android:src="@drawable/kpop_4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.773"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/Burger_beef"
+        app:layout_constraintVertical_bias="0.294" />
 
     <ImageButton
         android:id="@+id/alltab"
@@ -72,6 +84,18 @@
         app:layout_constraintStart_toEndOf="@+id/chicken_inall"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.119" />
+
+    <ImageView
+        android:id="@+id/kipoint"
+        android:layout_width="46dp"
+        android:layout_height="45dp"
+        android:src="@drawable/realpinkkiopoint"
+        app:layout_constraintBottom_toBottomOf="@+id/Burger_beef"
+        app:layout_constraintEnd_toEndOf="@+id/betodi"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/betodi"
+        app:layout_constraintTop_toTopOf="@+id/betodi"
+        app:layout_constraintVertical_bias="0.185" />
 
     <ImageButton
         android:id="@+id/seafood_inall"

@@ -19,6 +19,19 @@
     app:layout_constraintTop_toTopOf="parent"
     app:layout_constraintVertical_bias="0.0" />
 
+
+    <ImageView
+        android:id="@+id/kpop_7"
+        android:layout_width="348dp"
+        android:layout_height="137dp"
+        android:src="@drawable/kpop_7"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/setside_back"
+        app:layout_constraintVertical_bias="0.601" />
+
     <ImageButton
         android:id="@+id/fri"
         android:layout_width="wrap_content"
@@ -60,6 +73,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.263" />
+
+    <ImageView
+        android:id="@+id/kipoint"
+        android:layout_width="62dp"
+        android:layout_height="67dp"
+        android:src="@drawable/realpinkkiopoint"
+        app:layout_constraintBottom_toTopOf="@+id/kpop_7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.21"
+        app:layout_constraintStart_toStartOf="@+id/fri"
+        app:layout_constraintTop_toTopOf="@+id/setside_back"
+        app:layout_constraintVertical_bias="0.944" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
