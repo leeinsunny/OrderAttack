@@ -1,31 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn15.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn15.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_bonus_help.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_bonus_help.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_realtogether.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\realtogether.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_vanilshake.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\vanilshake.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setside_drink.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\setside_drink.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_bul.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burger_bul.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kiopoint.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kiopoint.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_cinema_item_layout.xml.flat",
@@ -40,24 +24,8 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_after_coke.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_init_map.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\init_map.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mobilegift.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mobilegift.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_first.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_first.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_movie_bonus.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_movie_bonus.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date10_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date10_selected_btn.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster8.jpeg.flat",
@@ -70,14 +38,6 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_setsize.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_setsize.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_bonus_help.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_bonus_help.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_suorder.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\suorder.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_comment_movie1_1.png.flat",
@@ -96,96 +56,40 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn16.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_movie_bonus.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_movie_bonus.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setsize.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\setsize.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster9.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster9.jpeg"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_pfback.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\pfback.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster2.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster2.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_wallet.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\wallet.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_background.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_background.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_frimaterialchange.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\frimaterialchange.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_first_help.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_first_help.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster3.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster3.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date4_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date4_btn.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_7.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_7.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_beef.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burger_beef.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_ham_answer2.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_ham_answer2.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_second.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_second.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie1_success.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie1_success.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_second_help.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_second_help.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_chat.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\chat.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn13.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn13.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_second_help.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_second_help.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_ourtown.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\ourtown.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_ham_answer1.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_ham_answer1.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_chicken.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burger_chicken.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_basket.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\basket.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date12_selected_btn.png.flat",
@@ -200,40 +104,16 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_all.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date3_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date3_btn.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_comment_movie1_3.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\comment_movie1_3.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_home_beforeorder.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\home_beforeorder.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_seat_selected.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seat_selected.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_success_order.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_success_order.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date8_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date8_selected_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_hampackage.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_hampackage.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_fri.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_fri.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_movie_detail.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_movie_detail.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_fri.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_fri.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_movie_step3.xml.flat",
@@ -248,104 +128,44 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kiosk_startorder_back.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_backstage.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\backstage.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_background_viewers.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\background_viewers.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_first.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_first.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_first.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_first.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_chooseplace_back.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_chooseplace_back.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn20.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn20.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_after_coke.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_after_coke.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_third_help.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_third_help.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_9.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_9.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burgertab.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burgertab.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_successwindow.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_successwindow.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_jeu.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\jeu.png"
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_together.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_together.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_movie_step1.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_movie_step1.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_beforepay_ordercheck.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\beforepay_ordercheck.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_notice_success_lv1.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_notice_success_lv1.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_step1_clear.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_step1_clear.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cardpay.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cardpay.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_stepbonus.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\stepbonus.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date1_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date1_selected_btn.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_third.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_third.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_chicken.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\chicken.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster4.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster4.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_movie_step2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_movie_step2.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster7.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster7.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_fri.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_fri.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie6_poster.jpeg.flat",
@@ -356,52 +176,24 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\ad.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_bus_bonus.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_bus_bonus.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_quantity.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\quantity.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_home_beforeorder.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_home_beforeorder.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn7.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn7.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_first_help.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_first_help.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie8_detail.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie8_detail.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mypage.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mypage.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_first_help.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_first_help.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_movie_step1.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_movie_step1.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_busintro.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_busintro.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_after_ham.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_after_ham.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_paywaychoose.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_paywaychoose.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_plus_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\plus_btn.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_level1wallet.png.flat",
@@ -412,10 +204,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\chooseplace_back.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_cardpay.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_cardpay.xml"
     },
@@ -424,8 +212,8 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_wallet.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cozero.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cozero.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_3.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_3.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie7_poster.jpeg.flat",
@@ -436,32 +224,24 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_intro.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_fragment_chatting.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\fragment_chatting.xml"
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_18.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_18.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn19.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn19.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_fragment_rank.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\fragment_rank.xml"
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_mpornot_coke.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_coke.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_fanta.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\fanta.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie9_detail.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie9_detail.jpeg"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_setting_banner.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_setting_banner.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activitiy_stage2intro.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activitiy_stage2intro.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie9_detail.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie9_detail.jpeg"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_bul.png.flat",
@@ -480,10 +260,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_movie_step3.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_table.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_table.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster10.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster10.jpeg"
     },
@@ -492,32 +268,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_burger_beef.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_beef.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_minusbtn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\minusbtn.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_allinbeef.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\allinbeef.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_hammaterialchange.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\hammaterialchange.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_movie_step2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_movie_step2.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_join.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_join.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_comment_movie1_2.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\comment_movie1_2.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_bottom_line_btn.xml.flat",
@@ -528,68 +284,32 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date3_selected_btn.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_second.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_second.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_img_touch.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\img_touch.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_paywaychoose.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\paywaychoose.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_successwindow.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\successwindow.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_putcardbtn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\putcardbtn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_after_fri.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_after_fri.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_orderattack_logo.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\orderattack_logo.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setwallet.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\setwallet.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_orderattack_logo.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\orderattack_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_kioskintro.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kioskintro.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie11_poster.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie11_poster.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_qzero.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\qzero.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cala.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cala.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_co.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\co.png"
-    },
-    {
-        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_realwalletget.xml.flat",
-        "source": "com.example.orderattack.app-main-62:/layout/activity_realwalletget.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_third_help.png.flat",
@@ -600,18 +320,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie3_poster.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_minus_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\minus_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_coke.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_coke.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_pfmodify.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\pfmodify.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_third_help.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_third_help.png"
     },
@@ -620,16 +328,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn6.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie5_detail.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie5_detail.jpeg"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_single.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\single.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_intro_image.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\intro_image.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie5_detail.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie5_detail.jpeg"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn14.png.flat",
@@ -644,10 +348,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_ham.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_colamatericalchange.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\colamatericalchange.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_second.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_second.png"
     },
@@ -660,44 +360,24 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mov_background.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_dripco.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\dripco.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date5_selected_btn.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date5_selected_btn.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_mpornot_fri_answer1.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_fri_answer1.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_bus_step1.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_bus_step1.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_setside.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_setside.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_success_window3.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_success_window3.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_detail.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_detail.jpeg"
-    },
-    {
-        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_successwindow.xml.flat",
-        "source": "com.example.orderattack.app-main-62:/layout/activity_successwindow.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_sp.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\sp.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_bus_step2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_bus_step2.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_realpinkkiopoint.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\realpinkkiopoint.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_vanilco.png.flat",
@@ -708,20 +388,8 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\sslab_to.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie11_detail.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie11_detail.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_fri.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\fri.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_rectagle_btn.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\rectagle_btn.xml"
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_13.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_13.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setornot.png.flat",
@@ -732,44 +400,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\orderfinish.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_bus_background.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\bus_background.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_start_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\start_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_kiosk_step2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_kiosk_step2.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_dialog_movie_setting.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\dialog_movie_setting.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_second_help.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_second_help.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_background.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_background.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_all.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burger_all.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_final_check_inburger.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\final_check_inburger.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_fragment_wallet.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\fragment_wallet.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_home.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\home.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie2_detail.jpeg.flat",
@@ -780,10 +416,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kiosk_step2.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setside.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\setside.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_poster.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_poster.jpeg"
     },
@@ -792,48 +424,16 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\intro_back.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_betodi.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\betodi.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_comment_retry.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_comment_retry.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn4.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn4.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_bus_step3.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_bus_step3.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie3_detail.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie3_detail.jpeg"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kio_successwindow.png.flat",
-        "source": "com.example.orderattack.app-main-62:/drawable/kio_successwindow.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_back.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\back.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date1_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date1_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_startorder_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_startorder_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_bonus.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_bonus.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mypage.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mypage.png"
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_mpornot_coke_answer.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_coke_answer.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_seafood.png.flat",
@@ -842,18 +442,6 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date9_cant_selected_btn.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date9_cant_selected_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date6_cant_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date6_cant_selected_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_beef.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\beef.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_beforepay_ordercheck.xml.flat",
@@ -908,24 +496,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie4_detail.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_burger_seafood.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_seafood.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date7_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date7_selected_btn.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn5.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn5.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cinema_not_selected_btn.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cinema_not_selected_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_btn_reset_viewers.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\btn_reset_viewers.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_kiosk_step3.xml.flat",
@@ -936,16 +512,8 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn10.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_seat_not_selected.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seat_not_selected.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn2.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn2.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_together.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\together.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_ham.xml.flat",
@@ -956,16 +524,792 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_setornot.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date5_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date5_btn.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_step2.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\step2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_dialog_viewer_selection.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\dialog_viewer_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popupforsuccess.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popupforsuccess.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_start_bonus_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\start_bonus_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_seat_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\seat_item.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_12.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_12.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_mpornot_ham_answer1.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_ham_answer1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_fri_answer1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_fri_answer1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster6.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster6.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_after_ham.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_after_ham.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_final_check_inburger.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_final_check_inburger.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_retry.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\retry.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_pie_to.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\pie_to.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_getproduct.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\getproduct.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_mpornot_ham_answer2.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_ham_answer2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date9_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date9_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cinema_select_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cinema_select_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_largeset.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\largeset.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn11.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn11.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_notchoose.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\notchoose.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_walletget.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\walletget.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_checkandpay.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\checkandpay.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_coke_answer.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_coke_answer.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_10.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_10.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_retry.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_retry.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_btn_comment.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\btn_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_button_mov.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\button_mov.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_bulinbul.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\bulinbul.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_paywaychoose.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_paywaychoose.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date2_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date2_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_dripcoffe_to.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\dripcoffe_to.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn12.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn12.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_ham_answer1.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_ham_answer1.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_11.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_11.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_gotomap.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\gotomap.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_success_window.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_success_window.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_jadu.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\jadu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_step1_clear2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_step1_clear2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_getwallet.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\getwallet.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie8_poster.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie8_poster.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_gameintro.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_gameintro.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_realwalletget.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_realwalletget.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_mpornot_fri.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_fri.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_boarder.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\boarder.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_realfinal_check_inburger.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\realfinal_check_inburger.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_kiosk_bonus.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kiosk_bonus.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_first.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_first.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_success_window2.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_success_window2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_aa.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\aa.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_cardpay.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_cardpay.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_chooseplace.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_chooseplace.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date12_cant_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date12_cant_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date7_cant_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date7_cant_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_seat_enabled.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seat_enabled.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_step1.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\step1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_colamedium.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\colamedium.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_fri_answer1.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_fri_answer1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_kiosk_step1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kiosk_step1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn3.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_bonus.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_bonus.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_button_bus.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\button_bus.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_burger_bul.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_bul.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_ham_answer2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_ham_answer2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn15.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn15.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_realtogether.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\realtogether.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_vanilshake.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\vanilshake.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setside_drink.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\setside_drink.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_bul.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burger_bul.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_init_map.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\init_map.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_walletget.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_walletget.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mobilegift.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mobilegift.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_movie_bonus.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_movie_bonus.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_6.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_6.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date10_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date10_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_bonus_help.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_bonus_help.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_suorder.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\suorder.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_movie_bonus.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_movie_bonus.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setsize.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\setsize.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster9.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster9.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster2.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_wallet.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_frimaterialchange.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\frimaterialchange.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_first_help.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_first_help.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date4_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date4_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_ham_answer2.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_ham_answer2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_4.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_4.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie1_success.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie1_success.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn13.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn13.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_ham_answer1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_ham_answer1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_chicken.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burger_chicken.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_basket.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date3_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date3_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_home_beforeorder.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\home_beforeorder.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_seat_selected.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seat_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_success_order.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_success_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date8_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date8_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_hampackage.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_hampackage.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_second.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_second.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_backstage.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\backstage.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_background_viewers.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\background_viewers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn20.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn20.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_pinkkiopoint.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\pinkkiopoint.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_third_help.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_third_help.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_successwindow.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_successwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_jeu.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\jeu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_beforepay_ordercheck.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\beforepay_ordercheck.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_notice_success_lv1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_notice_success_lv1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_step1_clear.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_step1_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cardpay.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cardpay.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_stepbonus.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\stepbonus.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date1_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date1_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_third.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_third.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_chicken.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\chicken.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster4.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_movie_step2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_movie_step2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster7.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_fri.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_fri.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_quantity.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\quantity.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_bus_bonus.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_bus_bonus.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn7.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn7.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mypage.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mypage.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_after_ham.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_after_ham.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_busintro.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_busintro.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_plus_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\plus_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cozero.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cozero.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_fragment_chatting.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\fragment_chatting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn19.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn19.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_fragment_rank.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\fragment_rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activitiy_stage2intro.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activitiy_stage2intro.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_orderfinish.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_orderfinish.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_table.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_table.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_burger_beef.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_beef.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_minusbtn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\minusbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_hammaterialchange.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\hammaterialchange.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_movie_step2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_movie_step2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_comment_movie1_2.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\comment_movie1_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_second.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_second.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_paywaychoose.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\paywaychoose.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_putcardbtn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\putcardbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_after_fri.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_after_fri.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_kioskintro.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kioskintro.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie11_poster.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie11_poster.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_qzero.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\qzero.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_minus_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\minus_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_coke.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_coke.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_pfmodify.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\pfmodify.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_8.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_8.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_intro_image.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\intro_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_colamatericalchange.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\colamatericalchange.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_dripco.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\dripco.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_bus_step1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_bus_step1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_setside.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_setside.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_detail.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_detail.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_sp.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\sp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_bus_step2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_bus_step2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie11_detail.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie11_detail.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_fri.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\fri.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_rectagle_btn.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\rectagle_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_bus_background.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\bus_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_start_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\start_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_kiosk_step2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_kiosk_step2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_dialog_movie_setting.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\dialog_movie_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_second_help.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_second_help.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_burger_all.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\burger_all.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_fragment_wallet.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_14.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_14.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_home.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_setside.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\setside.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_betodi.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\betodi.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_comment_retry.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_comment_retry.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_bus_step3.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_bus_step3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_back.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date1_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date1_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_startorder_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_startorder_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_bonus.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_bonus.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mypage.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mypage.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_final_check_inburger.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_final_check_inburger.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date6_cant_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date6_cant_selected_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_beef.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\beef.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_burger_seafood.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_seafood.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date7_selected_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date7_selected_btn.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_mpornot_ham.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_ham.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_btn_reset_viewers.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\btn_reset_viewers.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_seat_not_selected.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seat_not_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_together.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\together.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date5_btn.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date5_btn.png"
+    },
+    {
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_15.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_15.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_screen.png.flat",
@@ -992,20 +1336,8 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\profile_btn.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_dialog_viewer_selection.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\dialog_viewer_selection.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popupforsuccess.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popupforsuccess.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\navigation_main_nav.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\navigation\\main_nav.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_start_bonus_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\start_bonus_btn.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster5.jpeg.flat",
@@ -1024,40 +1356,20 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie10_poster.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_seat_item.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\seat_item.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date0_selected_btn.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date0_selected_btn.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_success_order.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_success_order.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie10_detail.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie10_detail.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_fri_answer1.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_fri_answer1.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_coke.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_coke.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster6.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster6.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_after_ham.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_after_ham.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -1072,16 +1384,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seafood.png"
     },
     {
+        "merged": "com.example.orderattack.app-merged_res-60:/layout_activity_beforepay_ordercheck.xml.flat",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_beforepay_ordercheck.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie6_detail.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie6_detail.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_final_check_inburger.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_final_check_inburger.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_retry.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\retry.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_kiosk_step3.xml.flat",
@@ -1096,10 +1404,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_main_background.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_pie_to.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\pie_to.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_burger_chicken.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_chicken.xml"
     },
@@ -1108,52 +1412,24 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_first_help.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_getproduct.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\getproduct.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie7_detail.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie7_detail.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date9_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date9_selected_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_cinema_select_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\cinema_select_btn.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date2_btn.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date2_btn.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_together.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_together.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_largeset.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\largeset.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_blankprofile.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\blankprofile.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn11.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn11.png"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_together.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_together.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_chiinchi.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\chiinchi.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_notchoose.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\notchoose.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_walletget.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\walletget.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date11_cant_selected_btn.png.flat",
@@ -1164,6 +1440,10 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_splash.xml"
     },
     {
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_17.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_17.png"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie_poster11.jpeg.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster11.jpeg"
     },
@@ -1172,28 +1452,8 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn18.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_checkandpay.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\checkandpay.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_coke_answer.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_coke_answer.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_retry.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_retry.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_set.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\set.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_btn_comment.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\btn_comment.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_button_mov.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\button_mov.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_healing_main.xml.flat",
@@ -1212,10 +1472,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\savechange.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_bulinbul.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\bulinbul.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_rank.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\rank.png"
     },
@@ -1224,60 +1480,20 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie_poster1.jpeg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date2_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date2_selected_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_dripcoffe_to.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\dripcoffe_to.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_movie_item_layout.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\movie_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn12.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn12.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_ham_answer1.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_ham_answer1.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_button_kio.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\button_kio.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_gotomap.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\gotomap.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_success_window.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_success_window.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_jadu.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\jadu.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_plusbtn.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\plusbtn.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_step1_clear2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_step1_clear2.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_getwallet.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\getwallet.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_frichi.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\frichi.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie8_poster.jpeg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie8_poster.jpeg"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_bfp_ordersuccess.png.flat",
@@ -1286,10 +1502,6 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_kiosk_step1.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_kiosk_step1.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_gameintro.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_gameintro.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn17.png.flat",
@@ -1304,16 +1516,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_setside_drink.xml"
     },
     {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kio_successwindow.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kio_successwindow.png"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn9.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_realwalletget.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_realwalletget.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_bus_step3.xml.flat",
@@ -1324,40 +1532,16 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date0_btn.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_boarder.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\boarder.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_beefinbul.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\beefinbul.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_realfinal_check_inburger.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\realfinal_check_inburger.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kio_walletget.png.flat",
-        "source": "com.example.orderattack.app-main-62:/drawable/kio_walletget.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_kiosk_bonus.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kiosk_bonus.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_second_help.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_second_help.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_kiosk_first.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_kiosk_first.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_movie1_success.xml.flat",
@@ -1366,10 +1550,6 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_reserve.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_reserve.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_movie1_success_window2.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\movie1_success_window2.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_savefrichange.png.flat",
@@ -1384,18 +1564,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\normalset.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_aa.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\aa.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_chooseplace.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_chooseplace.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date12_cant_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date12_cant_selected_btn.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date8_cant_selected_btn.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date8_cant_selected_btn.png"
     },
@@ -1404,28 +1572,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date7_cant_selected_btn.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\date7_cant_selected_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_seat_enabled.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seat_enabled.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_beefinchi.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\beefinchi.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_step1.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\step1.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_popup_kiosk_bonus.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_kiosk_bonus.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_colamedium.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\colamedium.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_date4_selected_btn.png.flat",
@@ -1436,47 +1588,27 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kakaopay.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_mpornot_fri_answer1.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\mpornot_fri_answer1.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_seat_unenabled.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\seat_unenabled.png"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_kiosk_step1.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kiosk_step1.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_kpop_5.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\kpop_5.png"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_time_btn3.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\time_btn3.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_bus_third.png.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_bus_third.png"
     },
     {
+        "merged": "com.example.orderattack.app-merged_res-60:/drawable_kpop_16.png.flat",
+        "source": "com.example.orderattack.app-main-62:/drawable/kpop_16.png"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_dialog_cinema_list.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\dialog_cinema_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_popup_movie_bonus.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\popup_movie_bonus.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\drawable_button_bus.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\drawable\\button_bus.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_burger_bul.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_bul.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-merged_res-60:\\layout_activity_mpornot_ham_answer2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_ham_answer2.xml"
     }
 ]

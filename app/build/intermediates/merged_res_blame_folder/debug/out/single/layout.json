@@ -4,16 +4,20 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_ham_answer1.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_success_order.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_success_order.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_beforepay_ordercheck.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_beforepay_ordercheck.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_burger_seafood.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_seafood.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_setsize.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_setsize.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_burger_seafood.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_seafood.xml"
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_success_order.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_success_order.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\popup_movie_step3.xml",
@@ -24,16 +28,32 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_bus_bonus.xml"
     },
     {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_success_order.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_success_order.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_kioskintro.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_kioskintro.xml"
     },
     {
-        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_realwalletget.xml",
-        "source": "com.example.orderattack.app-main-62:/layout/activity_realwalletget.xml"
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_mpornot_fri_answer1.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_fri_answer1.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_mpornot_coke_answer.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_coke_answer.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_final_check_inburger.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_final_check_inburger.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\popup_notice_success_lv1.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_notice_success_lv1.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_cardpay.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_cardpay.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_burger_bul.xml",
@@ -42,6 +62,10 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_mpornot_ham.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_ham.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_orderfinish.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_orderfinish.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\popup_bus_step3.xml",
@@ -60,6 +84,14 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_fri_answer1.xml"
     },
     {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_paywaychoose.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_paywaychoose.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_mpornot_ham_answer1.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_ham_answer1.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_mpornot_coke.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_coke.xml"
     },
@@ -72,12 +104,12 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_bus_step2.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_mpornot_coke_answer.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_coke_answer.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_realwalletget.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_realwalletget.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_mpornot_coke_answer.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_coke_answer.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_together.xml",
@@ -92,6 +124,10 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot.xml"
     },
     {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_mpornot_fri.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_fri.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\popup_kiosk_step1.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_kiosk_step1.xml"
     },
@@ -102,6 +138,10 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\popup_kiosk_step3.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_kiosk_step3.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_mpornot_coke.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_coke.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_chooseplace.xml",
@@ -148,16 +188,20 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_after_coke.xml"
     },
     {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_mpornot_ham_answer2.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_ham_answer2.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_healing_main.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_healing_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_beforepay_ordercheck.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_beforepay_ordercheck.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_burger_chicken.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_burger_chicken.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_beforepay_ordercheck.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_beforepay_ordercheck.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_busintro.xml",
@@ -216,8 +260,16 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_mpornot_ham_answer2.xml"
     },
     {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_together.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_together.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_join.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_mpornot_ham.xml",
+        "source": "com.example.orderattack.app-main-62:/layout/activity_mpornot_ham.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activitiy_stage2intro.xml",
@@ -238,10 +290,6 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\popup_movie_bonus.xml",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-main-62:\\layout\\popup_movie_bonus.xml"
-    },
-    {
-        "merged": "com.example.orderattack.app-mergeDebugResources-59:/layout/activity_successwindow.xml",
-        "source": "com.example.orderattack.app-main-62:/layout/activity_successwindow.xml"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.orderattack.app-mergeDebugResources-59:\\layout\\activity_burger_all.xml",

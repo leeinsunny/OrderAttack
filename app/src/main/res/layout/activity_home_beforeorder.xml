@@ -30,4 +30,31 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.25" />
 
+    <ImageView
+        android:id="@+id/kpop_burgertab"
+        android:layout_width="275dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="52dp"
+        android:src="@drawable/kpop_3"
+        app:layout_constraintBottom_toBottomOf="@+id/home_beforeorder"
+        app:layout_constraintEnd_toEndOf="@+id/home_beforeorder"
+        app:layout_constraintHorizontal_bias="0.117"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/kiosk_burgertab"
+        app:layout_constraintVertical_bias="0.227" />
+
+    <ImageView
+        android:id="@+id/kipoint"
+        android:layout_width="51dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="23dp"
+        android:layout_marginBottom="92dp"
+        android:src="@drawable/realpinkkiopoint"
+        app:layout_constraintBottom_toTopOf="@+id/kpop_burgertab"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.085"
+        app:layout_constraintStart_toStartOf="@+id/kiosk_burgertab"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.871" />
+
 </androidx.constraintlayout.widget.ConstraintLayout></layout>
