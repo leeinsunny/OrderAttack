@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731130685827",
+    "project_id": "orderattack-9321f",
+    "storage_bucket": "orderattack-9321f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731130685827:android:c3e602c0288e4f16bc6eb6",
+        "android_client_info": {
+          "package_name": "com.example.orderattack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4-p0UzVpu7lCc7uzkqxcd-HnCb2T-10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
