@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".game.kiosk.Step1.final_check_inburger">
 
+
     <ImageView
         android:id="@+id/real_final_check"
         android:layout_width="match_parent"
@@ -14,10 +15,10 @@
         android:src="@drawable/realfinal_check_inburger"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
-
 
     <ImageButton
         android:id="@+id/alltab"
@@ -99,6 +100,30 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.924" />
+
+    <ImageView
+        android:id="@+id/kpop_15"
+        android:layout_width="359dp"
+        android:layout_height="122dp"
+        android:src="@drawable/kpop_15"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.692"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.733" />
+
+    <ImageView
+        android:id="@+id/kipoint"
+        android:layout_width="67dp"
+        android:layout_height="47dp"
+        android:src="@drawable/realpinkkiopoint"
+        app:layout_constraintBottom_toBottomOf="@+id/real_final_check"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.953"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/kpop_15"
+        app:layout_constraintVertical_bias="0.773" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

@@ -17,6 +17,18 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:layout_editor_absoluteX="-202dp" />
 
+        <ImageView
+            android:id="@+id/kiopopup_second"
+            android:layout_width="300dp"
+            android:layout_height="56dp"
+            android:src="@drawable/kpop_second"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/chooseplace_background"
+            app:layout_constraintVertical_bias="0.244" />
+
         <ImageButton
             android:id="@+id/kiosk_chooseplace_table"
             android:layout_width="wrap_content"
@@ -30,6 +42,19 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.479" />
+
+        <ImageView
+            android:id="@+id/kipoint"
+            android:layout_width="74dp"
+            android:layout_height="72dp"
+            android:layout_marginStart="143dp"
+            android:src="@drawable/realpinkkiopoint"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/kiosk_chooseplace_table"
+            app:layout_constraintHorizontal_bias="0.807"
+            app:layout_constraintStart_toStartOf="@+id/kiosk_chooseplace_table"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.671" />
 
         <ImageButton
             android:id="@+id/kiosk_chooseplace_hampackage"
