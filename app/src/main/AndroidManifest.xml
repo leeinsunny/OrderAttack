@@ -2,8 +2,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" >
     <!-- 사용자 휴대폰으로부터 사진 업로드를 위한 권한요청 -->
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="com.google.android.gms.permission.MAPS_RECEIVE" />
 
     <application
         android:allowBackup="true"
@@ -168,9 +175,7 @@
         <activity
             android:name=".game.kiosk.Kiosk_intro"
             android:exported="false" />
-        <activity
-            android:name=".game.kiosk.KioskBonusActivity"
-            android:exported="false" />
+
         <activity
             android:name=".game.kiosk.KioskStep3Activity"
             android:exported="false" />
@@ -195,6 +200,16 @@
         <activity
             android:name=".game.bus.BusStep2Activity"
             android:exported="false" />
+        <activity
+            android:name=".game.kiosk.KioskBonusAiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".game.kiosk.MapsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_maps" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBZG6Tg8sHUxu18NsVBxqs47TE7FH7wGnA" />
     </application>
 
 </manifest>

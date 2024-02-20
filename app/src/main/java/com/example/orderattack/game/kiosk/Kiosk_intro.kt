@@ -133,7 +133,7 @@ class Kiosk_intro: AppCompatActivity() {
 
         dialog.findViewById<ImageButton>(R.id.startBtn).setOnClickListener {
             // 시작 버튼 클릭 시 KioskStep3Activity로 이동
-            val intent = Intent(this, KioskBonusActivity::class.java)
+            val intent = Intent(this, MapsActivity::class.java)
             startActivity(intent)
         }
 
