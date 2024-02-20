@@ -15,6 +15,7 @@
     <color name="mint">#9adbc5</color>
     <color name="orange">#FE8D6F</color>
     <color name="real_light_pink">#FBD8E3</color>
+    <color name="right_red">#FF3636</color>
     <color name="skyblue">#a0dde0</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FDC453</color>
@@ -32,6 +33,13 @@
         <item name="windowNoTitle">true</item>
         <item name="colorPrimary">@color/light_pink</item>
         <item name="colorPrimaryVariant">@color/white</item>
+    </style>
+    <style name="FullHeightBottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+    <style name="NotFullHeightBottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
     </style>
     <style name="Theme.OrderAttack" parent="Base.Theme.OrderAttack"/>
 </resources>

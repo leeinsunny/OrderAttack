@@ -27,8 +27,7 @@ class MainActivity : AppCompatActivity() {
     private val userInfoList = mutableListOf<UserInfo>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
-
-        super.onCreate(savedInstanceState)
+      super.onCreate(savedInstanceState)
         // Initialize Firebase Auth
         auth = Firebase.auth
 

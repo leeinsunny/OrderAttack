@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-58:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\53e7021d5bf3b317001f5e27c4f92b61\\transformed\\navigation-ui-2.7.6\\res\\values-en-rAU\\values-en-rAU.xml",

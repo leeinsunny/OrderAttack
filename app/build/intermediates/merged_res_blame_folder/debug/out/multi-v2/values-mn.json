@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-mn/values-mn.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-58:/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\996a012894023b0d62f5ec3ea5e339b2\\transformed\\material-1.5.0\\res\\values-mn\\values-mn.xml",

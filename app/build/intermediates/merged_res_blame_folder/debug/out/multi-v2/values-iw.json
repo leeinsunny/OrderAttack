@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.orderattack.app-mergeDebugResources-57:/values-iw/values-iw.xml",
+            "outputFile": "com.example.orderattack.app-mergeDebugResources-58:/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\380b7467f61c614c6feae4743fccdf03\\transformed\\browser-1.4.0\\res\\values-iw\\values-iw.xml",
