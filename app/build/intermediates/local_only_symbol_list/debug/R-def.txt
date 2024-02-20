@@ -122,7 +122,9 @@ drawable kio_background
 drawable kio_chooseplace_back
 drawable kio_hampackage
 drawable kio_startorder_btn
+drawable kio_successwindow
 drawable kio_table
+drawable kio_walletget
 drawable kiosk_startorder_back
 drawable largeset
 drawable level1wallet

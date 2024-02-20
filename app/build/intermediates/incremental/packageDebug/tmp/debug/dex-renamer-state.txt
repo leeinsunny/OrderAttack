@@ -1,21 +1,21 @@
-#Mon Feb 19 17:58:25 KST 2024
-base.0=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.10=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.2=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-base.4=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
-base.5=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
-base.6=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
-base.7=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
-base.8=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
-base.9=/Applications/MyProject/OrderAttack/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+#Tue Feb 20 12:54:42 KST 2024
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.10=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.2=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.4=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.5=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.6=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.7=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.8=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.9=C\:\\Users\\user\\AndroidStudioProjects\\OrderAttack\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=classes2.dex
-path.2=1/classes.dex
-path.3=11/classes.dex
-path.4=15/classes.dex
+path.2=11/classes.dex
+path.3=15/classes.dex
+path.4=1/classes.dex
 path.5=2/classes.dex
 path.6=6/classes.dex
 path.7=7/classes.dex
