@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/selectCinemaText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="영화관 선택"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    </TextView>
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@color/gray"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/selectCinemaText" />
+
+
+
+    <Button
+        android:id="@+id/seoulBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="서울"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:background="@drawable/bottom_line_btn"
+        android:layout_marginLeft="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/line" />
+
+
+    <ImageView
+        android:id="@+id/img_touch"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_touch"
+        app:layout_constraintStart_toStartOf="@id/seoulBtn"
+        app:layout_constraintTop_toTopOf="@+id/seoulBtn"
+        app:layout_constraintEnd_toEndOf="@id/seoulBtn"
+        app:layout_constraintBottom_toBottomOf="@+id/seoulBtn"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="30dp"
+        android:visibility="visible"/>
+
+
+    <Button
+        android:id="@+id/ggIcnBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="경기/인천"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/bottom_line_btn"
+        app:layout_constraintStart_toEndOf="@+id/seoulBtn"
+        app:layout_constraintTop_toBottomOf="@+id/line" />
+
+    <Button
+        android:id="@+id/ccDjBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="충정/대전"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:background="@drawable/bottom_line_btn"
+        android:layout_marginLeft="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seoulBtn" />
+
+    <Button
+        android:id="@+id/jlGjBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="전라/광주"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:background="@drawable/bottom_line_btn"
+        android:layout_marginLeft="10dp"
+        app:layout_constraintStart_toEndOf="@+id/seoulBtn"
+        app:layout_constraintTop_toBottomOf="@+id/ggIcnBtn" />
+
+    <Button
+        android:id="@+id/gbDgBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="경북/대구"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:background="@drawable/bottom_line_btn"
+        android:layout_marginLeft="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ccDjBtn" />
+
+    <Button
+        android:id="@+id/gnBsnUsnBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="경남/부산/울산"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:background="@drawable/bottom_line_btn"
+        android:layout_marginLeft="10dp"
+        app:layout_constraintStart_toEndOf="@+id/seoulBtn"
+        app:layout_constraintTop_toBottomOf="@+id/jlGjBtn" />
+
+
+    <Button
+        android:id="@+id/gwBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="강원"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:background="@drawable/bottom_line_btn"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gbDgBtn" />
+
+    <Button
+        android:id="@+id/jejuBtn"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:text="제주"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:background="@drawable/bottom_line_btn"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintStart_toEndOf="@+id/seoulBtn"
+        app:layout_constraintTop_toBottomOf="@+id/gnBsnUsnBtn" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

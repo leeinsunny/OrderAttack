@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                               
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_green"
+     android:tag="layout/activity_gameintro_0" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/initmap_inintro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/init_map"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:background="@android:color/transparent"
+        android:scaleType="fitCenter"
+        android:id="@+id/stage1btn_inintro"
+        android:layout_width="176dp"
+        android:layout_height="101dp"
+        android:layout_marginTop="208dp"
+        android:src="@drawable/button_kio"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.873"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:background="@android:color/transparent"
+        android:scaleType="fitCenter"
+        android:id="@+id/stage2btn_inintro"
+        android:layout_width="79dp"
+        android:layout_height="129dp"
+        android:src="@drawable/button_mov"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.288"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.471" />
+
+    <ImageButton
+        android:id="@+id/stage3btn_inintro"
+        android:layout_width="198dp"
+        android:layout_height="100dp"
+        android:background="@android:color/transparent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/button_bus"
+        app:layout_constraintBottom_toBottomOf="@+id/initmap_inintro"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.126"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/initmap_inintro"
+        app:layout_constraintVertical_bias="0.755" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+         
