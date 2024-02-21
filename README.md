@@ -67,7 +67,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
       <p>Wallet in Movie 1st step</p>
     </td>
     <td style="text-align: center;">
-      <img src="src=https://github.com/leeinsunny/orderattack_photo/blob/main/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%A7%80%EB%8F%84%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0%20%EC%9B%80%EC%A7%A4.gif" alt="Image 1" style="width: 100%;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%A7%80%EB%8F%84%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0%20%EC%9B%80%EC%A7%A4.gif" alt="Image 1" style="width: 100%;">
       <p>Wallet in Kiosk Bonus step</p>
     </td>
   </tr>
