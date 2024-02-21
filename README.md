@@ -29,8 +29,52 @@ According to the graph of digital problem-solving proficiency by age in major OE
 
 ## <p align="center"> 🔔 Explanation of "OrderAttack" </p>
 ### 🍔 Ordering by Kiosk Step
+<table style="width: 40%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/f18cc049-3d45-4e47-a6c3-b8ea249c13c7" alt="Image 1" style="width: 40%;">
+      <p>Kiosk Step</p>
+    </td>
+  </tr>
+</table>
+
+#### You will practice ordering food using a kiosk at a fast food restaurant. Real photo verification will help you improve your IT ordering skills.
 
 ### 📽Booking a Movie Step
+<table style="width: 40%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/f18cc049-3d45-4e47-a6c3-b8ea249c13c7" alt="Image 1" style="width: 40%;">
+      <p>Movie Step</p>
+    </td>
+  </tr>
+</table>
+
+#### You will practice using the application to book tickets for a movie that is currently playing.
+
+### 👛 Get Rewards : Wallet
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/f18cc049-3d45-4e47-a6c3-b8ea249c13c7" alt="Image 1" style="width: 100%;">
+      <p>Wallet in Kiosk 1st step</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/f18cc049-3d45-4e47-a6c3-b8ea249c13c7" alt="Image 1" style="width: 100%;">
+      <p>Wallet in Movie 1st step</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/f18cc049-3d45-4e47-a6c3-b8ea249c13c7" alt="Image 1" style="width: 100%;">
+      <p>Wallet in Kiosk Bonus step</p>
+    </td>
+  </tr>
+</table>
+
+#### As you progress through each level, you'll be able to change your wallet as a reward for your skills. Build your wallet with a sense of accomplishment.
+
 
 ## 🔔 Architecture
+
+
 
