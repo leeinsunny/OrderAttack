@@ -100,7 +100,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 
 ## <p align="center"> 🔔 5. Scalability 🔔  </p>
 ### 👑 Ranking System
-<img width="1032" alt="오더어택 순위" src="orderattack_photo/rank.png at main · leeinsunny/orderattack_photo (github.com)">
+<img width="200" alt="오더어택 순위" src="https://github.com/leeinsunny/orderattack_photo/blob/main/rank.png">
 
 - Designed to encourage people to practice continuously ​
 - Allow user to continue their social activities on their own through digital devices.​
@@ -108,24 +108,24 @@ According to the graph of digital problem-solving proficiency by age in major OE
 
 
 ### 🎀Decorating Your Wallet
-<img width="1032" alt="오더어택 지갑" src="orderattack_photo/wallet.png at main · leeinsunny/orderattack_photo (github.com)">
+<img width="200" alt="오더어택 지갑" src="https://github.com/leeinsunny/orderattack_photo/blob/main/wallet.png">
 
 - A gaming element to instill fun and motivate the user to practice by allowing them to acquire a new wallet every step they clear.​
 - Which can be obtained upon clearing a game stage, in the database.
 
 
 ### 🏘️ Healing Town
-<img width="1032" alt="오더어택 club" src="orderattack_photo/vilage.png at main ·leeinsunny/orderattack_photo (github.com)">
+<img width="200" alt="오더어택 club" src="https://github.com/leeinsunny/orderattack_photo/blob/main/vilage.png">
 
 - Here, seniors can create and participate in the club they want.​
 - This allows seniors to meet offline.
   
-<img width="1032" alt="오더어택 채팅" src="orderattack_photo/chat.png at main · leeinsunny/orderattack_photo (github.com)">
+<img width="332" alt="오더어택 채팅" src="https://github.com/leeinsunny/orderattack_photo/blob/main/chat.png">
 
 - A community page will further engage users, enabling real-time posts and interactions, powered by Firebase’s scalable infrastructure
 
 ### 🔣Language Extension
-<img width="1032" alt="오더어택 언어확장" src="orderattack_photo/vilage.png at main · leeinsunny/orderattack_photo (github.com)">
+<img width="200" alt="오더어택 언어확장" src="https://github.com/leeinsunny/orderattack_photo/blob/main/vilage.png">
 
 - It aims to help more seniors escape digital alienation ​by changing the learning language of AI models
 
