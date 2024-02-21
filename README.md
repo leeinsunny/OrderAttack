@@ -54,6 +54,18 @@ According to the graph of digital problem-solving proficiency by age in major OE
 
 #### You will practice using the application to book tickets for a movie that is currently playing.
 
+### 🍔 Ordering by Kiosk Step (Practice)
+<table style="width: 40%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%EB%AC%B4%EB%B9%84%20%EC%9B%80%EC%A7%A4.gif" alt="Image 1" style="width: 40%;">
+      <p>Movie Step</p>
+    </td>
+  </tr>
+</table>
+
+#### You will practice using the application to book tickets for a movie that is currently playing.
+
 ### 👛 Get Rewards : Wallet
 
 <table style="width: 100%;">
