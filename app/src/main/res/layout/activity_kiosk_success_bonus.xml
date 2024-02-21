@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/brown"
+    tools:context=".game.kiosk.KioskSuccessBonusActivity">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bonus_success_window"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <!-- 지갑 획득(Step1ClearActivity2) -->
+    <ImageButton
+        android:id="@+id/btn_get_wallet"
+        android:layout_width="240dp"
+        android:layout_height="80dp"
+        android:scaleType="fitXY"
+        android:backgroundTint="@android:color/transparent"
+        android:src="@drawable/getwallet"
+        app:layout_constraintBottom_toBottomOf="@+id/background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="260dp"/>
+
+    <!-- 지도(gameintro)로 돌아가기 -->
+    <ImageButton
+        android:id="@+id/btn_back_to_map"
+        android:layout_width="240dp"
+        android:layout_height="80dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/gotomap"
+        android:backgroundTint="@android:color/transparent"
+        android:layout_marginTop="430dp"
+        app:layout_constraintBottom_toBottomOf="@+id/background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"  />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

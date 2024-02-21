@@ -1,58 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
+    android:background="#FCD4E0"
     tools:context=".game.kiosk.KioskBonusAiActivity">
+
+    <View
+        android:id="@+id/tv_background"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@color/white"
+        android:layout_marginBottom="60dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BONUS STAGE"
+        android:textColor="@color/Hot_pink"
+        android:textStyle="bold"
+        android:textSize="50sp"
+        android:gravity="center"
+        app:layout_constraintStart_toStartOf="@id/tv_background"
+        app:layout_constraintBottom_toBottomOf="@id/tv_background"
+        app:layout_constraintEnd_toEndOf="@id/tv_background"
+        app:layout_constraintTop_toTopOf="@id/tv_background"/>
+
+    <ImageView
+        android:id="@+id/textview"
+        android:layout_width="400dp"
+        android:layout_height="130dp"
+        android:src="@drawable/popup_kiosk_bonus_gallery_help"
+        app:layout_constraintStart_toStartOf="@id/tv_background"
+        app:layout_constraintTop_toBottomOf="@id/tv_background"
+        app:layout_constraintEnd_toEndOf="@+id/tv_background"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"/>
 
 
     <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_gravity="center"
-        android:src="@drawable/gallery" />
+        android:id="@+id/gallery_background"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:src="@drawable/lightpink"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview" />
 
-    <Button
-        android:id="@+id/bonusUploadButton"
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:src="@drawable/gallery"
+        app:layout_constraintStart_toStartOf="@id/gallery_background"
+        app:layout_constraintEnd_toEndOf="@id/gallery_background"
+        app:layout_constraintTop_toTopOf="@id/gallery_background"
+        app:layout_constraintBottom_toBottomOf="@id/gallery_background"/>
+
+    <TextView
+        android:text="사진 업로드"
+        android:id="@+id/textview2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="@id/gallery_background"
+        app:layout_constraintEnd_toEndOf="@id/gallery_background"
+        app:layout_constraintTop_toBottomOf="@id/gallery_background"
+        android:layout_marginTop="10dp"
+        />
+
+    <ImageButton
+        android:id="@+id/bonusUploadButton"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_gravity="center"
-        android:text="Button" />
+        android:src="@drawable/btn_camera"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="@+id/gallery_background"
+        app:layout_constraintEnd_toEndOf="@id/gallery_background"
+        app:layout_constraintTop_toBottomOf="@id/textview2"
+        />
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="204dp"
-        android:layout_weight="1"
-        android:fillViewport="true">
 
-        <FrameLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+    <!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="204dp"-->
+<!--        android:layout_weight="1"-->
+<!--        android:fillViewport="true">-->
 
-            <ProgressBar
-                android:id="@+id/progressBar"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:visibility="gone" />
+<!--        <FrameLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content">-->
 
-            <TextView
-                android:id="@+id/OCRTextView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="TextView"
-                android:visibility="gone"/>
-            <!-- OCR 출력되는 텍스트인데 실제 ui에서 보일 필요는 없을듯. 삭제해도 무방합니다 -->
-        </FrameLayout>
+<!--            <ProgressBar-->
+<!--                android:id="@+id/progressBar"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:visibility="gone" />-->
 
-    </ScrollView>
+<!--        </FrameLayout>-->
+
+<!--    </ScrollView>-->
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="96dp"
+        android:src="@drawable/pinkkiopoint"
+        app:layout_constraintStart_toStartOf="@id/bonusUploadButton"
+        app:layout_constraintTop_toTopOf="@id/bonusUploadButton" />
 
     <TextView
         android:id="@+id/Result_TextView"
         android:layout_width="match_parent"
         android:layout_height="104dp"
-        android:text="TextViewwww" />
-</LinearLayout>
+        android:text="Success"
+        android:visibility="invisible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bonusUploadButton"
+        android:background="@color/white"
+        android:layout_marginTop="40dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

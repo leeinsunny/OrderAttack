@@ -7,9 +7,11 @@
 
     <ImageView
         android:id="@+id/popupBonusBackground"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/popup_bonus_background"
+        android:backgroundTint="@android:color/transparent"
+        android:scaleType="fitXY"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -21,7 +23,7 @@
         android:layout_height="wrap_content"
         android:text="맥도날드"
         android:textStyle="bold"
-        android:textSize="30sp"
+        android:textSize="24sp"
         app:layout_constraintStart_toStartOf="@id/popupBonusBackground"
         app:layout_constraintEnd_toEndOf="@id/popupBonusBackground"
         app:layout_constraintTop_toTopOf="@id/popupBonusBackground"

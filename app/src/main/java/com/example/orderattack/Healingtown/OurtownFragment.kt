@@ -1,14 +1,16 @@
 package com.example.orderattack.Healingtown
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
+import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import com.example.orderattack.R
 import com.example.orderattack.databinding.FragmentOurtownBinding
+
 
 class OurtownFragment : Fragment() {
 
@@ -16,6 +18,7 @@ class OurtownFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
 
     }
 

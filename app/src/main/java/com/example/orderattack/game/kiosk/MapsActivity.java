@@ -6,15 +6,21 @@ import androidx.fragment.app.FragmentActivity;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
+import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.location.Location;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
+import android.widget.ImageButton;
+import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -85,36 +91,59 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap = googleMap;
 
         LatLng gongneung = new LatLng(37.630140656804954, 127.07703483221336);
-        mMap.addMarker(new MarkerOptions().position(gongneung).title("서울과학기술대학교 정문"));
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(gongneung,17));
+
+
+        LatLng macdonald1 = new LatLng(37.62976545168152, 127.07627177238464);
+        mMap.addMarker(new MarkerOptions().position(macdonald1).title("맥도날드 서울과학기술대점"));
+
+        LatLng macdonald2 = new LatLng(37.650804, 127.0759853);
+        mMap.addMarker(new MarkerOptions().position(macdonald2).title("맥도날드 중계점"));
+
+        LatLng lotteria = new LatLng(37.62634747744992, 127.07434326410294);
+        mMap.addMarker(new MarkerOptions().position(lotteria).title("롯데리아 공릉역점"));
+
+        LatLng burgerking = new LatLng(37.62670436464418, 127.07222431898117);
+        mMap.addMarker(new MarkerOptions().position(burgerking).title("롯데리아 공릉역점"));
+
 
         mMap.getUiSettings().setMyLocationButtonEnabled(true);
 
         mMap.setOnMarkerClickListener(marker -> {
             String title = marker.getTitle();
-            Log.d(TAG, "onMapReady: " + title);
-            Toast.makeText(this, title, Toast.LENGTH_SHORT).show();
+            LayoutInflater inflater = (LayoutInflater) getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+            View popupView = inflater.inflate(R.layout.popup_cleak_macdonalds, null);
+            PopupWindow popupWindow = new PopupWindow(popupView,
+                    WindowManager.LayoutParams.WRAP_CONTENT,
+                    WindowManager.LayoutParams.WRAP_CONTENT);
 
-            // 팝업 창에 사용할 커스텀 레이아웃 인플레이트
-            View popupView = LayoutInflater.from(MapsActivity.this).inflate(R.layout.popup_cleak_macdonalds, null);
+            TextView branchNameTextView = popupView.findViewById(R.id.tvMacdonaldTitle);
+            branchNameTextView.setText(title);
 
-            // 인플레이트된 레이아웃에서 TextView 찾기
-            TextView tvMacdonaldsTitle = popupView.findViewById(R.id.tvMacdonaldTitle);
-            // TextView에 마커 타이틀 설정
-            tvMacdonaldsTitle.setText(title);
+            // 이미지 버튼을 찾고 클릭 리스너를 설정
+            ImageButton btnBonusSuccess = popupView.findViewById(R.id.btnBonusSuccess);
+            btnBonusSuccess.setOnClickListener(v -> {
+                // KioskBonusAiActivity로 이동
+                Intent intent = new Intent(this, KioskBonusAiActivity.class);
+                startActivity(intent);
 
-            // AlertDialog.Builder를 사용하여 팝업 창 생성 및 표시
-            AlertDialog.Builder builder = new AlertDialog.Builder(MapsActivity.this);
-            AlertDialog dialog = builder.create();
-            dialog.show();
+                // 팝업 창을 닫음
+                popupWindow.dismiss();
+            });
 
-            return false;
+            popupWindow.setAnimationStyle(android.R.style.Animation_Dialog);
+
+            // 팝업창 위치 설정 변경: 이전에는 팝업창이 항상 화면 중앙에 나타났지만,
+            // 버튼 클릭 리스너 내에서 popupWindow를 참조할 수 있도록 변수 선언 위치를 조정
+            popupWindow.showAtLocation(popupView, Gravity.CENTER, 0, 0);
+
+            return true;
         });
-
 
         getLocationPermission();
 
     }
+
 
     private void getLocationPermission() {
         if (ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
@@ -152,13 +181,14 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(temp, 17));
                 findWithTextSearch(location);
             }
-            // findNearbyMcDonalds();
+            findNearbyMcDonalds();
         }).addOnFailureListener(e -> {
             e.printStackTrace();
             Log.d(TAG, "getDeviceLocationAndNearbyPlaces: " + e.getMessage());
             mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(defaultLocation, DEFAULT_ZOOM));
         });
     }
+
 
     @SuppressLint("MissingPermission")
     private void findNearbyMcDonalds() {
@@ -187,7 +217,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     }
                 }
 
-
             }
         }).addOnFailureListener(e -> {
             e.printStackTrace();
@@ -195,6 +224,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(defaultLocation, DEFAULT_ZOOM));
         });
     }
+
 
     private void findWithTextSearch(Location location) {
         List<Place.Field> placeFields = Arrays.asList(Place.Field.NAME, Place.Field.LAT_LNG);
@@ -225,5 +255,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             }
         });
     }
+
+
 }
 
