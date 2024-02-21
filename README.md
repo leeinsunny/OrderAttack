@@ -37,6 +37,10 @@ According to the graph of digital problem-solving proficiency by age in major OE
       <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%EC%9B%80%EC%A7%A4%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%84%B1%EA%B3%B5.gif" alt="Image 1" style="width: 40%;">
       <p>Kiosk Step</p>
     </td>
+   <td style="text-align: center;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%A9%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B32.gif" alt="Image 1" style="width: 40%;">
+      <p>Kiosk Step</p>
+    </td>
   </tr>
 </table>
 
