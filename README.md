@@ -34,7 +34,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 <table style="width: 40%;">
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/f18cc049-3d45-4e47-a6c3-b8ea249c13c7" alt="Image 1" style="width: 40%;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%EC%9B%80%EC%A7%A4%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%84%B1%EA%B3%B5.gif" alt="Image 1" style="width: 40%;">
       <p>Kiosk Step</p>
     </td>
   </tr>
@@ -46,7 +46,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 <table style="width: 40%;">
   <tr>
     <td style="text-align: center;">
-      <img src="[https://github.com/leeinsunny/orderattack_photo/blob/main/%EB%AC%B4%EB%B9%84%20%EC%9B%80%EC%A7%A4.gif]" alt="Image 1" style="width: 40%;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%EB%AC%B4%EB%B9%84%20%EC%9B%80%EC%A7%A4.gif" alt="Image 1" style="width: 40%;">
       <p>Movie Step</p>
     </td>
   </tr>
