@@ -43,7 +43,8 @@
                 android:id="@+id/OCRTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="TextView" />
+                android:text="TextView"
+                android:visibility="gone"/>
             <!-- OCR 출력되는 텍스트인데 실제 ui에서 보일 필요는 없을듯. 삭제해도 무방합니다 -->
         </FrameLayout>
 

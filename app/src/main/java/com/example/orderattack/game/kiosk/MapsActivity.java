@@ -5,11 +5,17 @@ import androidx.core.content.ContextCompat;
 import androidx.fragment.app.FragmentActivity;
 
 import android.annotation.SuppressLint;
+import android.app.AlertDialog;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.location.Location;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.orderattack.R;
@@ -70,6 +76,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
+
     }
 
 
@@ -87,6 +94,20 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             String title = marker.getTitle();
             Log.d(TAG, "onMapReady: " + title);
             Toast.makeText(this, title, Toast.LENGTH_SHORT).show();
+
+            // 팝업 창에 사용할 커스텀 레이아웃 인플레이트
+            View popupView = LayoutInflater.from(MapsActivity.this).inflate(R.layout.popup_cleak_macdonalds, null);
+
+            // 인플레이트된 레이아웃에서 TextView 찾기
+            TextView tvMacdonaldsTitle = popupView.findViewById(R.id.tvMacdonaldTitle);
+            // TextView에 마커 타이틀 설정
+            tvMacdonaldsTitle.setText(title);
+
+            // AlertDialog.Builder를 사용하여 팝업 창 생성 및 표시
+            AlertDialog.Builder builder = new AlertDialog.Builder(MapsActivity.this);
+            AlertDialog dialog = builder.create();
+            dialog.show();
+
             return false;
         });
 

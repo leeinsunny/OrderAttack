@@ -215,7 +215,7 @@ class MovieStep1Activity : AppCompatActivity(), OnDateClickListener, OnShowtimeC
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_movie_step3)
+        setContentView(R.layout.activity_movie_step1)
 
         initializeOrUpdateDatesList()
 

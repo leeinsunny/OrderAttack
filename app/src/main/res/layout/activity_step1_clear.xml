@@ -9,42 +9,56 @@
     android:background="@color/brown">
 
     <ImageView
-        android:layout_width="match_parent"
+        android:id="@+id/movie1_success_window"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:src="@drawable/movie1_success_window"
-        />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <!-- 지갑 획득(Step1ClearActivity2) -->
-    <Button
+    <ImageButton
         android:id="@+id/btn_get_wallet"
         android:layout_width="170dp"
         android:layout_height="45dp"
         android:backgroundTint="@android:color/transparent"
-        android:layout_marginTop="500dp"
-        android:layout_marginStart="120dp"
+        android:src="@drawable/getwallet"
+        app:layout_constraintBottom_toBottomOf="@+id/movie1_success_window"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="220dp"/>
 
     <!-- 다시 연습(MovieStep1Activity) -->
-    <Button
+    <ImageButton
         android:id="@+id/btn_back_to_practice"
         android:layout_width="170dp"
         android:layout_height="45dp"
         android:backgroundTint="@android:color/transparent"
-        android:layout_marginTop="550dp"
-        android:layout_marginStart="120dp"
+        android:src="@drawable/retry"
+        app:layout_constraintBottom_toBottomOf="@+id/movie1_success_window"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="350dp"/>
 
     <!-- 지도(gameintro)로 돌아가기 -->
-    <Button
+    <ImageButton
         android:id="@+id/btn_back_to_map"
         android:layout_width="170dp"
         android:layout_height="45dp"
+        android:src="@drawable/gotomap"
         android:backgroundTint="@android:color/transparent"
-        android:layout_marginTop="620dp"
-        android:layout_marginStart="120dp"
+        android:layout_marginTop="480dp"
+        app:layout_constraintBottom_toBottomOf="@+id/movie1_success_window"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent"  />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

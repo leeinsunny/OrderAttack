@@ -8,29 +8,36 @@
     tools:context=".game.movie.Step1ClearActivity2">
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/movie1_success_window2"/>
+        android:id="@+id/step1Clear2"
+        android:layout_width="400dp"
+        android:layout_height="800dp"
+        android:src="@drawable/walletgetmovie1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
+    <ImageButton
         android:id="@+id/btn_equip_wallet"
         android:layout_width="170dp"
         android:layout_height="45dp"
         android:backgroundTint="@android:color/transparent"
-        android:layout_marginTop="420dp"
-        android:layout_marginStart="120dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        android:src="@drawable/setwallet"
+        android:layout_marginTop="75dp"
+        app:layout_constraintBottom_toBottomOf="@id/step1Clear2"
+        app:layout_constraintEnd_toEndOf="@id/step1Clear2"
+        app:layout_constraintStart_toStartOf="@id/step1Clear2"
+        app:layout_constraintTop_toTopOf="@id/step1Clear2" />
 
-    <Button
+    <ImageButton
         android:id="@+id/btn_back"
         android:layout_width="50dp"
         android:layout_height="35dp"
         android:backgroundTint="@android:color/transparent"
-        android:layout_marginTop="670dp"
-        android:layout_marginStart="120dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        android:src="@drawable/back"
+        android:layout_marginTop="200dp"
+        app:layout_constraintTop_toBottomOf="@id/btn_equip_wallet"
+        app:layout_constraintStart_toStartOf="@id/btn_equip_wallet"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

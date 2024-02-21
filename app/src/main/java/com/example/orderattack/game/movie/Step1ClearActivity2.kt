@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.ImageButton
 import androidx.appcompat.app.AlertDialog
 import com.example.orderattack.R
 
@@ -13,7 +14,7 @@ class Step1ClearActivity2 : AppCompatActivity() {
         setContentView(R.layout.activity_step1_clear2)
 
         // 지갑 장착 버튼
-        findViewById<Button>(R.id.btn_equip_wallet).setOnClickListener {
+        findViewById<ImageButton>(R.id.btn_equip_wallet).setOnClickListener {
             val builder = AlertDialog.Builder(this)
 
             val inflater = layoutInflater
@@ -28,7 +29,7 @@ class Step1ClearActivity2 : AppCompatActivity() {
 
 
         // 뒤로가기
-        findViewById<Button>(R.id.btn_back).setOnClickListener {
+        findViewById<ImageButton>(R.id.btn_back).setOnClickListener {
             val intent = Intent(this, Step1ClearActivity::class.java)
             startActivity(intent)
         }

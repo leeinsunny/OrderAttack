@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ImageView
+        android:id="@+id/popupBonusBackground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/popup_bonus_background"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <TextView
+        android:id="@+id/tvMacdonaldTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="맥도날드"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="@id/popupBonusBackground"
+        app:layout_constraintEnd_toEndOf="@id/popupBonusBackground"
+        app:layout_constraintTop_toTopOf="@id/popupBonusBackground"
+        app:layout_constraintBottom_toBottomOf="@id/popupBonusBackground"
+        android:layout_marginBottom="130dp" />
+
+    <ImageButton
+        android:id="@+id/btnBonusSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/btn_bonus_success"
+        android:backgroundTint="@android:color/transparent"
+        app:layout_constraintStart_toStartOf="@id/popupBonusBackground"
+        app:layout_constraintEnd_toEndOf="@id/popupBonusBackground"
+        app:layout_constraintTop_toTopOf="@id/popupBonusBackground"
+        app:layout_constraintBottom_toBottomOf="@id/popupBonusBackground"
+        android:layout_marginTop="120dp" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

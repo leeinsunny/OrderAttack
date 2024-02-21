@@ -126,7 +126,7 @@
             android:exported="false" />
         <activity
             android:name=".game.movie.MovieStep1Activity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".game.movie.MovieStep2Activity"
             android:exported="false" />
@@ -162,10 +162,10 @@
             android:exported="true" />
         <activity
             android:name=".game.movie.Step1ClearActivity"
-            android:exported="true" />
+            android:exported="false" />
         <activity
             android:name=".game.movie.Step1ClearActivity2"
-            android:exported="true" />
+            android:exported="false" />
         <activity
             android:name=".game.movie.ReserveActivity"
             android:exported="true" />
@@ -209,7 +209,7 @@
             android:label="@string/title_activity_maps" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBZG6Tg8sHUxu18NsVBxqs47TE7FH7wGnA" />
+            android:value="AIzaSyC7koWeQEerEL4_Zb3XN9aHlrokm2XS7hY" />
     </application>
 
 </manifest>

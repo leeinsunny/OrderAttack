@@ -59,7 +59,7 @@ public class KioskBonusAiActivity extends AppCompatActivity {
 
         initOCR();
 
-            // 버튼 클릭 시 이미지 가져오기
+        // 버튼 클릭 시 이미지 가져오기
         StorageReference photoRef = storage.getReference("m1.jpg");
         File localFile = new File(getFilesDir(), "m1.jpg");
         binding.bonusUploadButton.setOnClickListener(v -> {
@@ -112,6 +112,7 @@ public class KioskBonusAiActivity extends AppCompatActivity {
         }
 
         // 문자 인식 및 결과 출력
+
     public void processImage(Bitmap bitmap, ResultListener resultListener) {
         Toast.makeText(getApplicationContext(), "이미지가 복잡할 경우 해석 시 많은 시간이 소요될 수도 있습니다.", Toast.LENGTH_LONG).show();
         new Thread(() -> {

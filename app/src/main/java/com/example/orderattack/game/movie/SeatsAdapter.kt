@@ -56,7 +56,7 @@ class SeatsAdapter(private val context: Context, private val seats: List<Seat>, 
                 }
             }
 
-            itemView.setOnClickListener {
+            seatButton.setOnClickListener {
                 if (seat.isAvailable) onSeatClick(seat)
             }
         }
