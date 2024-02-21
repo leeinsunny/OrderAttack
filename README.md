@@ -1,5 +1,5 @@
  # <p align="center"> 🎮OrderAttack🎮 </p>
- ##  <p align="center"> 🔔 Introduction </p>
+ ##  <p align="center"> 🔔 1.Introduction 🔔  </p>
 ##### In Korea, recently, seniors aged 50 and above have been facing difficulties in using digital devices for placing orders. This digital alienation is leading to an information gap, which we define as an inequality. Our team has planned and developed an IT ordering practice app specifically designed for Korean seniors to address this issue.
 
 ### 💡Motivation
@@ -27,7 +27,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 
 ---
 
-## <p align="center"> 🔔 Explanation of "OrderAttack" </p>
+## <p align="center"> 🔔 2. Explanation of "OrderAttack" 🔔  </p>
 ### 🍔 Ordering by Kiosk Step
 <table style="width: 40%;">
   <tr>
@@ -74,7 +74,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 #### As you progress through each level, you'll be able to change your wallet as a reward for your skills. Build your wallet with a sense of accomplishment.
 ---
 
-## <p align="center"> 🔔 Architecture </p>
+## <p align="center"> 🔔 3. Architecture 🔔  </p>
 <img width="1032" alt="오더어택 아키텍쳐" src="https://github.com/leeinsunny/orderattack_photo/blob/main/architecture%20(1).png">
 
  - FrontEnd
@@ -90,6 +90,11 @@ According to the graph of digital problem-solving proficiency by age in major OE
    - Google Bert recognizes the text that Tesseract has replaced.
 
 ---
-
+## <p align="center"> 🔔 4. Execution Method 🔔  </p>
+### For Android User
+1. You can download language file => [Click Here!](https://drive.google.com/file/d/1vmn5PTXRt147OB2GA3CgqgqTOmZucqq-/view?usp=sharing)
+2. Android AVD size=1440*3040
+3. You have to give permission for INTERNET & Location
+---
 
 
