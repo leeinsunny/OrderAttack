@@ -1,4 +1,6 @@
  # <p align="center"> 🎮OrderAttack🎮 </p>
+ ---
+ 
  ## <p align="center"> 🔔 1.Introduction 🔔  </p>
 ##### In Korea, recently, seniors aged 50 and above have been facing difficulties in using digital devices for placing orders. This digital alienation is leading to an information gap, which we define as an inequality. Our team has planned and developed an IT ordering practice app specifically designed for Korean seniors to address this issue.
 
