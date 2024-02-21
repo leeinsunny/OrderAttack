@@ -82,13 +82,12 @@ According to the graph of digital problem-solving proficiency by age in major OE
    - The Google Maps platform was used to utilize the map API.
 
  - BackEnd
-    -  Firebase was used for app data storage and management.
+    - Firebase was used for app data storage and management.
     - Google login was facilitated through the use of Authentication.
-    - Firestore was used to manage user and other data.
-      
-- AI Model
-  -Tesseract replaces letters with text in photos taken from the gallery  
-  - Google Bert recognizes the text that Tesseract has replaced.
+    - Firestore was used to manage user and other data.      
+ - AI Model
+   - Tesseract replaces letters with text in photos taken from the gallery  
+   - Google Bert recognizes the text that Tesseract has replaced.
 
 ---
 
