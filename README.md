@@ -54,7 +54,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 
 #### You will practice using the application to book tickets for a movie that is currently playing.
 
-### 🍔 Ordering by Kiosk Step (Bonus Stage)
+### 🍔 Ordering by Kiosk Step(Bonus Stage)
 <table style="width: 40%;">
   <tr>
     <td style="text-align: center;">
