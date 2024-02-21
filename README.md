@@ -72,9 +72,25 @@ According to the graph of digital problem-solving proficiency by age in major OE
 </table>
 
 #### As you progress through each level, you'll be able to change your wallet as a reward for your skills. Build your wallet with a sense of accomplishment.
+---
 
+## <p align="center"> 🔔 Architecture </p>
+<img width="1032" alt="오더어택 아키텍쳐" src="https://github.com/leeinsunny/orderattack_photo/blob/main/architecture%20(1).png">
 
-## 🔔 Architecture
+ - FrontEnd
+   - The app was developed using  Android Studio, Kortlin, and Pigma.
+   - The Google Maps platform was used to utilize the map API.
+
+ - BackEnd
+    -  Firebase was used for app data storage and management.
+    - Google login was facilitated through the use of Authentication.
+    - Firestore was used to manage user and other data.
+      
+- AI Model
+  -Tesseract replaces letters with text in photos taken from the gallery  
+  - Google Bert recognizes the text that Tesseract has replaced.
+
+---
 
 
 
