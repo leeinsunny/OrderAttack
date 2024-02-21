@@ -77,24 +77,25 @@ According to the graph of digital problem-solving proficiency by age in major OE
 ## <p align="center"> 🔔 3. Architecture 🔔  </p>
 <img width="1032" alt="오더어택 아키텍쳐" src="https://github.com/leeinsunny/orderattack_photo/blob/main/architecture%20(1).png">
 
- - FrontEnd
+ - 📱 FrontEnd
    - The app was developed using  Android Studio, Kortlin, and Pigma.
    - The Google Maps platform was used to utilize the map API.
 
- - BackEnd
+ - 💻 BackEnd
     - Firebase was used for app data storage and management.
     - Google login was facilitated through the use of Authentication.
     - Firestore was used to manage user and other data.      
- - AI Model
+ - 🧠 AI Model
    - Tesseract replaces letters with text in photos taken from the gallery  
    - Google Bert recognizes the text that Tesseract has replaced.
 
 ---
 ## <p align="center"> 🔔 4. Execution Method 🔔  </p>
 ### For Android User
-1. You can download language file => [Click Here!](https://drive.google.com/file/d/1vmn5PTXRt147OB2GA3CgqgqTOmZucqq-/view?usp=sharing)
-2. Android AVD size=1440*3040
-3. You have to give permission for INTERNET & Location
+#### 📌 You can download language file => [Click Here!](https://drive.google.com/file/d/1vmn5PTXRt147OB2GA3CgqgqTOmZucqq-/view?usp=sharing)
+#### 📌 Android AVD size=1440*3040
+#### 📌 You have to give permission for INTERNET & Location
+
 ---
 
 
