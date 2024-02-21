@@ -60,6 +60,8 @@ According to the graph of digital problem-solving proficiency by age in major OE
     <td style="text-align: center;">
       <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B31.gif" alt="Image 1" style="width: 40%;">
       <p>Bonus stage</p>
+     </td>
+     <td style="text-align: center;">
      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B32.gif" alt="Image 1" style="width: 40%;">
       <p>Bonus stage</p>
     </td>
