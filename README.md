@@ -55,14 +55,14 @@ According to the graph of digital problem-solving proficiency by age in major OE
 #### You will practice using the application to book tickets for a movie that is currently playing.
 
 ### 🍔 Bonus Stage
-<table style="width: 40%;">
+<table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B31.gif" alt="Image 1" style="width: 40%;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B31.gif" alt="Image 1" style="width: 100%;">
       <p>Bonus stage</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B32.gif" alt="Image 1" style="width: 40%;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B32.gif" alt="Image 1" style="width: 100%;">
       <p>Bonus stage</p>
     </td>
   </tr>
