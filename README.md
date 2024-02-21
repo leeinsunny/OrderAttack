@@ -1,5 +1,5 @@
  # <p align="center"> 🎮OrderAttack🎮 </p>
- ##  <p align="center"> 🔔 1.Introduction 🔔  </p>
+ ## <p align="center"> 🔔 1.Introduction 🔔  </p>
 ##### In Korea, recently, seniors aged 50 and above have been facing difficulties in using digital devices for placing orders. This digital alienation is leading to an information gap, which we define as an inequality. Our team has planned and developed an IT ordering practice app specifically designed for Korean seniors to address this issue.
 
 ### 💡Motivation
@@ -120,7 +120,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 - Here, seniors can create and participate in the club they want.​
 - This allows seniors to meet offline.
   
-<img width="332" alt="오더어택 채팅" src="https://github.com/leeinsunny/orderattack_photo/blob/main/chat.png">
+<img width="200" alt="오더어택 채팅" src="https://github.com/leeinsunny/orderattack_photo/blob/main/chat.png">
 
 - A community page will further engage users, enabling real-time posts and interactions, powered by Firebase’s scalable infrastructure
 
@@ -130,7 +130,13 @@ According to the graph of digital problem-solving proficiency by age in major OE
 - It aims to help more seniors escape digital alienation ​by changing the learning language of AI models
 
 
-​
+---
+
+## <p align="center"> 🔔 6. Member 🔔  </p>
+
+| [<img src="https://avatars.githubusercontent.com/u/105425832?v=4">](https://github.com/leeinsunny) |[<img src="https://avatars.githubusercontent.com/u/98581610?v=4">](https://github.com/uykm) | [<img src="https://avatars.githubusercontent.com/u/143007050?v=4">](https://github.com/sally7788) | [<img src="https://avatars.githubusercontent.com/u/136828827?v=4">](https://github.com/Hz2314) |
+|:---:|:---:|:---:|:---:
+이인선|신민규|강연주|박현정
 
 
 
