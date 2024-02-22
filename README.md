@@ -1,5 +1,5 @@
  # <p align="center"> 🎮OrderAttack🎮 </p>
- <img width="1032" alt="오더어택 로고" src=" https://github.com/leeinsunny/orderattack_photo/blob/main/OrderAttack.png">
+ <p align="center"><img width="532" alt="오더어택 로고" src="https://github.com/leeinsunny/orderattack_photo/blob/main/OrderAttack.png"/></p>
 
  ---
  
