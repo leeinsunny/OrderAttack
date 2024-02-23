@@ -99,11 +99,11 @@ According to the graph of digital problem-solving proficiency by age in major OE
       <p>Wallet in Kiosk 1st step</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%A7%80%EA%B0%91%20%EB%8B%A4%EC%8B%9C%20%EC%97%B0%EC%8A%B5%20%EC%9B%80%EC%A7%A4.gif"alt="Image 1" style="width: 100%;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%EC%9B%80%EC%A7%A4%20%EB%AC%B4%EB%B9%84%20%EC%A7%80%EA%B0%91%20%ED%9A%8D%EB%93%9D.gif"alt="Image 1" style="width: 100%;">
       <p>Wallet in Movie 1st step</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%20%EC%A7%80%EB%8F%84%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0%20%EC%9B%80%EC%A7%A4.gif" alt="Image 1" style="width: 100%;">
+      <img src="https://github.com/leeinsunny/orderattack_photo/blob/main/%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B31.gif" alt="Image 1" style="width: 100%;">
       <p>Wallet in Kiosk Bonus step</p>
     </td>
   </tr>
@@ -178,9 +178,11 @@ According to the graph of digital problem-solving proficiency by age in major OE
 
 ---
 
-## <p align="center"> 🔔 7. Material 🔔  </p>
-📌 You can download our solution's presentation material => [Click Here!]("링크")
+## <p align="center"> 🔔 7. Youtube & Material 🔔  </p>
+📌 You can see our solution's presentation => [Click Here!](https://youtu.be/d3jnIkHnQaE?si=BAbnH9W2WJpt7Ij)
 
+
+📌 You can download our solution's presentation material => [Click Here!]("링크")
 
 
 
