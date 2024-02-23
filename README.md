@@ -252,7 +252,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
             <p>15</p>
         </td>
         <td style="text-align: center;"> 
-            <img src="https://github.com/leeinsunny/OrderAttack/blob/main/3.png" alt="Image 12" style="width: 100%;">
+            
             <p></p>
         </td>
     </tr>
