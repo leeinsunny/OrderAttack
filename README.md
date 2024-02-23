@@ -113,7 +113,7 @@ According to the graph of digital problem-solving proficiency by age in major OE
 ---
 
 ## <p align="center"> 🔔 3. Architecture 🔔  </p>
-<img width="1032" alt="오더어택 아키텍쳐" src="https://github.com/leeinsunny/orderattack_photo/blob/main/architecture%20(1).png">
+<img width="1032" alt="오더어택 아키텍쳐" src="https://github.com/leeinsunny/orderattack_photo/blob/main/real_architecture.png">
 
  - 📱 FrontEnd
    - The app was developed using  Android Studio, Kortlin, and Pigma.
