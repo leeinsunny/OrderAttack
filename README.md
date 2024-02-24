@@ -21,7 +21,7 @@ Since it is not just a problem in Korea, we decided that it could be helpful to 
   The lack of information on how to book movies through mobile applications causes seniors to be unable to book the desired seats or to give up watching popular movies. This shows the phenomenon of depriving seniors of cultural opportunity just because they are inexperienced in using digital devices.
   
 ### 💡Goal
-<img width="150" alt="target" src="https://github.com/leeinsunny/OrderAttack/blob/main/3.png"><img width="150" alt="target" src="https://github.com/leeinsunny/OrderAttack/blob/main/4.png"><img width="150" alt="target" src="https://github.com/leeinsunny/OrderAttack/blob/main/10.png">
+<img width="150" alt="target" src="https://github.com/leeinsunny/orderattack_photo/blob/main/3.png"><img width="150" alt="target" src="https://github.com/leeinsunny/orderattack_photo/blob/main/4.png"><img width="150" alt="target" src="https://github.com/leeinsunny/orderattack_photo/blob/main/10.png">
   <br> We planned a solution using smartphone applications to solve these problems and reduce the seniors' fear of using digital devices. This solution allows seniors to learn and practice functions such as kiosk ordering, movie booking, and bus reservation, and we introduced a reward system to increase their accomplishment  with these exercises.
 
 
